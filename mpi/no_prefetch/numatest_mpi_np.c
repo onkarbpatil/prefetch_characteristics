@@ -321,7 +321,6 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 		else{
 			sort_list(node_bw);
 		}*/
-		}
 		if(rank == 0)
 		{
 			printf("%d %d-%d %d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n\n", i, wr_only_avg/10, owfr_avg/10, str_avg/10, rand_avg/10, l2cache_avg/10, t_sten_avg/10, f_sten_avg/10, s_sten_avg/10, n_sten_avg/10, t7_sten_avg/10);
