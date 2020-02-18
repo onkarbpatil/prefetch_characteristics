@@ -1,0 +1,8 @@
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
