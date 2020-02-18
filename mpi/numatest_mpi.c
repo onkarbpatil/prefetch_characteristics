@@ -93,7 +93,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
 wr_dist = 256/sizeof(double);
 while(wr_dist < 32768){
-	rd_dist = 256;
+	rd_dist = 256/sizeof(double);
 		while(rd_dist < 32768){
 				unroll = 4;
 				while(unroll < 128){
@@ -1154,7 +1154,7 @@ out77777:
 		}
 		if(rank == 0)
 		{
-			printf("%d %d-%d %d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n", procs, wr_dist, rd_dist, unroll, wr_only_avg/10, owfr_avg/10, str_avg/10, rand_avg/10, l2cache_avg/10, t_sten_avg/10, f_sten_avg/10, s_sten_avg/10, n_sten_avg/10, t7_sten_avg/10);
+			printf("%d %d-%d %d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n", procs, wr_dist*sizeof(double), rd_dist*sizeof(double), unroll, wr_only_avg/10, owfr_avg/10, str_avg/10, rand_avg/10, l2cache_avg/10, t_sten_avg/10, f_sten_avg/10, s_sten_avg/10, n_sten_avg/10, t7_sten_avg/10);
 		}
 				unroll*=2;
 				}

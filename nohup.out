@@ -1,0 +1,26 @@
+make: Warning: File 'numatest_mpi' has modification time 58 s in the future
+make: 'numatest_mpi' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
+make: Warning: File 'numatest_mpi.c' has modification time 383 s in the future
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+numatest_mpi.c: In function ‘numatest’:
+numatest_mpi.c:64:12: warning: implicit declaration of function ‘omp_get_num_threads’ [-Wimplicit-function-declaration]
+     numt = omp_get_num_threads();
+            ^~~~~~~~~~~~~~~~~~~
+make: warning:  Clock skew detected.  Your build may be incomplete.
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
+make: Warning: File 'numatest_mpi.c' has modification time 391 s in the future
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+numatest_mpi.c: In function ‘numatest’:
+numatest_mpi.c:64:12: warning: implicit declaration of function ‘omp_get_num_threads’ [-Wimplicit-function-declaration]
+     numt = omp_get_num_threads();
+            ^~~~~~~~~~~~~~~~~~~
+make: warning:  Clock skew detected.  Your build may be incomplete.
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
