@@ -58,12 +58,6 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 	for(i=0; i< size/sizeof(double); i++)
 		rand_tab[i]=rand()%(size/sizeof(double));
 
-//#ifdef _OPENMP
-//#pragma omp parallel private(numt)
-    {
-    numt = omp_get_num_threads();
-    }
-//#endif
   	i = 0;
 	while(i < total_numa_nodes){
 wr_dist = 256/sizeof(double);
