@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
 cd mpi
-sh test_mm-sonata.sh
+sh test_fornow.sh
 cd no_prefetch
-sh test_mm-sonata.sh
+sh test_fornow.sh
