@@ -1,0 +1,1543 @@
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+72 32-32 4 15162.0368842471 31191.2662479433 14779.7559123630 6026.3633571360 14311.0398247568 59008.9335034703 85853.8658507877 110695.6233660557 144545.0511356978 324771.2746759801
+72 32-32 8 15123.7845024661 32354.0154369332 15876.8828243994 6027.1067663603 14346.2586273174 59846.2440623043 88123.7586009141 114561.9177265332 149036.8904104709 329488.9605244199
+72 32-32 16 15114.6975458302 33520.2522992862 16246.6906755131 6028.6652135318 28499.2617675564 61624.1039210063 89997.0528170590 117520.0923734630 151123.0942598744 347465.4984931191
+72 32-32 32 15087.6208179438 33833.1710722718 16414.1758767653 6029.5748074132 60482.1752619391 63282.6565396169 91488.2023276842 118898.6391252109 152167.4412113661 346756.0031140672
+72 32-32 64 15109.9226497728 33897.3504310433 16498.8284278618 6030.4739342804 118859.5638490571 63665.8825342815 91999.4325089370 119368.8040836872 152963.2424854727 347714.9219309073
+72 32-64 4 15137.1730409598 29359.5885051119 14324.8565885178 6022.8014036013 13956.4450431020 58973.7739608102 85803.0272945244 110646.3435835071 144429.9545780940 324593.0206751186
+72 32-64 8 15131.0103065507 27354.0658192474 15633.9555519247 6027.8310184475 14036.7838673532 59838.4769941758 88129.9759888307 114545.1869257493 149028.5512645580 329408.9120836290
+72 32-64 16 15116.8982416861 33355.9566188493 16139.2369700277 6028.8524388415 28350.5860515171 61614.7926264658 89989.7576273505 117548.1746736417 151077.0599168568 347432.4737427584
+72 32-64 32 15086.9148213327 33758.0361194193 16378.4001823898 6029.7497537037 60318.8530906693 63266.2367124647 91484.4457381197 118913.5367307838 152164.0425586957 346698.7581013574
+72 32-64 64 15103.6799173158 33841.5633281327 16477.0206084747 6030.0743888353 118603.9575792224 63631.3641464767 91977.1468222049 119358.7706896916 152894.6806349820 347977.4859587575
+72 32-128 4 15158.0695436043 23569.8478412635 12753.1439893925 6028.3855068024 13799.4103756638 59015.3608441235 85810.0310525965 110669.9015155664 144506.4610505331 324435.2775500592
+72 32-128 8 15119.9483802542 23477.4272560754 14909.3222286086 6027.1959452212 14145.7598478233 59839.0530667939 88088.4771405433 114545.9948896429 149010.4415206761 329580.8392829060
+72 32-128 16 15117.2590334797 31280.6925821560 15836.0110814694 6026.9234962097 28219.4419932062 61634.1725877697 89991.3146651378 117547.0995281294 151158.8470705623 347570.5467335941
+72 32-128 32 15103.1775869563 33316.2651678880 16258.1760148001 6028.6316506043 60071.0897835365 63271.3851091708 91485.2622792550 118888.0691031107 152161.0606324537 346695.7461724339
+72 32-128 64 15095.6364106041 33774.7814717268 16464.6870932736 6030.0921836323 118406.0958102661 63628.6890673132 91981.0517589166 119365.3051962504 152927.9121694381 347654.5907635114
+72 32-256 4 15176.5144784547 23585.3175146126 11072.7070340918 6022.4095747202 14180.1072679506 59034.4606128246 85835.6090258956 110683.5874097423 144491.1703989049 324603.7871662185
+72 32-256 8 15124.5020054031 23578.7472997617 13685.8773265537 6023.6910023845 14297.3076347870 59857.1778237192 88106.0297265094 114554.4174802459 148995.5341576662 329297.4668340579
+72 32-256 16 15120.3560177830 30984.2873906324 15313.5244024555 6021.7358035756 27380.9654676863 61628.3969548674 89989.3334321986 117504.4145852114 151100.7616255743 346967.1638551954
+72 32-256 32 15085.6893076602 32830.4733682529 15999.0966145053 6026.3564374855 54314.0732326275 63264.8220592832 91472.4164031623 118872.9919958546 152169.4524920401 346681.0773013525
+72 32-256 64 15099.9397538025 33680.6033067930 16312.4627147075 6028.7096655581 103930.8518232128 63642.9325167212 91988.5320121597 119412.4793177930 152934.6067774730 347767.2534178250
+72 32-512 4 15153.2003769462 23536.5915410186 10730.8200689377 6015.2431062623 13104.6112196914 59035.2605433731 85808.7084872437 110701.8854232219 144437.6467832449 324755.3747790636
+72 32-512 8 15132.1758853422 23536.5670308008 13411.6077608580 6015.0526023469 12944.6204403109 59858.6783710722 88106.0262326884 114521.9267494144 149020.4879136173 329493.1717839320
+72 32-512 16 15109.9798334029 30751.2413349910 14917.2404040149 6014.4080326606 26536.1173479486 61625.8578724558 89991.5631199061 117521.8783426908 151083.0130578907 347484.0023819655
+72 32-512 32 15115.4932454569 32598.8153331859 15769.2582421100 6022.6344792141 54764.9624148214 63284.7800999392 91484.5329661379 118903.5620664960 152146.9914594375 346512.1660652362
+72 32-512 64 15103.2383876746 33296.8663534353 16189.1494980629 6026.9302361605 105727.0577256736 63649.7032150502 91984.7765438464 119375.0256472003 152933.7371927914 347554.6252061603
+72 32-1024 4 15156.4437758575 23261.8205260845 10152.3952814806 6008.4217050121 12938.2706688444 59044.0109760582 85767.8714036513 110652.8662604885 144554.5235837668 324749.4986686438
+72 32-1024 8 15117.2835444055 23265.9495123745 12866.1976749573 6008.6791771326 12898.3762682696 59851.1490849722 88101.9767061375 114565.4606374906 149041.6157997157 329544.2499763012
+72 32-1024 16 15096.0576844795 29999.7155624945 14707.4404717615 6008.6331596059 26533.3586596862 61613.4022821411 89976.2376189418 117527.3429344068 151036.5968408798 347390.1006535352
+72 32-1024 32 15110.1255635388 31938.0945906882 15495.6622343786 6019.6043847597 55054.0912320844 63268.0175044926 91471.4395273514 118879.6325508563 152142.7748556440 346535.7370939871
+72 32-1024 64 15110.9659680679 32796.1646558654 15972.9736856597 6024.9000555760 106381.1447303027 63636.5514367673 91978.4197388687 119312.5135286007 152881.1613947995 347869.9905128349
+72 32-2048 4 15156.4243850479 22500.6617282668 9405.7703083404 6005.7717159027 12914.5807703866 59029.8953178438 85798.7228247117 110674.0546969042 144468.1329675830 324426.4201649754
+72 32-2048 8 15127.4556282899 22516.9951772732 11815.5221446034 6006.3240270035 12899.6204385974 59851.0135279005 88111.9872692606 114566.9357522788 149008.1800491728 329553.8791051287
+72 32-2048 16 15121.3583846568 28979.3748570837 13712.5943650652 6008.6731226297 26474.9562875845 61607.8389417796 89966.5107480203 117534.1714688238 151124.6348060926 347492.9823882067
+72 32-2048 32 15102.0186724501 30591.4924559024 15137.8217413184 6019.6431671751 55069.1583614011 63258.3300767103 91492.0676773213 118904.5711021568 152163.6227476005 346332.2629959220
+72 32-2048 64 15096.4955132207 31560.4023791809 15675.0245021183 6024.8581128018 106501.1445326575 63629.2283481395 91975.5732527179 119392.7051375191 152898.1468872628 347881.4002121939
+72 32-4096 4 15165.1321783275 21572.3378017536 9246.8947393546 6006.9500817812 12738.8240022405 59058.7599149903 85842.2541053653 110672.3629111282 144500.1573656292 324685.0095212470
+72 32-4096 8 15139.0445273738 21602.9053922188 11617.4301669734 6006.7453900340 12857.0035677585 59878.4142022611 88121.2329577078 114536.3642572633 149037.9124307211 329673.3011535493
+72 32-4096 16 15118.6268368898 28180.0712668681 14022.6459774784 6007.7348273508 26491.0477702119 61603.1086254745 89979.3661222905 117528.1992746372 150954.2071920625 347480.3943505932
+72 32-4096 32 15108.9713684788 29852.3157612568 15187.0184887440 6019.3892808968 55108.3404530576 63271.8137818398 91453.6448717728 118892.4167685320 152136.0794031266 346250.8915078758
+72 32-4096 64 15110.2278019830 31051.7733915117 15897.6042752802 6024.8803913405 106540.8846444252 63640.3148157768 91965.1199951281 119361.7525202140 152930.1325684392 347787.2233640987
+72 32-8192 4 15160.0210509877 20995.6589316189 9491.0021488162 6005.4980239429 12798.3503224012 59042.6513080727 85816.5148343042 110682.5710325806 144470.4976613015 324696.1925668893
+72 32-8192 8 15116.7836943166 20989.4605597892 11658.3242561944 6008.9739189895 12927.7357471167 59843.5490837647 88057.2531393326 114522.7751894991 149039.3384012544 329750.2558669009
+72 32-8192 16 15126.3571989083 28058.7785728895 13872.4007362429 6008.4279042577 26503.4351566640 61624.8412435189 89993.7045519884 117518.1745406039 151112.9182558571 347576.1962788665
+72 32-8192 32 15101.7235059994 29679.9525518882 15167.2455064119 6019.6289873842 55231.1496089245 63275.4093915884 91494.3297003028 118881.1015109387 152207.5858784787 346681.9419549675
+72 32-8192 64 15109.5970235034 31024.3325380458 15864.1258852271 6025.3778377617 106748.9954755220 63653.4646879876 91977.6167042937 119371.9187611975 152859.7634764330 347906.4916408561
+72 32-16384 4 15165.3767941141 21152.1601992678 9588.1005618764 6005.2684640188 12771.9754963890 59041.9579636408 85857.8666278905 110640.9686280528 144532.7406715729 324546.3355545945
+72 32-16384 8 15141.8370917176 21163.7835081194 11757.5147723080 6008.6171300802 12928.2208171151 59842.3923710933 88100.6350588449 114570.4789519208 149052.2640976185 329341.6248745099
+72 32-16384 16 15116.8949232371 28116.9012222204 13933.7018721495 6007.8972796396 26477.1870820761 61628.5083452201 89957.5531045244 117524.6850390982 151118.6652446193 347342.5444502658
+72 32-16384 32 15105.9865964168 29711.7528626940 15170.9326248797 6019.2980356099 55070.8116815601 63263.0533245622 91442.2113040274 118854.9245820009 152131.3353526278 346551.8475127930
+72 32-16384 64 15097.0765079535 31047.4289435287 15864.7498363179 6025.4472090766 106514.0735176544 63646.2523552887 91992.0304507687 119362.9529311166 152918.5672753686 347579.4576563425
+72 64-32 4 15154.1027977614 30772.5249841766 14625.4972202769 6023.9816181982 13977.5953303915 60272.2156559116 85770.5116633018 110680.6505519642 144400.4033008310 324557.9483280266
+72 64-32 8 15151.8406593958 32243.4991972108 15766.4444574345 6027.5605667695 13984.0169904437 61199.1324131565 88101.7014557214 114527.3646007761 149014.1555295278 329411.8301134312
+72 64-32 16 15128.1835634518 33559.0418834862 16204.9052041676 6028.2422585340 27522.0788441963 62913.2865635043 89978.9691783993 117513.1140856790 151095.3391716130 347131.8124896485
+72 64-32 32 15112.4478382806 33828.5230144985 16399.1869188974 6029.3905313711 58725.9858687359 64079.6413643152 91473.1936010141 118849.5279515563 152045.4981787019 346518.1673570743
+72 64-32 64 15114.4708766293 33901.8683735535 16491.4856704144 6030.2178563748 116413.4950258924 64431.3477658272 92002.2617231074 119356.7727194303 152901.3361920258 347889.0919673895
+72 64-64 4 15151.9192351225 29448.1461998232 14234.2700725345 6027.1331494270 13662.8552471696 60309.3426997687 85828.6525450729 110691.7577771203 144506.1563159408 324706.4215267646
+72 64-64 8 15154.7731651617 27207.2972397882 15556.8302760985 6026.8987338961 13687.4005722456 61191.2167283080 88113.9058583951 114538.2334129298 149000.9931294539 329616.4236468195
+72 64-64 16 15146.2162617368 33328.4890272040 16103.0983289998 6028.7852326118 27373.2111181483 62933.3930986916 89999.4280484232 117533.0848078408 151008.8836192237 347289.9810859502
+72 64-64 32 15124.6603212124 33752.7938826744 16366.7765831230 6029.4964965428 58550.9252329689 64091.9282197271 91477.6343236583 118908.4632140028 152191.3297484511 346698.0433784489
+72 64-64 64 15120.1895922466 33855.5312837789 16478.9480316092 6030.2913382778 116264.9822982682 64442.2785192896 91999.7147205669 119367.3088630215 152947.0425346601 347673.1594678511
+72 64-128 4 15154.5838114802 23553.7966106963 12579.6414126003 6027.6908987702 13489.6098215060 60309.4283471672 85819.6305382974 110690.3153522875 144428.0751249215 324497.0538308375
+72 64-128 8 15156.4280553025 23524.5642742196 14810.2502268951 6026.7975388169 13818.9962111541 61209.7061954770 88125.1015688764 114531.2591513276 148957.5762297572 329595.8943363756
+72 64-128 16 15132.3853451147 31295.8809163840 15791.6641527604 6026.8203925445 27263.7435099843 62934.8461759085 89986.5038788762 117509.6767190144 151105.5474888669 347259.1240147944
+72 64-128 32 15119.0741117220 33326.7349430381 16245.4529398738 6028.4806065323 58326.7749243105 64103.3648434450 91475.8355208470 118872.8520843644 152146.8045939823 346792.4695497938
+72 64-128 64 15109.9682662691 33783.0202180502 16457.4259747243 6029.2425037698 115873.3492027940 64426.9064299303 91960.8512514869 119335.8600771431 152875.5382431768 347850.9259726551
+72 64-256 4 15168.0591820550 23648.8436969479 10980.7872872191 6022.6367838837 13827.8330174864 60328.9837957633 85820.4697530419 110655.1732683374 144503.0532021130 324539.0914883206
+72 64-256 8 15142.2181689962 23615.2917024647 13576.8523330963 6023.6819891757 13923.9055502192 61186.8204195269 88096.1222095801 114560.5321952852 148984.8211821407 329569.3657390608
+72 64-256 16 15127.3704751333 30924.0191278494 15260.3456823736 6021.4788313860 26565.6522470918 62911.2446049133 89972.6209118368 117533.7611315418 151083.1642370602 347281.0801286314
+72 64-256 32 15138.7939122064 32877.2312397097 15981.3092361659 6026.0939325318 52925.9340960244 64100.3721949909 91453.3776098542 118908.6496081698 152159.2865182384 346434.3666826333
+72 64-256 64 15115.8201278525 33695.5548948333 16312.8655994503 6028.5949447827 101734.1256670445 64442.3162035668 91993.5412228324 119373.2938942029 152836.0999536655 348002.3583714445
+72 64-512 4 15162.7820541590 23609.6273618271 10582.4363707571 6014.6141629399 12643.9267558298 60327.0623932775 85781.1828050269 110664.8993051610 144492.4163181014 324699.0929882340
+72 64-512 8 15143.9080485586 23584.0490420701 13306.2979414663 6014.7208123437 12602.9790373849 61201.0365552522 88110.4577134004 114534.3954645899 148918.8463087033 329625.0499419157
+72 64-512 16 15139.4179668797 30690.7226874256 14848.8901544374 6013.9072718559 25603.2306388859 62925.8328826007 90014.4852963303 117474.7803403655 151140.9577494919 347077.0950932521
+72 64-512 32 15120.9967248914 32657.1757419293 15754.5350623083 6022.2696796556 53405.1678611096 64106.5871309530 91510.3862074940 118876.3699374250 152074.5369610254 346476.1162527900
+72 64-512 64 15114.7446315702 33324.3894836477 16185.3744405685 6026.3746110975 103468.1753598285 64430.5514895142 91989.8540036322 119380.3473922880 152955.3940286277 347921.8881072951
+72 64-1024 4 15173.4370717408 23320.0571756526 10042.4004871904 6008.1268929349 12553.0406368875 60332.8118988082 85836.9450727651 110652.0104275713 144498.1935504094 324567.2577921015
+72 64-1024 8 15173.7907629456 23328.5177536760 12757.6788145927 6008.3184580959 12589.4783591232 61205.4507481373 88125.0317334134 114529.7310476086 148980.9511219311 329302.3152827022
+72 64-1024 16 15136.7572270506 29827.8868686264 14649.5537492329 6008.3336008214 25629.7592515457 62928.8261935941 89996.0639077585 117525.1236846203 151030.7461814854 347525.3322729267
+72 64-1024 32 15117.5754573351 31939.7944125570 15467.4738595635 6019.6556177439 53675.2555357744 64092.8936895769 91446.5206527784 118895.5902221405 152155.2499623390 346901.9647792079
+72 64-1024 64 15119.9346022275 32835.8499776045 15966.2624545861 6025.5491926404 103916.3463559406 64440.4965209915 91936.4875360244 119351.4502354605 152822.9933532270 347880.9023634877
+72 64-2048 4 15156.3106555204 22323.4884415187 9271.1171601542 6005.9963540518 12501.0620443019 60314.2882948339 85821.2748352146 110680.6651335344 144468.9579782642 324464.2181503159
+72 64-2048 8 15160.6049578664 22344.5324468068 11741.2189189182 6007.4319384199 12579.2273118834 61174.7891074309 88099.0762714932 114529.3958021853 149016.2134877616 329335.5564732284
+72 64-2048 16 15130.1364701151 28984.0760320825 13643.6147040200 6008.2433678690 25583.2817135249 62934.6334708826 89973.6584136891 117525.9372473476 151102.9343120127 347435.4645474017
+72 64-2048 32 15136.2536621803 30579.0168568261 15112.3356775509 6019.8321409690 53675.0589643757 64102.3002990101 91474.2267419688 118896.4101756261 152160.2273329761 346654.0517114049
+72 64-2048 64 15109.0290440882 31576.4775408093 15664.2098936591 6024.7520394378 104025.5518292654 64426.0496930508 91963.2212633490 119362.2219001900 152883.2775227531 347895.6195896330
+72 64-4096 4 15172.1009610214 21648.1043705361 9208.6150617807 6006.6150483593 12352.4935550957 60341.4053060698 85837.6599457246 110658.6042299598 144441.0347922858 324923.6822743376
+72 64-4096 8 15161.7897377227 21768.7883029810 11563.4871621344 6006.5920863324 12531.4118945039 61173.9181106400 88093.1250198658 114538.6817849911 148923.0074380125 329538.4722934231
+72 64-4096 16 15126.1398304784 28138.7563255666 13977.1681970985 6008.9289407812 25586.3749063757 62922.5946673243 89960.9880804820 117505.1054025782 151110.3918240582 347559.2252381442
+72 64-4096 32 15117.5473961218 29803.7406118426 15161.2883083112 6019.3687695590 53735.4623365086 64100.6656807981 91457.4772668245 118872.0886892811 152119.7697242444 346712.9410526328
+72 64-4096 64 15108.2353835387 31049.9070254293 15889.4403166768 6025.4667640645 104060.7438181173 64430.3803601113 91988.9744776159 119366.5010446029 152858.6486754068 347779.2401136149
+72 64-8192 4 15168.4404120664 21037.4460473240 9458.6196739962 6008.3087388387 12396.9850825041 60338.2643799807 85846.7473364424 110673.3500925592 144514.7281812966 324524.9673194544
+72 64-8192 8 15150.7581170904 21148.0550116224 11605.8865198442 6006.2105367442 12590.5013013541 61187.3252678967 88047.5443247690 114565.2381078584 148898.2431263289 329600.6170946435
+72 64-8192 16 15132.9411863936 27999.9509325210 13810.2424421246 6009.8292320874 25612.1605316689 62928.7171722002 89991.9254317105 117520.4438962109 151044.8356012882 347229.8253285453
+72 64-8192 32 15139.3269110283 29619.8969446686 15138.1496825360 6020.3813390732 53843.2386072417 64099.8338992748 91461.6750130790 118888.6047679811 152141.9918327460 346730.3372194558
+72 64-8192 64 15104.7029678013 31007.9263197769 15853.3191523512 6025.1685093899 104247.5258359869 64425.1759037455 91957.0845326992 119381.2271009470 152866.0530554417 347863.8245254314
+72 64-16384 4 15140.1154747703 21171.5615390579 9556.1494037378 6005.5146980409 12364.0275617507 60277.3030655576 85770.7719316866 110603.7471847663 144408.5934593508 324469.8526723984
+72 64-16384 8 15164.0774455821 21301.5025322131 11712.2411607224 6006.0309764448 12588.5520244316 61186.2862377900 88055.3853693349 114546.3486542734 148948.5519967890 329538.7947792132
+72 64-16384 16 15098.4221048264 28047.1178746828 13877.9963092731 6008.5237230124 25600.2658323020 62920.9588490992 89989.1408740995 117530.3271887872 151026.9225702329 347192.9834060030
+72 64-16384 32 15129.6394411723 29654.0241348738 15147.8326560934 6019.8523182460 53692.0238672894 64094.7417185706 91491.8319480039 118879.6081113705 152112.3370660309 346704.9060855802
+72 64-16384 64 15110.0472565022 31044.6887518753 15853.7246311760 6025.0420855183 104067.6959925519 64413.7374029526 91974.1524616364 119356.6717434307 152931.6588833989 347590.2517626791
+72 128-32 4 15157.3615836788 30694.5385450831 14558.1864362170 6027.1018508107 14009.4306438861 60596.8336849073 85835.8022869622 110676.6199012494 144441.3992701369 324822.6067201212
+72 128-32 8 15164.2271536060 32073.4419076945 15665.4105176291 6027.0318329253 14280.2686287896 61024.1188509897 88093.6965225075 114528.0565911424 148983.1182163101 329290.3522078910
+72 128-32 16 15142.8472304630 33459.9131083837 16169.8254677612 6028.2728612349 27481.2960941350 63589.2607629357 89978.6843415965 117522.7166180727 151093.1530773745 347461.2920554864
+72 128-32 32 15107.8579953004 33841.7570708918 16372.7391318298 6029.2955871555 57828.7730779560 64962.8784822420 91465.6878526932 118895.1365839259 152057.2225774691 346606.9067188194
+72 128-32 64 15118.4619200689 33916.8773318973 16499.5207935342 6029.9135045041 114363.2144749487 64465.5998041204 91938.9324348807 119321.9090969745 152859.4809661151 347751.3145694382
+72 128-64 4 15175.2301213951 29210.7929739422 14126.2828534466 6027.3278104185 13676.7425971535 60590.5246828869 85783.9579002186 110615.4311293481 144353.1541677661 324454.6335180822
+72 128-64 8 15163.2616533887 27218.0578812949 15424.2663122944 6027.1871155089 13968.0631852589 61035.1272628553 88082.0286488567 114491.2327585824 148984.2800181020 329532.6943444260
+72 128-64 16 15142.3609728205 33286.8767697465 16072.7129322938 6028.5732674745 27333.1047584861 63628.5452580725 89996.8548793422 117525.9223882397 151059.1166463423 347235.6137364340
+72 128-64 32 15097.0694289441 33751.8013301585 16339.4334362174 6029.5150905446 57690.4027162936 64938.3118669064 91446.3522047813 118892.2259324071 152149.3785888273 346443.0562216213
+72 128-64 64 15108.0171811208 33866.2259301563 16483.3258567364 6030.4079456095 114155.2605238478 64448.1846025406 91958.9795797295 119374.3068828427 152901.2096697412 347796.9698080634
+72 128-128 4 15186.2557323461 23545.4673749126 12661.0640892256 6028.0250020356 13477.9899899624 60578.2087670301 85801.5913020266 110645.2912120806 144468.9830206622 324414.9355135256
+72 128-128 8 15156.4163514481 23511.2026574510 14776.3140893823 6027.1395340284 14113.2212622412 61036.2770142118 88103.4307438764 114540.8625117750 149004.5464659847 329555.4290282684
+72 128-128 16 15146.2140429180 31345.7911133056 15778.6457179097 6026.3174700939 27288.5331000507 63613.8106313258 89952.4986267798 117497.2401003850 150978.7502224875 347554.3204454766
+72 128-128 32 15120.3550196997 33313.6146657774 16231.8059462983 6028.6755078219 57436.9877659078 64960.9440285551 91494.1393299148 118896.5054184790 152079.1660325437 346633.6929626756
+72 128-128 64 15124.0291391704 33768.4679351366 16468.3004365920 6030.1740390652 113883.8281640145 64470.5760261613 91984.7689913444 119327.2215479402 152926.4159821334 347860.6071807578
+72 128-256 4 15182.6614867343 23677.8821984579 11031.4300389270 6022.5540400017 13671.9783226115 60592.1139671847 85795.2076584070 110678.9927098085 144371.2686104581 324737.6232080072
+72 128-256 8 15193.9493838754 23645.0067413222 13538.5049312148 6023.5088042547 14182.1793910382 61032.0890249877 88098.6156756305 114549.6588321356 148980.1977822821 329498.0690827686
+72 128-256 16 15129.0835989811 30973.5663292223 15263.9159700797 6022.2008070588 26624.8863367202 63630.3621344568 89985.1575409893 117521.5544911552 151082.5445278940 347249.0383889629
+72 128-256 32 15117.6170873091 32887.6480402872 15981.9775579666 6025.8630004721 52361.4980794258 64959.7960562538 91487.7467180359 118881.9457909845 152117.4687097073 346581.1497322096
+72 128-256 64 15102.9491609340 33694.4078758823 16319.3682781194 6028.1472096586 100813.6946731297 64461.0695211472 91964.7269419445 119375.8625444755 152916.8430008909 347904.4518005602
+72 128-512 4 15175.4812094998 23620.6401668368 10635.3671160080 6014.6139402098 12383.7944647917 60588.5125986147 85814.3070401453 110677.7419881034 144384.4768097288 324428.4536842605
+72 128-512 8 15151.9990809937 23596.8806497696 13281.9140901194 6014.2405630797 12782.5119884810 61035.8901315787 88088.3889391111 114538.0062474816 148971.5356758605 329309.7615535261
+72 128-512 16 15135.3501899670 30734.8008857157 14858.6132844287 6014.8866384548 25303.5042851653 63618.0136202669 89987.2724858189 117484.9029318683 151106.6184102384 347092.9699161008
+72 128-512 32 15088.4910808434 32675.7407688021 15746.9182417854 6022.0431916267 52820.5669661321 64953.6566942290 91438.4237110193 118871.6892642932 152157.1058780281 346510.9854819729
+72 128-512 64 15110.2877220669 33325.3158622011 16188.8340033298 6025.9644130945 103108.2156273996 64453.1934943080 91964.3631282952 119394.5799807763 152845.9295651507 348043.5849622986
+72 128-1024 4 15178.3845280424 23306.5097618915 10125.1378316157 6008.3402180578 12312.6084772908 60595.9785968021 85812.0360810702 110607.6147724762 144419.1184472273 324636.8850838130
+72 128-1024 8 15158.0816197093 23325.0489736335 12731.5286264564 6007.9871052849 12755.4467797407 61036.9510288257 88081.4765257266 114515.8245304121 148944.1787241078 329509.7351739765
+72 128-1024 16 15129.4685777599 29950.2765717757 14670.0107851724 6009.2442435576 25300.3083486884 63596.3692040291 89954.2329665962 117521.2513639366 151100.5190275348 347222.6645428840
+72 128-1024 32 15107.6669076603 32001.5089009135 15462.4901092152 6019.3513668600 53062.6178249839 64963.5288953023 91491.3980670948 118870.9922161248 152156.1862808693 345992.9248447451
+72 128-1024 64 15107.4995222128 32898.7513991345 15980.0738759190 6025.0692493432 103732.7123328704 64454.3236381420 91972.9885540685 119357.7987946308 152898.9562696714 347845.5039865492
+72 128-2048 4 15181.3033462723 21868.5713667176 9344.7358994818 6005.6374840047 12266.5030390162 60581.0569110682 85829.7541362870 110677.3087711821 144404.9592171904 324450.3457897290
+72 128-2048 8 15160.3256140466 21900.7582047998 11698.0016803065 6005.7919623259 12742.4447449885 61020.5264872455 88117.0494869831 114528.4375089895 149008.9866139344 329639.5115337697
+72 128-2048 16 15124.1779077904 28898.8912319361 13628.0769545267 6007.9564408789 25252.7984638360 63599.0604986304 89984.4762486782 117533.3164175371 151150.1041961608 347139.6934868258
+72 128-2048 32 15127.8658469799 30519.9327377431 15108.7717963836 6019.1567594010 53056.8285789174 64927.8058114560 91500.5556715316 118884.3872945073 152110.0234505759 346825.8813469423
+72 128-2048 64 15102.0340677016 31585.9731155551 15669.6079207275 6024.6525993987 103801.8918265768 64457.3621396766 91953.4270472613 119367.8805374246 152754.8544295191 347858.8097890993
+72 128-4096 4 15179.6069039819 21549.3133792460 9160.7787477528 6006.2226275715 12115.6520993731 60598.4453161143 85830.1936919154 110666.2260923562 144490.0453392724 324874.1832169352
+72 128-4096 8 15161.2090162388 21679.0701226314 11508.6585440177 6006.0458117916 12706.6185365754 61002.4614386064 88119.7762058803 114525.5390696835 148971.1970361318 329295.1273006362
+72 128-4096 16 15134.9328940586 28145.8060584535 13984.2165855891 6007.4364232760 25265.6380486187 63603.3904706888 89986.3418864734 117509.0562935696 151080.4882929001 347389.2812127124
+72 128-4096 32 15116.9235727895 29740.0467479555 15164.8624441688 6018.8532143469 53115.9895309832 64948.4356170717 91461.4022468362 118894.9664708734 152168.3698057561 346722.5326598882
+72 128-4096 64 15112.9657751996 31078.8721277574 15897.4863178459 6024.8882930552 103898.6123707319 64450.1551418162 91964.2832839451 119375.1650736639 152836.7728367238 348082.0988779480
+72 128-8192 4 15160.4586530791 20870.2977639094 9414.7613475740 6006.1572546795 12154.8645655127 60556.1069800588 85806.5322364132 110404.5893855131 144451.7813174895 324569.1272718078
+72 128-8192 8 15170.9725961201 20993.4710081178 11564.6620800890 6008.1081491114 12750.4814172142 61034.4289021339 88096.2767219202 114517.3479537049 148883.1812884669 329271.7307835788
+72 128-8192 16 15132.1517690901 27955.6351852710 13837.8879239821 6008.8055813756 25296.2193366053 63606.8784391263 89942.2047398502 117531.8390893932 151007.5460017430 347207.3913097017
+72 128-8192 32 15101.6719333795 29562.5941176266 15141.9026572533 6019.1404032787 53245.1669162705 64946.9106542285 91450.0351148221 118883.9315712615 152052.3601716038 346934.3053671453
+72 128-8192 64 15103.5379168904 31055.2909928705 15862.8149680946 6024.7857188789 104078.8573411053 64445.7438859073 92012.9343900451 119349.3019565685 152920.3817663669 348147.9001644976
+72 128-16384 4 15185.1963856574 20991.0977398592 9502.8833923157 6005.9881839868 12138.3770243259 60579.5496097911 85818.8768199640 110678.5357877733 144454.0412178128 324714.4632088735
+72 128-16384 8 15155.2616788632 21124.2993075570 11651.5418317248 6006.2136762457 12751.5909300889 60999.6937650115 88112.2941083116 114552.4966102118 149000.6796002526 329179.9997610114
+72 128-16384 16 15143.7589667199 27995.3230876163 13906.3546825696 6008.7453382138 25254.8338196745 63569.0832258070 89935.8311321778 117484.1010754634 151090.5519987876 346950.2961108412
+72 128-16384 32 15102.5046020072 29602.8258872458 15151.0822607844 6018.7966187647 53112.0061633400 64951.5035545583 91495.2736345084 118879.5651047842 152176.1011505072 346565.3034810356
+72 128-16384 64 15109.9083287374 31082.2371437712 15864.5569927987 6024.7537950150 103834.3547712390 64435.4798878181 91964.5589418433 119378.5189253723 152858.2296522716 347947.1088988168
+72 256-32 4 15162.9846437003 30700.7127679905 14460.9145517601 6026.8008983890 14761.4906630370 59582.0575997632 85806.7745666838 110671.4863912133 144520.5748160082 324502.1361819775
+72 256-32 8 15170.8234415350 31940.0270333680 15599.7377861637 6027.3570016691 14810.8772210236 59496.7189153459 88112.2605829019 114526.0616838117 148899.3546252277 329605.4332657346
+72 256-32 16 15141.2318903584 33421.9558650043 16100.5736323550 6028.2930176465 29053.6300530368 61666.1831040648 89999.2292654675 117526.9410016748 151132.3288249579 347570.2589335576
+72 256-32 32 15112.5440634106 33736.8710152586 16339.9031461425 6028.9220818857 59755.9980895095 65048.1506116711 91481.3603416134 118908.8550965214 152162.9202153048 346788.0293268024
+72 256-32 64 15130.8945189617 33873.8934624353 16467.6234411330 6029.5741894936 115286.5185186988 64512.6608686254 91997.2766986795 119314.1671469575 152870.5654333478 347819.5028231714
+72 256-64 4 15154.8114020437 29187.2123286261 14065.3351088047 6026.8807464230 14355.6398624425 59586.4238460452 85831.4893435405 110691.1499460419 144479.4229645172 324660.4810842795
+72 256-64 8 15170.8708933680 27203.1333689640 15382.4738778672 6027.4312921775 14453.8715044887 59510.2664728330 88118.9293214771 114549.7891802475 149044.0103908557 329814.7413208445
+72 256-64 16 15147.9078657307 33246.7026979832 16009.7326414616 6028.1928584104 28859.2687233932 61654.6563131166 89965.3271784381 117503.5931431969 151093.7861717187 347266.7108289361
+72 256-64 32 15118.0944935237 33644.1517530611 16308.3840844621 6028.7198365246 59597.6025474091 65051.2967660362 91458.5867629277 118893.8478721428 152220.6248650909 346680.1563879341
+72 256-64 64 15129.9165274942 33839.9654962926 16449.0208749373 6029.4510152003 115113.4486382602 64518.5420748501 91974.8507762249 119373.2764518584 152868.3958530197 347649.9208034404
+72 256-128 4 15175.4302687890 23500.5706750047 12530.8625633326 6027.3816229013 14149.3698513642 59571.0059658400 85835.0647874990 110663.0521934385 144518.0692919869 324760.8373596265
+72 256-128 8 15174.4296501179 23463.5301625961 14705.7600108439 6026.8664340547 14584.6177879876 59498.3300773618 88072.6590554716 114473.2218692161 148978.8555864624 329547.0905960116
+72 256-128 16 15150.9267540116 31289.0876557448 15703.5602391151 6026.7383249531 28771.9038372894 61647.8259559707 89986.6200540967 117534.9090076431 151094.0980508223 347428.5683084892
+72 256-128 32 15125.7624087837 33257.4573329885 16192.1895913730 6028.0851711531 59412.5722237141 65030.2511605323 91486.9062588902 118901.3044443607 152186.4795349836 346780.3014608800
+72 256-128 64 15141.8961013586 33750.1473007453 16434.2707081031 6029.1967223506 114792.3536924298 64494.6537888805 91976.8546939914 119360.5417335956 152974.9811653559 348104.4354006324
+72 256-256 4 15141.4129788876 23680.4206350213 10983.3630961099 6022.0635838100 14171.3019322140 59584.6071359603 85832.3433688120 110652.9586073133 144460.4769432858 324614.7475616757
+72 256-256 8 15174.1988779070 23669.2536746148 13566.9350340465 6022.9357147570 14731.4082358067 59504.2133411570 88096.4842228951 114512.5062119921 149009.4783692312 329375.4293469788
+72 256-256 16 15139.4541412437 30986.4266282843 15220.4240382935 6021.5618713401 27754.2546327819 61647.0776629462 89974.4973059859 117501.6847961655 151075.5361531829 347487.7055986322
+72 256-256 32 15132.7410837314 32753.2226573489 15957.9354668059 6025.7279530271 53644.5748586989 65047.1047902729 91439.7528772820 118880.4430645570 152120.3103220744 346702.7569218105
+72 256-256 64 15135.9909214199 33632.0523056221 16292.6982572778 6028.6953150643 101436.5963555251 64532.0212196212 91963.4200758698 119387.2279486041 152958.7854241315 347911.1634761639
+72 256-512 4 15153.6717657690 23609.1342386886 10571.3293731587 6014.3769636532 13311.9349543616 59545.8697039267 85829.4198338661 110681.9774444568 144405.0033578321 324403.8474926645
+72 256-512 8 15168.7385862332 23592.0079425007 13305.0832251422 6014.4080428149 13357.1571581631 59507.6513220356 88111.2186081780 114493.3339723165 148987.9906036056 329613.3308816685
+72 256-512 16 15147.4012365290 30771.9670638363 14811.4185444139 6014.0708469183 26670.3423839896 61626.3472729245 89981.8945379847 117515.9258223932 150948.5320801392 347479.4416284453
+72 256-512 32 15122.5004653588 32536.7437216645 15722.9368480133 6022.2775472999 53659.6414158930 65053.2077375234 91452.6467171846 118883.1439979318 152167.4475284513 346976.1659295889
+72 256-512 64 15129.2501264463 33297.3456169081 16160.8526489256 6025.9484461762 103260.1289560014 64511.6202757393 91955.1376532014 119328.8529917678 152890.3709234267 347365.7048900109
+72 256-1024 4 15163.0197050298 23323.2939307419 10050.5934493387 6008.5439936712 13179.9284137301 59594.8391227167 85833.3961218159 110668.6449814558 144462.5235902630 324806.4958346561
+72 256-1024 8 15180.8832822438 23339.4131517703 12740.9385126098 6007.9069287174 13306.9601480435 59478.9222950448 88097.3175278067 114489.8524762228 148930.2438129020 329326.4974530408
+72 256-1024 16 15138.0254458458 30027.7330572596 14632.0707753496 6009.0459705582 26635.7147171004 61648.4697527552 90001.5184411819 117480.8713061144 151103.5318628734 347152.7626214488
+72 256-1024 32 15120.8542973167 31939.7663462080 15450.0165427782 6019.9423404646 53835.6726336346 65056.5634737430 91476.5992870147 118899.7003496109 152194.4423692997 346755.0262247927
+72 256-1024 64 15141.5064846931 32877.2669014309 15963.2396093940 6024.6591757902 103807.3400246893 64523.8192027212 91958.8781782436 119359.8238098302 152809.1015555006 347851.9382855230
+72 256-2048 4 15155.9076696700 21815.4562406535 9272.7795917603 6006.5342204741 13094.2920368953 59580.7452675793 85798.8653403112 110665.7128925168 144397.3734946022 324864.9275088609
+72 256-2048 8 15172.8881024937 21836.1297444936 11706.7075981773 6007.3924011538 13294.4662236405 59518.5929333243 88113.9207195758 114516.3437519553 149012.3659920332 329371.4353962252
+72 256-2048 16 15129.5762717728 28885.8057987779 13596.6514891624 6009.0464800951 26584.1667233016 61639.4699520500 89973.1388222069 117492.4145417451 151029.9950420869 346960.6573058380
+72 256-2048 32 15112.6641888000 30422.1395566965 15100.6438777175 6020.5711331145 53839.5584293855 65041.5770126253 91453.6373238828 118914.0398151295 152070.5101178053 346484.8492256295
+72 256-2048 64 15130.8320329462 31563.8357240175 15656.4926119466 6025.3892317522 103865.3981687574 64527.5289080248 91989.6112912084 119365.9622251384 152989.6957478418 347516.2089846422
+72 256-4096 4 15140.0039962585 21448.5814736183 9176.8959613564 6004.6868809593 12907.2010720114 59560.2396361065 85790.9158840173 110650.4448731877 144327.0887032362 324756.7577966401
+72 256-4096 8 15156.3685195376 21618.8606151863 11521.8933933255 6008.3898160360 13231.0394148983 59525.6892321160 88106.9568969846 114539.9566393607 149009.7738134905 329611.7123440300
+72 256-4096 16 15142.5301864808 28148.1621411015 13941.1440887689 6009.2985066362 26591.5832535923 61627.6525379737 89988.8429275139 117508.9599949689 151053.0532247209 347206.5592570281
+72 256-4096 32 15120.5301506605 29746.3041107335 15144.6139789407 6020.3870658347 53865.7327417536 65057.8046031349 91488.7298066249 118841.1106720353 152065.5518357523 346352.0942519893
+72 256-4096 64 15132.0925469421 31040.3458512342 15879.5639058714 6025.7966814583 103973.2858006904 64506.3520902929 91995.5322179207 119321.7338053210 152919.5309663970 347594.8036526365
+72 256-8192 4 15163.4815789804 20890.9926215257 9405.1670792513 6008.1778104183 12937.4988735434 59577.6817129744 85820.0350947359 110670.0428331229 144446.4785845117 324771.1136252500
+72 256-8192 8 15195.2202315877 21012.8326665624 11533.1498316076 6008.8790790018 13298.9415923131 59520.5285411028 88140.0312732383 114508.9624071922 148990.3148476918 329451.2560895898
+72 256-8192 16 15149.9341170728 27948.4406468073 13791.1770890017 6010.0551140396 26614.1371938722 61637.5948080667 89978.2426009744 117499.5497411409 151082.7293263089 347056.5837025992
+72 256-8192 32 15121.9564654222 29529.2791771058 15125.9042676983 6020.4605832554 53937.8327802583 65056.8855853784 91487.6134841177 118886.6755607601 152168.5761598441 346513.0009285897
+72 256-8192 64 15128.6693968635 31027.7938841765 15845.3173389016 6025.6575546145 104165.0277991888 64503.7947277432 91990.5387458726 119381.3664323870 152829.6656146966 347767.8048596180
+72 256-16384 4 15158.8821374183 20987.6484097903 9499.3009671446 6007.8075380679 12919.5654490084 59608.5410716431 85823.6482834699 110656.2505516941 144451.9815224582 324624.7977087751
+72 256-16384 8 15188.4205074964 21134.3952713750 11618.6125143060 6007.8527759744 13292.5382509696 59511.5443493737 88099.8169776703 114541.5737788354 149006.5498582468 329436.0743187356
+72 256-16384 16 15167.4453114170 27969.4662635334 13857.5958498192 6009.8954021980 26590.8282297125 61627.5116322979 89927.2974539179 117531.1929108461 151151.5779874750 347183.8980203919
+72 256-16384 32 15121.9820756794 29544.9911026366 15128.1856762912 6020.2901004205 53832.1988336219 65040.5362369374 91487.0348414786 118864.5591718368 152119.7264411136 346464.2614782126
+72 256-16384 64 15122.7940808785 31048.1554444196 15845.9181090765 6025.8735868455 103930.4601717702 64536.1163112795 92006.0655387029 119336.4934912437 152900.9856318146 347876.1108299500
+72 512-32 4 15160.2021642403 30489.8612105660 14389.3128044024 6027.6547102425 14033.0533607276 61022.9800027496 85820.7288776320 110621.3721398488 144428.8908514966 325030.9034648368
+72 512-32 8 15138.0890369817 31742.9098164402 15503.7301612198 6028.7736752453 14110.5647237514 61250.2953662187 88121.4151826854 114528.0548474006 148982.2165753395 329486.9838201923
+72 512-32 16 15157.5535494030 33371.3659789927 16039.6375162936 6029.5641154710 28456.5157295243 63208.5907583606 89958.1348557391 117442.9796208804 150989.1328727624 347370.9487077923
+72 512-32 32 15137.4962311683 33683.4927999838 16311.0738987296 6030.9120358033 60334.2323267423 64337.7223532181 91446.6865579038 118862.3125465777 151957.0123348958 346379.5845381846
+72 512-32 64 15105.6792414578 33814.4399467847 16449.7282348793 6030.7117561555 117772.2426730149 64163.3562759055 91983.7535247083 119340.0145460284 152900.7884132001 347228.3275918338
+72 512-64 4 15148.1677032631 29030.2612230819 13960.0334445012 6028.1209204950 13574.2275569083 61028.7107465121 85841.6792540412 110689.7555174317 144388.8034362860 325072.2645162208
+72 512-64 8 15131.9208804292 27117.5594987733 15265.2891842331 6028.1472187821 13766.8945920083 61233.4352739206 88070.7226512482 114511.0811766870 148929.7962970037 329258.8899718164
+72 512-64 16 15166.5586383234 33213.0696593822 15946.7967222389 6029.7293549558 28278.4742237174 63222.9766207336 89985.1606297584 117530.7864939763 151122.6576093821 347272.7938536407
+72 512-64 32 15133.7713718389 33610.5223924560 16279.4744457678 6030.4240292421 60154.6212214953 64318.8792889527 91484.3899789851 118897.3852254523 152188.9837054741 346643.8301742240
+72 512-64 64 15105.3767230690 33776.8853885510 16429.9141166478 6031.2402293072 117585.7741061924 64179.1497328837 91936.7501487159 119367.6026141120 152845.7363271012 347841.3470360024
+72 512-128 4 15155.7204424393 23450.0233389523 12527.9799166098 6029.0770295521 13300.2976139776 61024.7639445719 85806.1487308520 110652.4339294941 144452.8835196347 324570.9296494914
+72 512-128 8 15137.4705329446 23433.5543251553 14635.8792365797 6028.4519069284 13824.4917369514 61222.3596016416 88125.4183824649 114537.2528323609 149007.1312610169 329255.8413299171
+72 512-128 16 15158.3232742287 31233.1742628551 15655.9574568979 6027.9051420105 28079.2620274375 63248.2377492169 90043.9122184191 117512.8767340435 151042.6260877153 347469.7434877169
+72 512-128 32 15128.9589529567 33244.6240068309 16152.6575760997 6029.7496895149 59931.7212308615 64323.2623778131 91478.8701505794 118875.8361609868 152112.1441112755 346518.5358018586
+72 512-128 64 15111.6094136802 33724.2782945703 16412.6455988143 6030.5563099981 117247.9462805902 64182.7941680528 91991.8512555097 119354.2370447389 152897.5904504778 347100.3037866155
+72 512-256 4 15162.0847238786 23595.1859907940 10933.7165691013 6022.7013441724 13792.7469120313 61043.9105775882 85823.2657179202 110655.6331899581 144509.6736667762 324965.0189654033
+72 512-256 8 15136.0986722318 23587.7690249743 13483.1947417904 6023.9976550951 14099.8188407851 61214.5838708818 88116.1325674676 114490.0583081458 148856.3399772416 329340.7768223476
+72 512-256 16 15158.9991134929 30933.5067811005 15171.9104091757 6023.1420121373 27040.4768551644 63238.1723613030 89991.4064055027 117509.8574048767 151081.7072121841 347394.2896824737
+72 512-256 32 15129.1799289597 32715.4687407249 15903.3067879402 6027.4835770263 53645.3159732127 64334.4284375447 91461.1723035187 118897.7250609650 152051.9082835517 346622.8214279664
+72 512-256 64 15113.2870871946 33628.7070927134 16259.7178445483 6029.0662655623 102718.7515014170 64151.7862083794 91972.3689830079 119370.0043527851 152814.4625915471 347805.7889649897
+72 512-512 4 15156.8952383378 23640.0588473758 10565.6021300474 6015.8835544986 13196.7298435014 61037.1566832770 85823.7269521859 110657.6446495746 144443.8753107053 324862.1323219661
+72 512-512 8 15140.9152091821 23638.2428830388 13238.3763225778 6015.9393342960 13022.0310856509 61239.7555545391 88138.2514531569 114511.3967111010 148973.9526620244 329633.4851036456
+72 512-512 16 15165.9961968641 30768.7075901759 14785.9424281531 6015.9579321808 26584.1144240673 63251.6630827909 90004.2008185194 117422.5531982208 151083.9493559468 347254.6133120900
+72 512-512 32 15144.4712928686 32488.9446361199 15673.7631414342 6024.0638199084 53977.9510802802 64339.7954435039 91494.9977957303 118896.8078284023 152183.0484183724 346552.8689097290
+72 512-512 64 15124.6998279238 33184.0411063344 16131.6231226951 6027.6064866316 103554.9723610437 64181.7780411094 91990.0970240598 119369.8290392112 152834.9054456876 347760.9324834497
+72 512-1024 4 15173.3200157610 23336.6694902729 10054.9938257005 6009.0945825856 13045.3010759447 61056.7780760030 85841.3370476543 110620.0132404404 144456.1978003172 324833.0548051103
+72 512-1024 8 15136.9809402872 23361.0802153572 12703.2877742405 6009.3441137315 12865.1592642087 61223.9403360840 88096.8811278464 114529.7399115026 149023.6205393848 329534.8078571706
+72 512-1024 16 15166.0179792136 30036.2392584219 14636.9265674625 6010.6112105983 26476.5628848515 63246.7167485064 89991.0432700824 117515.8871084071 151077.4054576547 347306.5642378859
+72 512-1024 32 15123.8095522423 31964.6149642080 15445.4064077394 6021.0417367530 54135.0691276470 64332.3817947244 91484.0497313492 118906.3586843887 152096.8034255439 346721.2823297559
+72 512-1024 64 15112.1801252076 32811.3716437244 15951.4171305574 6026.5870712542 104192.2308614175 64183.8514243345 91890.7288919566 119359.9221944576 152943.4987877101 347897.2148368883
+72 512-2048 4 15148.6470041494 21739.8560507798 9305.0678131190 6005.5011071011 12979.7863662913 61022.1638476585 85827.5821209389 110588.0971968752 144416.2186058563 324672.7205625160
+72 512-2048 8 15141.1713470211 21783.8463408643 11647.0660600792 6007.9411726617 12853.9598154014 61254.1859864466 88145.9442053673 114516.0474942507 149066.3190109312 329444.6871763789
+72 512-2048 16 15163.8851961920 28813.7168674622 13592.8311717306 6009.0207513576 26437.3228377010 63207.3355879039 89982.9030876905 117533.6626211161 151108.4098825685 347041.3830813567
+72 512-2048 32 15137.0729328554 30392.9988703211 15049.8184623009 6020.5689640142 54159.0630469858 64336.9370362257 91486.8956503963 118902.0953469417 152167.6296649158 346370.6343401435
+72 512-2048 64 15122.6385263381 31369.4367958733 15635.5228250276 6025.7073631254 104343.3014041950 64170.8120981169 91990.9547714097 119356.0449356632 152955.3247531887 347344.8379848756
+72 512-4096 4 15163.3712658364 21373.1612342560 9124.3084195455 6007.0534597168 12788.4607278045 61056.2683830348 85811.8560676875 110667.6677989278 144459.0341146542 324853.8441614563
+72 512-4096 8 15132.0142954162 21529.7349834734 11474.4904335828 6008.2771258458 12797.1186811537 61266.6605627748 88158.0451254966 114544.0190713982 149089.7674818030 329602.7561301063
+72 512-4096 16 15156.1164526211 28103.0171501897 13920.0749176749 6009.5705546073 26433.3492317782 63236.5328647213 90007.9974322293 117557.3604579052 151090.5704825342 347316.7329156422
+72 512-4096 32 15135.4705664774 29734.9751979650 15105.2280679379 6020.1164709924 54153.1886957344 64330.7946423454 91473.1240734122 118887.0728244257 152122.4533617976 346723.2363647263
+72 512-4096 64 15095.1462503991 30891.3414652103 15850.9058283512 6025.7186989774 104326.4651456863 64133.9530417316 91977.1741065872 119379.8185878490 152867.5635285565 347596.1859473286
+72 512-8192 4 15172.4102905321 20845.8083977653 9403.3554573292 6007.0539772204 12842.6314717055 61054.3221611961 85852.2645344170 110654.5704265218 144410.2001931806 324626.1332677620
+72 512-8192 8 15138.4013024833 20970.2407471815 11524.9870485415 6008.3762395097 12865.3651106327 61231.3036109017 88135.5819346190 114516.2262880288 148932.2231597126 329491.2882032942
+72 512-8192 16 15154.9852799076 27928.7100593714 13790.9304568734 6009.4867280639 26474.4962314961 63244.3712282922 90000.1185903818 117535.0329558348 151131.7091289784 347227.5255876705
+72 512-8192 32 15142.7932303855 29492.7279502815 15091.1687027953 6020.6106243436 54234.2227097228 64321.8271435402 91508.2465293538 118852.5998438689 152117.8473696520 346559.3844808261
+72 512-8192 64 15115.9219481828 30809.0686921594 15814.3903392333 6025.5265726516 104543.7114149466 64176.8720487243 91937.3082238547 119367.3393677376 152906.1122443785 347812.4585922123
+72 512-16384 4 15162.4948647298 20938.0130223888 9476.1533172571 6007.0435922699 12807.8962535213 61051.5082151884 85840.0451363916 110671.1965521182 144486.1663107087 324852.4295139233
+72 512-16384 8 15140.4590908548 21084.7694982920 11589.6224005060 6008.1463143162 12859.2981747260 61232.2749590673 88071.8554035258 114555.9872694235 148937.0455175561 329221.0092036472
+72 512-16384 16 15163.5033630158 27926.2732181774 13832.1196467106 6009.7938163514 26422.5074457734 63250.5823100849 89978.9650052191 117531.4480569700 151148.9726103755 347302.4752228298
+72 512-16384 32 15137.9974757207 29489.6104575315 15101.3201217413 6020.4103191856 54135.3196230014 64311.6117937126 91489.1395887016 118884.8586695304 152113.4447872737 346671.2930867466
+72 512-16384 64 15108.9146718478 30817.2270273501 15816.8504714784 6026.0980413399 104285.3101127239 64189.4134983781 91987.2050116150 119361.1397384107 152856.1960314383 347596.1298639785
+72 1024-32 4 15133.9889003129 30155.7672028354 14149.3453123884 6028.4364752554 14108.4769012555 59350.6614075833 85826.6681927904 110673.9166302695 144423.6508714294 324821.7169621515
+72 1024-32 8 15171.1071383171 31504.6539052596 15387.3592929109 6028.2687443965 14220.1921757324 59870.3999614756 88084.3333085998 114520.0320191494 148908.7794108530 329375.7060500743
+72 1024-32 16 15141.3658882915 33188.6204269032 15970.3039511274 6029.4635568020 28670.4438250609 62133.3518830148 90015.9154679210 117518.6441935795 151159.7368372398 347289.8084706784
+72 1024-32 32 15150.3620531394 33571.3388008991 16282.8482613675 6030.9133493631 60550.6863926160 63940.4994476510 91470.5775087216 118883.1852880089 152038.2573847425 346698.6052881173
+72 1024-32 64 15080.1208421584 33697.9651588683 16439.2192828486 6030.9084949733 118516.2837274676 63721.0225853018 91960.7152115562 119394.6797602876 152848.1416668503 347744.4088939092
+72 1024-64 4 15149.0144913916 28614.8593398291 13731.4698708880 6028.2805081987 13658.7005627252 59372.5547153992 85841.7562355316 110666.7509138802 144478.1518098399 324846.6230960734
+72 1024-64 8 15159.2028635959 26771.0772472573 15156.5317865573 6028.5053489528 13878.4625544580 59853.6419254615 88094.5255673162 114477.4863516390 148888.1503215860 329412.7784328019
+72 1024-64 16 15140.2122964574 33016.7114726400 15876.6974334748 6029.3260447049 28485.3522836094 62140.6794216875 89994.1715513987 117490.3028749633 151035.0346877396 347479.2399650252
+72 1024-64 32 15142.6264497304 33496.1495980902 16238.1099890777 6030.2778727002 60419.7684195172 63945.1746574624 91488.5317969619 118865.2054533499 152054.3312039437 346651.9730345733
+72 1024-64 64 15093.6769867309 33655.0090088559 16412.8229071689 6031.1780624847 118392.2486010243 63713.2489500880 91960.5832775675 119359.2889217831 152917.4266319774 347434.2123059176
+72 1024-128 4 15140.6559774666 23233.6185609840 12170.1422060671 6029.2780907843 13392.5463373045 59359.4998501290 85841.7097685138 110665.4617536401 144362.1311461302 324820.2808190729
+72 1024-128 8 15151.5070347698 23208.2516776430 14506.4697377361 6028.0783689504 13943.4623919266 59890.1421949685 88128.1679519756 114531.8312069120 149029.1970100780 329636.3035848403
+72 1024-128 16 15123.9280422719 30975.2875551066 15582.0835321446 6027.8836018115 28294.8463516289 62138.1939058846 90030.9484109393 117510.8022629101 150967.3675620696 347513.6407876083
+72 1024-128 32 15127.8646943082 33078.7955305049 16116.6232364313 6029.6208278420 60158.6114029312 63927.3674972307 91458.0345941382 118876.3761527608 152179.1593647280 346610.0205536903
+72 1024-128 64 15103.9295109799 33591.5541146986 16396.8958345908 6030.4590222788 118035.4058565916 63717.6025316652 91943.6002084435 119332.0775779796 152921.1893516179 347923.6538281563
+72 1024-256 4 15148.3788853872 23429.3132204554 10653.7538417037 6023.3768543526 13855.7282479972 59374.4111732735 85807.7302576136 110656.7621389667 144436.1782806829 324715.7230940813
+72 1024-256 8 15181.4539994403 23433.5694036074 13398.2563617975 6024.0710412625 14212.3036878311 59872.9700440611 88101.1783480312 114493.8562646700 148940.9285999038 329515.7880430949
+72 1024-256 16 15137.9383146664 30706.0361312980 15100.7521584968 6022.9567331418 27230.6173225979 62100.3328152930 89963.1683218648 117483.7006376262 150955.8121689419 347366.0958201551
+72 1024-256 32 15135.6577969692 32582.1147940618 15869.2011062358 6027.5902973664 53900.4155797053 63925.3907802296 91467.0241706930 118861.3832687161 152116.4759654493 346443.2713159982
+72 1024-256 64 15100.9874693907 33506.6423102309 16252.6168065394 6029.3911278738 103287.2173472611 63736.9572041864 91933.7144877851 119388.1775255856 152888.3933826234 347406.6070329746
+72 1024-512 4 15155.5372843164 23520.7733474021 10275.7677252207 6016.1590026962 13238.2202122405 59360.7088643163 85850.8100061278 110683.7500776051 144401.9399248109 324876.5099253611
+72 1024-512 8 15171.8846275169 23504.9858874547 13163.1376461564 6015.9872721185 13031.7375416251 59886.1087810875 88102.8284650814 114516.3999805453 148965.3876407795 329670.2292434994
+72 1024-512 16 15146.2127393599 30571.8706736004 14719.9490520194 6016.1386842119 26685.0327712365 62124.5915585398 90024.9978664007 117527.3657818797 151124.7458139761 347428.2199703682
+72 1024-512 32 15139.2968728527 32367.4442586720 15639.5291526897 6023.8564648538 54150.5482366184 63934.9150301654 91452.4929763611 118867.8586279321 152046.3011810360 346667.8177235011
+72 1024-512 64 15102.9335918192 33093.2541422488 16118.6420269212 6028.0613508085 104356.2320795968 63728.9890708450 91995.8169055755 119398.5729513024 152902.2962542572 347818.8453348834
+72 1024-1024 4 15134.8708518846 23346.3355965468 9832.0413513396 6006.5822712940 13183.6288327820 59353.3323665189 85824.1646103750 110637.4767143123 144488.3459477134 324571.2605574320
+72 1024-1024 8 15162.7682558381 23417.9546020898 12593.4952009667 6009.1867253774 13015.7848629938 59887.1251525272 88122.2416371332 114522.3402682155 148990.9114446178 329311.2725325543
+72 1024-1024 16 15140.8607421735 29825.4694287545 14568.4968553089 6010.3743410324 26710.7563483262 62119.1969518918 90022.5469052017 117518.8044560934 151081.3333430181 347194.7451527090
+72 1024-1024 32 15134.4569179539 31884.4868998041 15423.9255293886 6021.2311482727 54401.2870231717 63944.8964557854 91488.8137802797 118855.0750447668 152031.6481074035 346693.6580697886
+72 1024-1024 64 15097.2673207548 32767.1412025063 15914.7712596598 6026.5734578359 104787.7018891141 63717.4843928096 91936.0713118520 119346.8235172530 152800.9495484783 347622.7709507097
+72 1024-2048 4 15145.1467366283 21425.9897350681 9075.6190851526 6007.4058840561 12844.6269924486 59361.1132984239 85842.9904448091 110644.5567843983 144348.5127714257 324795.6690146022
+72 1024-2048 8 15143.7507602365 21469.1166302991 11538.4397109913 6006.9304272539 12818.2869715552 59847.5990233335 88099.4824209188 114556.0156225102 148950.5590250186 329268.6449637385
+72 1024-2048 16 15149.6337394662 28527.7444350204 13493.7808203263 6009.7328483524 26394.7872768580 62137.1464869368 90023.3693706769 117499.1225481715 151141.9586534243 347234.2810929006
+72 1024-2048 32 15138.4958992945 30160.9586891924 14978.5632137700 6020.9770588780 54139.9471691896 63946.3359503004 91473.0050031090 118908.7402794491 152116.6948816797 346232.6661149951
+72 1024-2048 64 15088.8963317426 31163.5030225605 15596.9722453368 6025.5067850128 104312.7301393600 63720.0454655520 91882.3748011489 119374.4458279627 152797.5880972898 347913.7270203569
+72 1024-4096 4 15141.3028245772 21142.1885243756 9013.4775616417 6007.5650333958 12884.2199001976 59381.4526926562 85825.9640382031 110665.6730482812 144441.9891054284 324669.6107517385
+72 1024-4096 8 15173.5521057011 21302.5446702122 11406.7274923694 6008.1260208460 12922.6887883569 59885.2328550260 88085.8544088871 114471.9396539530 148960.4908554520 329436.4780970549
+72 1024-4096 16 15161.5659827199 27899.9561570193 13830.6008779013 6009.4463373467 26656.1777104184 62132.7465156034 90006.8813333227 117519.8297072526 151001.2337300726 347596.6079307776
+72 1024-4096 32 15134.6785482413 29586.1669561563 15056.4524899522 6020.0278388385 54391.5846115828 63950.5948394790 91480.7395985982 118856.0182428570 152132.7436261282 346244.8625233997
+72 1024-4096 64 15093.6519718050 30751.8464443801 15832.3072291129 6026.0989988375 104867.3713053481 63732.9908511161 91971.3952562153 119377.0487289040 152846.0362149753 347892.8686702949
+72 1024-8192 4 15139.6846849432 20606.1704632605 9292.8212803436 6008.5527862391 12847.9525450063 59367.3122999455 85813.1481004975 110633.8248143736 144428.0055400088 324655.7434104885
+72 1024-8192 8 15157.4432284935 20712.7276286064 11407.6320269244 6006.9752230186 12944.3657196353 59876.2953196274 88090.0998139785 114568.8106418921 148925.9766116205 329394.0079067399
+72 1024-8192 16 15136.0506786515 27707.8416138257 13682.5353302924 6010.6169346304 26611.0045096057 62141.3544051549 90002.7546786961 117532.1675328945 151041.4960520137 347348.2449928222
+72 1024-8192 32 15129.1173610637 29356.4380084713 15031.3302607184 6020.9002743768 54414.6695137286 63956.2217292654 91494.8846564940 118903.3169905368 152083.4367895193 346562.3765098982
+72 1024-8192 64 15095.6558402344 30669.7127521155 15792.9340091121 6025.9107010002 104853.3938092927 63720.4687130913 91974.9616058681 119382.9312054189 152925.7427292761 347832.3060305155
+72 1024-16384 4 15130.8578324734 20648.2432386493 9374.4641273119 6007.1930681077 12695.9739079925 59366.2950452544 85834.0631551248 110632.1480284340 144420.6053853389 324643.5737119895
+72 1024-16384 8 15179.7032334537 20774.4096202697 11481.6931801514 6007.8738078464 12841.2451982711 59861.1112372577 88100.8337954708 114532.8371193658 148963.6330900143 329611.5608080414
+72 1024-16384 16 15149.4819864837 27611.0434468188 13734.4795474641 6009.6374000960 26436.7263250620 62153.1829227851 90001.1480140367 117467.6516114248 151077.3771305059 347009.5840471081
+72 1024-16384 32 15141.7840729997 29313.6939323740 15026.9751209043 6020.4050782828 54177.4588398806 63937.9732188184 91466.9515171640 118875.7679873643 152168.5850144211 346686.7828049238
+72 1024-16384 64 15089.3847799678 30654.4711636936 15782.2421533165 6025.7073789004 104471.7782837565 63716.3267255304 91980.1834823274 119289.1908728594 152944.8592730975 347424.3461733689
+72 2048-32 4 15036.7470604501 29552.8134575959 13785.1858760030 6030.2215057811 13991.8512081944 60540.5207031553 85831.2007506547 110678.9091259957 144407.3962393982 324662.0916177923
+72 2048-32 8 15038.2853434308 31012.1815521301 15095.5509762987 6028.9331330445 14114.9516395672 60903.4156158357 88138.0257446108 114532.0251005424 149006.6251919066 329584.6000056460
+72 2048-32 16 15058.9024189960 33072.1906718533 15902.5015572395 6030.0219980275 28536.2253985169 62848.9613259222 89975.5026911199 117510.5759426075 151136.5694556684 347571.4129942266
+72 2048-32 32 15104.9660511343 33514.5851427788 16250.5586188317 6030.4987748372 60217.4185058558 65060.5442746338 91476.4405334857 118844.4658836725 152113.0954056564 346718.6515494798
+72 2048-32 64 15142.3702347014 33733.9002298975 16426.3498277461 6030.9917210256 117752.4602978254 64514.0113375627 91954.1564984685 119337.8472875132 152913.2699394979 347692.7997842537
+72 2048-64 4 15033.3138861975 27877.0090864314 13348.7490178350 6029.7087189583 13547.8925590957 60531.5362999072 85833.0938049210 110619.7631109131 144449.7356888586 324847.8135058226
+72 2048-64 8 15024.2229628463 26065.7211621748 14824.7246842415 6030.0097089164 13777.7915359748 60903.0802704364 88092.3926377692 114529.4655338798 148965.2073802011 329434.5957201673
+72 2048-64 16 15074.9967842336 32939.1343359445 15792.9731790925 6030.0419754739 28377.5735083239 62852.2237852944 90017.3617722155 117523.7919477772 151054.5356824505 347416.8487626807
+72 2048-64 32 15132.2360168000 33429.3198549526 16210.3439363411 6030.6594645423 60077.0805311290 65041.8413637641 91484.8647022047 118866.4410375096 152122.9033667317 346618.6693634740
+72 2048-64 64 15154.0384698359 33693.2668730903 16394.8780398465 6031.2288871309 117546.5394879494 64508.7848241207 91997.7198107155 119387.6698795080 152880.7071667554 347521.5516442322
+72 2048-128 4 15039.4876118075 22714.7024718500 11925.1553902109 6030.0769209065 13282.4667039262 60543.4890710644 85824.7784402805 110617.4665597334 144407.8600792640 324784.5752999751
+72 2048-128 8 15054.9195651230 22690.0639596727 14168.3412576859 6029.0247066998 13839.4284025233 60898.1367692338 88134.7267694147 114550.3687812671 149005.8960704998 329474.6976355262
+72 2048-128 16 15071.3983627656 30635.1679902726 15475.2644409691 6028.7824450830 28160.5986989625 62854.6669516742 89998.2327149191 117538.1401006881 151109.0264496317 347360.5335265894
+72 2048-128 32 15122.7369214030 32962.7336179795 16081.2260027446 6030.0961159086 59847.6616034120 65060.2508888120 91476.4507228061 118859.2132013520 152186.8478203412 346888.7809607810
+72 2048-128 64 15131.4553215271 33589.4375425313 16368.9545575709 6030.3025401724 117170.9768989714 64508.7461840710 91981.7947677110 119382.9775853836 152924.8085034998 347794.5103013207
+72 2048-256 4 15039.0798889482 22845.3730362699 10504.2110619896 6024.0444927597 13755.6337803718 60546.3882210204 85810.2109117091 110671.7146273907 144469.2542889622 324829.9186498155
+72 2048-256 8 15029.9264940695 22880.7146228245 13088.4810103944 6024.9933320598 14102.6276335296 60888.6964080052 88115.3274707328 114533.1250682278 148989.4857783868 329185.2036801090
+72 2048-256 16 15072.9715645858 30359.6352300229 14984.1997832930 6023.3244536335 27103.4796015774 62851.5573540170 89999.9349349826 117527.0989647956 151110.0743517994 347456.4749686424
+72 2048-256 32 15114.5720101481 32436.7240425142 15825.6270628887 6027.9211231199 53562.2552376993 65056.9141251263 91499.5020157874 118859.7110440225 152078.7992802745 346453.1022091059
+72 2048-256 64 15138.8361194700 33507.6421681966 16217.9594465322 6027.6891856849 102594.4825963826 64473.1564486961 91955.2770078152 119327.1960278026 152899.2685805704 346296.7752488357
+72 2048-512 4 15030.4371534950 22890.6006398188 10069.3570810432 6016.5132915648 13136.8251317957 60536.0045587882 85796.7456307138 110646.9946988070 144432.1640023695 324484.9442280762
+72 2048-512 8 15035.5362580389 22920.5580631832 12859.1061655909 6016.6847502305 12926.8919761669 60890.6144589903 88129.1970409278 114555.4168070473 148932.1661311287 329406.4420059974
+72 2048-512 16 15077.0057384185 30195.1250388449 14612.9570794579 6016.9913537650 26611.8615272615 62878.6985094799 90021.8164060222 117524.2349984009 151079.4993672764 347401.9926574787
+72 2048-512 32 15114.8099870014 32203.0465078841 15591.8824539262 6024.6798092015 53885.8984011502 65050.7431255138 91491.8870287892 118885.2689928154 152196.7393683212 346769.3792102700
+72 2048-512 64 15156.1669258536 33048.4786939559 16093.5824575099 6028.8712314117 103669.5652135124 64537.9372943949 91966.8287764854 119405.5672154330 152834.4001209222 348103.6308729108
+72 2048-1024 4 15043.3290169655 22741.4987019099 9596.6226107145 6010.6214133004 12885.2634445915 60561.3036416761 85851.0732876767 110685.9529579861 144433.2897079760 324630.8762067424
+72 2048-1024 8 15031.0125968050 22764.2255111687 12246.6652392900 6010.1548499201 12776.0771317795 60904.3540904123 88138.3841976956 114517.5578267938 149046.2150385404 329543.0226873813
+72 2048-1024 16 15056.8645477324 29339.9774710940 14375.5793092770 6010.7056338342 26426.6193825637 62850.8111408902 90008.3013071155 117493.2428008211 151136.8717557375 347177.7650370242
+72 2048-1024 32 15111.7811381918 31558.1246079844 15296.6698973326 6021.4912049373 53914.8549985787 65064.8471929503 91478.8602018973 118897.6515535298 152168.8675523690 346603.2823860074
+72 2048-1024 64 15141.1728030988 32520.4678960495 15871.6596552529 6027.0613709767 103633.3838312962 64537.4264405015 92020.6404596739 119366.7949724317 152979.3895531664 347642.4802141179
+72 2048-2048 4 15041.4595723281 21115.9125841289 9027.4716186308 6009.2507917178 12977.3213921506 60557.7438468389 85820.2651548101 110671.5198376718 144448.6999888568 324871.8932077172
+72 2048-2048 8 15038.3289480347 21082.5613864953 11402.6240501739 6009.8416481920 12896.7684649247 60919.5364677441 88164.8666504446 114544.9118068147 149036.1596982909 329591.2905183525
+72 2048-2048 16 15057.5355790456 28464.9250044129 13441.2153351397 6010.7500486565 26567.4467736674 62878.5684776940 90032.8796835845 117493.8498949337 151120.5131723073 347566.9463471094
+72 2048-2048 32 15117.8820609675 29851.9067061106 14963.0234047351 6020.9172984850 54111.1653698606 65069.5752265263 91477.1195733520 118901.0448631955 152144.4540463616 346352.9588794638
+72 2048-2048 64 15142.0908333901 30846.3215043150 15585.2124233320 6026.3680363270 104128.0886894302 64534.1290564490 91964.0126661560 119394.7090402252 152965.3565945001 347773.1695357326
+72 2048-4096 4 15038.2840161668 20578.8939124191 8766.8771919800 6008.3154823246 12559.5325501325 60567.4611003387 85858.0742870856 110646.2410337117 144407.4359964038 324801.1537010219
+72 2048-4096 8 15035.3461102136 20681.7556054990 11156.7597523157 6008.7802345070 12666.9197131466 60903.0675791996 88116.0374034620 114538.5374139576 149071.7159478667 329533.4602211880
+72 2048-4096 16 15066.2134268291 27343.0695401658 13739.5685856794 6010.3944902094 26306.4504977793 62857.5988656791 90027.4980557809 117509.2898960741 151188.5143322210 347334.2957449053
+72 2048-4096 32 15124.0795029217 29081.2634321803 14985.9044315598 6021.1320425281 53853.8505484824 65056.8700203143 91493.1708338543 118898.4858302652 152153.5677549220 346672.0039300705
+72 2048-4096 64 15148.3866405087 30329.9804869058 15767.9184423992 6026.6432395786 103697.3140995349 64518.0381942650 91946.4310227467 119330.0347231155 152747.3798628785 347855.9161945060
+72 2048-8192 4 15037.8685162541 20219.6180787758 9129.4571056336 6007.8853139479 12713.4936321097 60546.3807561620 85842.8607562728 110671.5016298262 144507.4478836280 324948.4601095968
+72 2048-8192 8 15037.2902478764 20261.1775359036 11278.5338669893 6008.7874952337 12812.9911316356 60900.0522584890 88130.8341042184 114546.7096026468 149004.1499137036 329339.0957380141
+72 2048-8192 16 15069.1554389914 27301.3968772229 13666.6819295545 6010.2380337478 26453.3616964829 62881.9118790271 90018.7209821090 117518.4274876182 151138.8507210210 347538.5136107679
+72 2048-8192 32 15108.1757227132 28952.9266603592 14994.9849514838 6021.7018859370 54072.6516450567 65058.7342429194 91471.5107177181 118918.8519866863 152216.9916980067 346560.3139921718
+72 2048-8192 64 15124.5425464161 30283.9085316625 15742.5275029358 6025.9113482321 104041.9424651937 64527.2977558004 91996.7235058768 119390.8353534764 152898.3484160686 347951.7232858425
+72 2048-16384 4 15054.1577521645 20256.0172632800 9200.1578523172 6006.2502678767 12644.4938240224 60565.9166523831 85865.8503267514 110684.7550165114 144517.1176827537 325024.9834864117
+72 2048-16384 8 15032.9721706003 20317.4097832920 11340.9551784891 6010.3232922818 12773.5071600629 60904.2343397221 88134.9556590086 114503.8047052883 149002.1860392257 329477.1294093332
+72 2048-16384 16 15056.2407183946 27296.8341676345 13705.3521992016 6010.0779518966 26384.1717098703 62856.9328814582 90003.5637386939 117503.1944555627 151065.5126098769 347316.3644230817
+72 2048-16384 32 15121.9468439356 28966.2286457998 14998.5169694811 6020.8675437583 53913.1863802974 65062.8726176655 91477.9036778559 118861.7529674684 152145.4266206362 346240.3924188730
+72 2048-16384 64 15154.0648364679 30323.0670231210 15752.7743178487 6026.7329167743 103782.7610990456 64519.1027899518 92013.4515439215 119386.7265711609 152831.2486825045 347574.5961964243
+72 4096-32 4 15079.1845820897 28890.1637519027 13559.4162906997 6031.1809018524 14198.0176284154 60026.1611261150 85901.5893115673 110718.5503205575 144516.7315345755 324676.6221282620
+72 4096-32 8 15114.7216622297 30541.8964250965 14978.0944938359 6030.9798553039 14217.7006180437 60649.2023089699 88129.8315584377 114541.5019435711 148956.2852290933 329399.7328456121
+72 4096-32 16 15104.5032119103 32907.3617672949 15861.3145529459 6031.9432145028 28478.5136852046 62940.7904554514 89980.2254615453 117524.4724042849 151155.9957447308 347216.6706473183
+72 4096-32 32 15134.8707250615 33470.0837567047 16237.8149371112 6032.0281529531 60140.6105836204 64710.4491529936 91501.8606409258 118893.9704535370 152029.1181473546 346704.2631490606
+72 4096-32 64 15102.7162236348 33707.9964862080 16418.8348823955 6031.3410971559 117659.6211864930 64461.0895312810 92007.5045307303 119346.9035301116 152897.2176984341 347769.2925864056
+72 4096-64 4 15064.1012636997 27291.8148720635 13186.7859861161 6030.9713595021 13738.6352335052 60022.5335916859 85851.8962502919 110675.6509658285 144487.7658968599 324957.7771918116
+72 4096-64 8 15104.2185967055 25767.7335509075 14722.8512388622 6031.1148926137 13875.7322323779 60648.9503470137 88105.9662646130 114555.9149666826 149041.4761021848 329460.5019986369
+72 4096-64 16 15136.2949893949 32784.0255986860 15759.6842738676 6031.4744732120 28317.4872440231 62943.7382789121 89977.6705335926 117527.9066187978 151164.8049481190 347253.0327007723
+72 4096-64 32 15131.7914186164 33394.2726233479 16198.2194131153 6032.2192878747 59962.0096598418 64712.7979538879 91458.3681778339 118856.7592608220 152189.5504469630 346591.7989349807
+72 4096-64 64 15115.6461293104 33673.9368669699 16405.2197793774 6032.0316845242 117457.1549399910 64444.1935481124 91939.8940615829 119374.5194794875 152934.5908440059 347571.1121544422
+72 4096-128 4 15056.8461847948 22536.3605927668 11898.5161070052 6030.7022873782 13465.8914221176 60009.6520056114 85855.3550242934 110647.0244027610 144486.0031900807 324697.3338945186
+72 4096-128 8 15099.7145082456 22553.2301424710 14082.2046526499 6030.2615318622 13935.7834242618 60637.3051037876 88048.8490420146 114512.9177947399 149050.1689174294 329612.9707879469
+72 4096-128 16 15122.9350815233 30624.3962411239 15447.7598842926 6029.4383785463 28107.4839557455 62940.5348872854 89980.7652679109 117530.3410308785 150985.7505316654 347318.2112586813
+72 4096-128 32 15119.3317886321 32952.1306404169 16072.2466413680 6030.5667455530 59755.1641953765 64719.6384053732 91434.7483804527 118900.8806396869 152148.6791788210 346197.6409956952
+72 4096-128 64 15086.7040579912 33587.1160517939 16372.7691602075 6028.6962546719 117080.1369226408 64426.2368016615 91977.1126197159 119130.8962729268 152898.2296855101 345459.0936873433
+72 4096-256 4 15058.4631459828 22691.6178568088 10550.7049229252 6023.9665725086 13899.2436623921 60020.5912846190 85825.5842236327 110649.3042500409 144494.0856480360 324722.1939222629
+72 4096-256 8 15091.8276350920 22690.9644952041 13022.9947453584 6025.9558036200 14212.7085534113 60628.2064791404 88072.6440440680 114542.0958308141 148925.7023709944 329388.8873977935
+72 4096-256 16 15106.2323034837 30324.3530015937 14966.5934563831 6024.1741237139 27132.5255890501 62938.8328110958 89994.7212202370 117537.3575480333 151112.6373412838 347309.4016049693
+72 4096-256 32 15124.2555400454 32427.0039523570 15815.0358219131 6028.2316789462 53627.7967658145 64711.2914794036 91463.4006294940 118890.6002342329 152151.2730482541 346693.0873208177
+72 4096-256 64 15116.1643966250 33469.5142640738 16225.9856801270 6029.8943558458 102634.9059884409 64449.1667233347 91971.2914516260 119359.0741037279 152895.2186886406 347373.6035475577
+72 4096-512 4 15059.5178271025 22689.8982020268 10143.9084282966 6017.1523469833 13316.8998008720 60030.1083778724 85829.7072684148 110683.4760945427 144459.7557071976 324903.1572337582
+72 4096-512 8 15102.6380905142 22675.1601282262 12809.4757495766 6017.4989749757 13027.4249857430 60654.6994703265 88110.8110531476 114544.9643744367 149065.6205114190 329459.5416102469
+72 4096-512 16 15119.4381740146 30127.7414023247 14562.5681292228 6016.7696050162 26545.3433445161 62950.3065407618 90008.8250150851 117536.1220516695 151077.3154637507 347273.3116484236
+72 4096-512 32 15133.4154962892 32160.4322267190 15585.5371078258 6024.4966070196 53912.3687105597 64717.5492404894 91485.5117098056 118876.1674035022 152039.4890947717 346445.1061418624
+72 4096-512 64 15128.9675586568 33010.2808866375 16096.7010366347 6028.7486849692 103727.6563113143 64459.8747485638 91994.7178422789 119394.2890042609 152971.1048952275 347318.3261135975
+72 4096-1024 4 15061.4860827650 22454.3188845892 9690.4414761277 6010.9923468028 13064.1307190820 60027.0797243223 85824.6803626458 110647.7656669005 144513.2851835808 324752.6844468389
+72 4096-1024 8 15119.1832104748 22453.1575566848 12317.9084638390 6010.8540363620 12864.8146311668 60640.9312587790 88119.6778604627 114524.6009821967 148976.8492118055 329641.9188489756
+72 4096-1024 16 15119.7990650487 29419.2059674868 14383.9231791728 6011.3462686366 26370.2528441411 62944.6024465993 89988.1443690771 117525.0066614948 151113.3806547710 347246.1119491077
+72 4096-1024 32 15131.1435117978 31535.8535730325 15295.6981011017 6021.4836223982 53983.4989140957 64686.2508105304 91503.8111476056 118898.4082084654 152142.1388406349 346526.8148969182
+72 4096-1024 64 15119.0052692776 32458.8322191253 15865.2548143631 6026.8891642427 103760.0650466520 64453.6329604857 91959.0322705973 119333.8730563321 152792.3057437212 347699.9307730154
+72 4096-2048 4 15043.3194397779 21531.0261629487 8894.5814059410 6009.9835103786 12913.2417670130 60034.3488368772 85842.5912090316 110655.5187768782 144445.8991533189 324480.0540755639
+72 4096-2048 8 15123.3080415574 21579.8005770479 11309.0170496923 6010.3948873797 12799.5933071300 60678.2394710004 88139.7892821942 114532.8073305064 149101.4898128991 329583.9960529793
+72 4096-2048 16 15118.0525831657 28301.0643754532 13343.5005172279 6010.8075673591 26231.8739313738 62972.0650832598 89995.4567653903 117486.4062937805 151133.9050462103 347498.4521696418
+72 4096-2048 32 15115.4390927714 29658.1707650963 14924.3550294312 6021.2427771978 53938.5845402536 64721.3757215549 91475.3696827178 118875.1032903517 152142.9772647047 346428.1664608830
+72 4096-2048 64 15106.1634897569 30666.1114680472 15540.8852340104 6026.3692445355 103670.3120863039 64453.6034094167 91960.6291921461 119363.8852585861 152840.4468776690 347788.8092247698
+72 4096-4096 4 15074.2644955859 20429.3569251234 8850.4305926937 6009.5568998536 12865.7628770766 60059.9750944112 85848.3008791709 110632.7044834016 144470.4923569539 324770.1829007408
+72 4096-4096 8 15094.5783042294 20619.2454884939 11205.7113189732 6010.9404990876 12912.1831187313 60649.0268569520 88137.1170932347 114487.2136712721 149071.4146481015 329227.3344703222
+72 4096-4096 16 15123.8080312015 27668.4339886875 13787.6548118476 6010.9135243134 26505.3771706115 62953.7553491560 90019.1185608190 117547.3825383061 151109.3241677983 347586.4072260508
+72 4096-4096 32 15139.2865277957 29063.1040326208 15025.7387635130 6021.8923625685 54188.0774895634 64717.8477496694 91436.2209419776 118863.0050540229 152046.6661307523 346634.1675011269
+72 4096-4096 64 15118.2045477594 30247.4034256833 15795.6470014122 6026.8581440790 104238.1486074900 64424.4015873019 91937.2968189401 119335.2074396686 152792.3389539567 347911.5263226078
+72 4096-8192 4 15060.3277312481 19648.4212524929 8971.3684275697 6009.3766585812 12706.7838230738 60038.7241866747 85824.7704277448 110675.8098804299 144476.6184767294 324757.2184088889
+72 4096-8192 8 15100.9759998769 19718.7208630267 11147.9783572075 6012.5453286517 12798.9564949069 60643.6013429719 88095.2786522274 114496.8624428962 149010.9229316549 329511.3515388480
+72 4096-8192 16 15126.5353357058 26853.3313480995 13573.0655565847 6011.7622396504 26233.7114446425 62959.6842997477 90002.4506868677 117558.8938006534 151059.9122837235 347076.5914949468
+72 4096-8192 32 15121.1770062664 28560.5264168358 14946.4248023040 6021.9241686436 53992.8782456179 64693.5250278913 91473.9039937185 118865.6935961530 152201.4248530893 346721.5127359181
+72 4096-8192 64 15123.9744600834 30014.7074891954 15715.5527795677 6027.2079571625 103860.0293460956 64455.7466370863 91942.4555540341 119380.4132833861 152845.9989058575 347689.0236752190
+72 4096-16384 4 15066.2821188919 19776.1584730767 9063.7302519235 6009.6004591423 12709.6027210873 60047.5871445697 85822.4358485174 110683.6500952625 144487.7353461788 324749.6577694092
+72 4096-16384 8 15109.3240466872 19856.7183434263 11236.3964783829 6011.5585588375 12828.1358973183 60638.3854499314 88108.5761924568 114544.9090419990 148995.0695310366 329640.1787571585
+72 4096-16384 16 15116.3621534605 26953.2075610757 13632.9635966976 6011.7201159877 26264.1580693278 62918.3477650783 89985.3398237080 117539.8403503926 151131.8467993662 346894.1338761726
+72 4096-16384 32 15122.4575568747 28621.0756761658 14958.9953317859 6021.6264944000 53922.6567202699 64699.3725678813 91509.4416489060 118874.7821591853 152113.7604296859 346703.4185728221
+72 4096-16384 64 15114.8178523579 30070.8445338319 15710.3770440179 6027.1920412913 103750.4672322097 64448.2641453827 91971.2165987240 119376.7150873937 152901.2273242752 347862.3249436420
+72 8192-32 4 15108.9510116749 28066.9035076890 13224.0710485939 6031.6188201686 13977.8387906873 60701.6423920026 85812.2353417736 110696.6654658951 144491.7564138251 324910.4106557516
+72 8192-32 8 15114.4485107515 29549.0235251032 14732.7377982279 6031.5251477463 14093.2437358615 61220.5841611009 88109.1187978199 114552.0794953439 148953.4095763460 329546.5620697452
+72 8192-32 16 15114.6520175797 32423.5146590497 15718.4060840194 6031.8006037612 28453.1590346016 63496.1290300310 89979.7211509682 117517.2000659573 151129.9177059857 347404.4627391472
+72 8192-32 32 15130.6059785554 33150.4060848838 16158.9353031532 6032.0744112518 60112.0317166084 65070.2237261459 91479.7714940222 118891.1122388107 152161.6573254444 346578.2974347691
+72 8192-32 64 15116.8661622499 33528.3970866345 16378.2260151479 6032.2858956201 117534.3665959008 64508.5243656004 92010.3101523851 119382.9889401669 152836.7686345457 347883.7105335241
+72 8192-64 4 15071.8230415383 26674.6526602363 12860.2534884518 6031.2672987066 13545.0149109484 60703.0242833178 85835.8194958650 110666.0572808372 144537.5427346008 324825.8723171283
+72 8192-64 8 15108.7320418675 25081.6360272320 14475.8867874980 6031.8313504724 13753.4098022317 61227.9409006710 88139.8792706381 114547.0927302979 148938.6096524495 329603.7484732426
+72 8192-64 16 15117.9024459129 32296.0731331075 15615.1971441251 6031.9176381814 28288.3845488527 63510.5679728200 90011.7255074149 117522.9270654842 151108.9519188834 347151.3488032391
+72 8192-64 32 15094.4507695558 33086.8733091124 16119.5030069716 6021.8659880446 58588.0540231588 65001.9585734807 91437.7246364293 118829.1383536910 151981.3726987839 341180.2938076987
+72 8192-64 64 15094.5769453733 33506.8906074098 16361.6551657783 6031.9278040421 117332.8525500080 64512.4542663229 91996.0059538568 119374.4215894546 152912.4674473587 347346.2933645982
+72 8192-128 4 15087.6136625924 22211.0101577013 11704.2173437074 6030.9112850432 13283.4283045899 60685.7496993391 85836.7839599054 110697.9232219638 144446.1840010898 324857.0070312232
+72 8192-128 8 15099.2219866098 22215.4130536841 13879.7897611531 6030.4678755312 13819.6098927651 61219.0209887157 88125.9029996843 114542.7421450065 149014.4362059399 329451.6324016389
+72 8192-128 16 15121.2828948207 30242.5962261370 15313.7762177884 6029.8275141477 28057.5862767372 63490.8626430576 89973.4432693956 117516.2601124165 151074.5145716685 347009.5859739828
+72 8192-128 32 15119.6204438338 32643.4657983770 15993.7091035418 6030.6583563426 59703.7691066706 65056.8004526617 91490.2026445870 118864.3429143722 152123.3700385634 346390.8880467620
+72 8192-128 64 15088.3375926037 33410.4098107817 16337.9187026923 6031.4071791821 117040.8123919475 64508.1158861366 91972.0119462534 119381.9661905009 152931.5395718047 347858.6533369887
+72 8192-256 4 15086.7723420702 22392.4984416988 10436.2344174943 6024.6129171887 13759.9908598545 60705.6701625478 85844.2796487522 110660.0914547918 144440.5613019963 324538.1609414250
+72 8192-256 8 15127.9752677598 22356.1774405017 12891.1607677053 6025.7627388164 14108.0856726902 61236.1121912535 88141.8717788315 114550.4992912218 148930.1564848017 329377.5590962388
+72 8192-256 16 15105.0243710135 29964.4082458771 14860.1156182387 6024.3116164839 27024.1325434373 63509.1050154361 90025.5706486416 117510.5679317963 151161.2351010979 347333.3593455953
+72 8192-256 32 15142.4053630863 32133.5645278388 15745.6908715430 6027.8925661161 53488.3073769374 65057.7798044971 91487.0491952525 118899.5461624282 152000.5752289462 346372.1793323285
+72 8192-256 64 15098.9981601713 33318.4740057760 16190.4325828185 6030.0568427063 102518.9871139304 64525.0804746085 91985.4828745720 119369.4196877524 152903.8908355820 347484.9614013475
+72 8192-512 4 15068.6416662182 22400.0769615645 10033.9785278192 6017.3085673754 13136.0643437307 60712.2313579346 85839.6214759631 110702.0079774054 144459.5645499575 324791.7293834286
+72 8192-512 8 15119.7521619644 22364.9105538559 12677.1334373426 6017.1007650298 12927.5762450893 61214.3908527103 88088.6554478036 114531.0660650489 149019.5747380537 329631.6954490606
+72 8192-512 16 15105.0171262229 29801.9743923291 14462.3724196125 6017.2431210582 26510.4957178716 63519.6095441019 89964.2823136323 117539.4779312207 151104.7611144946 347544.0054409304
+72 8192-512 32 15133.3092235723 31913.8113100769 15520.8259792302 6024.8881055739 53787.8332960823 65049.4070091848 91499.2361758309 118883.3182174379 152169.0977511881 346726.7394743369
+72 8192-512 64 15103.9265817764 32827.2015941127 16054.5725863160 6027.9898075604 103542.8702378434 64514.5804502319 91966.6267123216 119362.3891557694 152872.8941651285 347638.4194734253
+72 8192-1024 4 15061.8144116947 22224.0594307769 9594.6999789693 6010.9231147173 13053.7323215416 60702.0169106751 85815.2159422681 110678.0563995792 144522.0503938811 325053.6920159125
+72 8192-1024 8 15115.3527761621 22209.1391004535 12194.3625343448 6010.6293072742 12898.2452391735 61231.0312732078 88155.1158598557 114551.7632770603 149051.3088659574 329470.5573824019
+72 8192-1024 16 15110.5677703196 29113.5458518326 14286.0343119136 6011.3837689188 26523.9497871351 63515.2430112921 89974.8282677691 117492.6060406135 151151.5147706567 347568.1545520773
+72 8192-1024 32 15111.0989352099 31313.9930016600 15232.9774380895 6021.5957956607 54035.5477036588 65047.2419626063 91513.0552909265 118890.1179187496 152120.4216417371 346352.7186693295
+72 8192-1024 64 15097.0062585118 32287.7098513651 15834.3448591948 6026.9710948535 103892.7362843404 64523.1070808735 91983.8066595241 119346.5170894958 152925.0548115025 347865.2616714685
+72 8192-2048 4 15062.7635558323 21266.9331868037 8763.8039300647 6009.9638935764 12755.2326997461 60690.3337778365 85797.7710663628 110630.4318915642 144412.3355198255 324747.5076073424
+72 8192-2048 8 15100.6942512634 21308.0721887854 11156.1719318541 6009.9220258294 12713.8284650583 61226.2375322073 88085.8959494509 114562.8536375487 148947.7419213413 329456.3825350468
+72 8192-2048 16 15101.1845403259 27795.9758773075 13227.8593631747 6010.2915652603 26214.3720032033 63492.4372820197 89973.6699321939 117534.9576853108 151077.6835430309 347388.5803956193
+72 8192-2048 32 15118.5715952996 29254.9508132077 14844.4130083367 6021.1897397522 53804.3199728520 65056.4056563699 91436.3136186185 118874.8678738739 152156.7410974009 346686.5722569265
+72 8192-2048 64 15114.1635395243 30399.2936613399 15486.8264873737 6025.7414797404 103422.1296341792 64523.9758726930 91941.6243019387 119369.5960373878 152924.9937652874 347897.6669514321
+72 8192-4096 4 15082.3701191350 20245.9057905367 8755.1931269110 6010.1143710687 12721.2765223250 60706.4650006895 85834.6554972562 110681.0965734028 144446.8413340182 324606.9343931991
+72 8192-4096 8 15115.0874545190 20415.8868914476 11082.5657518676 6011.2718904747 12824.0794657712 61221.8950995250 88123.4909684073 114549.2280253070 149028.3222241546 329594.8114575512
+72 8192-4096 16 15112.0502304558 27203.8039806397 13678.1140513950 6011.2830406127 26450.4841364746 63507.5499765261 89987.9270811065 117496.5545639040 151135.7073516481 347249.5211248865
+72 8192-4096 32 15122.7071262491 28648.0181309941 14945.5129574346 6021.6747775445 54020.1641641130 65046.3738950531 91499.1108585145 118916.3574433949 152158.3851600093 346617.3637564841
+72 8192-4096 64 15116.5530697724 29951.3001485381 15732.6460257782 6026.7315048781 103985.7854690129 64510.8567083399 91957.9308613213 119375.8903776403 152891.9379060630 347785.2896365293
+72 8192-8192 4 15089.0682039275 19682.3799142173 8992.5656793114 6010.1572813560 12780.6842360937 60716.9959139096 85802.6502348725 110664.3746664798 144480.0470767352 324537.2354289503
+72 8192-8192 8 15111.8255511554 19775.7246813019 11144.2503801816 6012.5499559218 12893.9559974327 61228.5946261388 88081.0366680265 114547.0338291335 149013.4873880374 329355.7592694359
+72 8192-8192 16 15109.1843157760 26912.9444728856 13563.5106159213 6012.0767954526 26476.8727778391 63514.2936556875 90026.3901333552 117493.8403790104 151101.2507425672 347303.7456868099
+72 8192-8192 32 15144.3588766476 28447.7594230325 14941.1128677329 6021.5870275432 54100.2038963004 65024.5943182398 91507.9122517006 118923.3749055695 152142.2051906178 346620.2240869193
+72 8192-8192 64 15120.7699199570 29901.8504562126 15710.1238522147 6027.2026642777 104186.9772816464 64520.6902738918 91998.4297847450 119371.1698053377 152989.3266896954 347633.2834625496
+72 8192-16384 4 15095.8765008346 19570.0850098272 8990.4522007325 6010.9614963276 12531.5713297708 60700.2263190337 85840.9695468950 110660.1747479228 144481.6050039890 324642.8450147916
+72 8192-16384 8 15117.9549408752 19662.0886057165 11147.9613945420 6010.6059883389 12720.2729372397 61219.0001059433 88113.6387530478 114516.1592801396 149031.0863875076 329227.8274665285
+72 8192-16384 16 15107.0290146123 26614.9379045111 13550.6847321737 6012.4738158633 26211.5184848880 63526.2820136306 89990.5041810401 117511.8279425533 150979.1713761833 347379.2630469934

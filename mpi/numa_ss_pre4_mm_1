@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+1 32-32 4 2315.2476885370 7324.9156893692 2473.2347540157 291.6074402757 992.2387498733 12470.3439502469 18551.5702361230 23509.3007511717 27147.3952293767 16095.3138090312
+1 32-32 8 2320.0394926762 8299.6970535539 3057.8892734385 291.3593263145 1043.0033656493 12297.5254271980 18730.5418358603 23499.0553685577 29428.4854386985 16285.2871040689
+1 32-32 16 2289.8871007958 9430.2483880683 3445.4941542175 291.3966496957 1817.1064795577 9194.6200045407 20374.2609790870 26450.2978836441 31027.6012024011 17024.4544149728
+1 32-32 32 2282.1781094006 10643.1288861272 3641.5431504286 291.3661155130 2796.8508382000 16163.4106505222 25199.4297505133 28015.8530463600 30573.0929194604 16889.8051203962
+1 32-32 64 2280.8573362915 11515.5827503451 3746.5549484597 291.3426642243 4000.6242764530 19254.5063935567 28571.6299656241 29503.7148685016 31430.4144772616 16989.7888654792
+1 32-64 4 2327.7846382278 6402.1858177915 2139.2532080879 291.2282215908 1039.6576638380 12497.8300569472 18370.6622725194 23523.5739209909 27205.4605900502 16092.5472681370
+1 32-64 8 2321.6504165466 6462.4169175014 2416.7449282520 291.3990674565 1033.6500098057 12341.7771353267 18732.5399899494 23415.9451861764 29439.2808881042 16281.5054013130
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node optane exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
