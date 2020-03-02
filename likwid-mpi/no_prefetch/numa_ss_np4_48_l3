@@ -1,0 +1,70 @@
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+mpirun: Forwarding signal 18 to job
+mpirun: Forwarding signal 18 to job
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+./numatest_mpi: error while loading shared libraries: liblikwid.so.5.0: cannot open shared object file: No such file or directory
+mpirun: abort is already in progress...hit ctrl-c again to forcibly terminate
+
+[sonata:76327] *** Process received signal ***
+[sonata:76327] Signal: Segmentation fault (11)
+[sonata:76327] Signal code: Address not mapped (1)
+[sonata:76327] Failing at address: 0x30
+[sonata:76327] [ 0] /lib64/libpthread.so.0(+0xf5f0)[0x7f27d41765f0]
+[sonata:76327] [ 1] /home/onkarp/mpi/lib/openmpi/mca_pmix_pmix3x.so(OPAL_MCA_PMIX3X_PMIx_Finalize+0x578)[0x7f27d1a7f088]
+[sonata:76327] [ 2] /home/onkarp/mpi/lib/openmpi/mca_pmix_pmix3x.so(pmix3x_client_finalize+0x38a)[0x7f27d1a29e5a]
+[sonata:76327] [ 3] /home/onkarp/mpi/lib/openmpi/mca_ess_hnp.so(+0x35ea)[0x7f27d2d775ea]
+[sonata:76327] [ 4] /home/onkarp/mpi/lib/openmpi/mca_ess_hnp.so(+0x393d)[0x7f27d2d7793d]
+[sonata:76327] [ 5] /home/onkarp/mpi/lib/libopen-pal.so.40(opal_libevent2022_event_base_loop+0x8fc)[0x7f27d4f2b55c]
+[sonata:76327] [ 6] mpirun[0x400f2a]
+[sonata:76327] [ 7] /lib64/libc.so.6(__libc_start_main+0xf5)[0x7f27d3dbb505]
+[sonata:76327] [ 8] mpirun[0x400cee]
+[sonata:76327] *** End of error message ***

@@ -1,0 +1,2 @@
+mpirun: Error: unknown option "-g"
+Type 'mpirun --help' for usage.

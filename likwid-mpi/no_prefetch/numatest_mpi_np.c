@@ -89,7 +89,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 		long double n_sten_t = 0.0;
 		long double t7_sten_t = 0.0;
 		long double accum;
-		for( iters = 0; iters < 10; iters++)
+//		for( iters = 0; iters < 10; iters++)
 		{
 			int j = 0;
 			int k = 0;
@@ -157,7 +157,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("str");
+			LIKWID_MARKER_STOP("str");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			str_t += accum;
@@ -174,7 +174,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("rand");
+			LIKWID_MARKER_STOP("rand");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			rand_t += accum;
@@ -195,7 +195,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("l3");
+			LIKWID_MARKER_STOP("l3");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			l2cache_t += accum;
@@ -216,7 +216,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("3sten");
+			LIKWID_MARKER_STOP("3sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			t_sten_t += accum;
@@ -237,7 +237,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("5sten");
+			LIKWID_MARKER_STOP("5sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			f_sten_t += accum;
@@ -257,7 +257,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("7sten");
+			LIKWID_MARKER_STOP("7sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			s_sten_t += accum;
@@ -277,7 +277,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_STOP("9sten");
+			LIKWID_MARKER_STOP("9sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			n_sten_t += accum;
@@ -297,7 +297,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-						LIKWID_MARKER_START("27sten");
+			LIKWID_MARKER_STOP("27sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			t7_sten_t += accum;
@@ -313,26 +313,26 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 /*		if(rank == 0){
 		struct numa_node_bw * node_bw = (struct numa_node_bw *)malloc(sizeof(struct numa_node_bw));
 		node_bw->numa_id = numa_node_ids[i];
-		node_bw->wr_only_avg = wr_only_avg/10;
-		node_bw->owfr_avg = owfr_avg/10;
-		node_bw->str_avg = str_avg/10;
-		node_bw->rand_avg = rand_avg/10;
-		node_bw->l2cache_avg = l2cache_avg/10;
-		node_bw->t_sten_avg = t_sten_avg/10;
-		node_bw->f_sten_avg = f_sten_avg/10;
-		node_bw->n_sten_avg = n_sten_avg/10;
-		node_bw->s_sten_avg = s_sten_avg/10;
-		node_bw->t7_sten_avg = t7_sten_avg/10;
-		node_bw->wr_only_t = wr_only_t/10;
-		node_bw->l2cache_t = l2cache_t/10;
-		node_bw->rand_t = rand_t/10;
-		node_bw->str_t = str_t/10;
-		node_bw->owfr_t = owfr_t/10;
-		node_bw->t_sten_t = t_sten_t/10;
-		node_bw->f_sten_t = f_sten_t/10;
-		node_bw->n_sten_t = n_sten_t/10;
-		node_bw->s_sten_t = s_sten_t/10;
-		node_bw->t7_sten_t = t7_sten_t/10;
+		node_bw->wr_only_avg = wr_only_avg;
+		node_bw->owfr_avg = owfr_avg;
+		node_bw->str_avg = str_avg;
+		node_bw->rand_avg = rand_avg;
+		node_bw->l2cache_avg = l2cache_avg;
+		node_bw->t_sten_avg = t_sten_avg;
+		node_bw->f_sten_avg = f_sten_avg;
+		node_bw->n_sten_avg = n_sten_avg;
+		node_bw->s_sten_avg = s_sten_avg;
+		node_bw->t7_sten_avg = t7_sten_avg;
+		node_bw->wr_only_t = wr_only_t;
+		node_bw->l2cache_t = l2cache_t;
+		node_bw->rand_t = rand_t;
+		node_bw->str_t = str_t;
+		node_bw->owfr_t = owfr_t;
+		node_bw->t_sten_t = t_sten_t;
+		node_bw->f_sten_t = f_sten_t;
+		node_bw->n_sten_t = n_sten_t;
+		node_bw->s_sten_t = s_sten_t;
+		node_bw->t7_sten_t = t7_sten_t;
 		node_bw->next = NULL;
 		if(numa_node_list == NULL){
 			numa_node_list = node_bw;
@@ -343,7 +343,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 		}*/
 		if(rank == 0)
 		{
-			printf("%d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n\n", i, wr_only_avg/10, owfr_avg/10, str_avg/10, rand_avg/10, l2cache_avg/10, t_sten_avg/10, f_sten_avg/10, s_sten_avg/10, n_sten_avg/10, t7_sten_avg/10);
+			printf("%d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n\n", i, wr_only_avg, owfr_avg, str_avg, rand_avg, l2cache_avg, t_sten_avg, f_sten_avg, s_sten_avg, n_sten_avg, t7_sten_avg);
 		}
 		i++;
 	}
