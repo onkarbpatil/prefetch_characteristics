@@ -89,24 +89,24 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 		long double n_sten_t = 0.0;
 		long double t7_sten_t = 0.0;
 		long double accum;
-//		for( iters = 0; iters < 10; iters++)
+		for( iters = 0; iters < 10; iters++)
 		{
 			int j = 0;
 			int k = 0;
 			int l = 0;
-			if(i == (total_numa_nodes-1)){
+/*			if(i == (total_numa_nodes-1)){
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[0]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
-			}else{
+			}else{*/
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
-			}
+		//	}
 			long double empty=0.0;
 			long double empty2=0.0;
 			
@@ -345,7 +345,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 		{
 			printf("%d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n\n", i, wr_only_avg, owfr_avg, str_avg, rand_avg, l2cache_avg, t_sten_avg, f_sten_avg, s_sten_avg, n_sten_avg, t7_sten_avg);
 		}
-		i++;
+		i+=2;
 	}
 	free(rand_tab);
 }

@@ -96,19 +96,19 @@ while(wr_dist < 32768/sizeof(double)){
 			int j = 0;
 			int k = 0;
 			int l = 0;
-			if(i == (total_numa_nodes-1)){
+/*			if(i == (total_numa_nodes-1)){
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[0]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
-			}else{
+			}else{*/
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
-			}
+		//	}
 			long double empty=0.0;
 			long double empty2=0.0;
 
@@ -1202,7 +1202,7 @@ out77777:
 		node_bw->t7_sten_t = t7_sten_t/10;
 		node_bw->next = NULL;
 		}*/
-		i++;
+		i+=2;
 		if(rank == 0)
 		{
 				printf("\n\n");

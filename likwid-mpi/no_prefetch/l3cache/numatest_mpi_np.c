@@ -64,7 +64,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
     }
 //#endif
   	i = 0;
-	while(i < total_numa_nodes){
+//	while(i < total_numa_nodes){
 	// Dynamically allocate the three arrays using "posix_memalign()"
 		int iters = 0;
 		int stride;
@@ -94,19 +94,19 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			int j = 0;
 			int k = 0;
 			int l = 0;
-			if(i == (total_numa_nodes-1)){
+/*			if(i == (total_numa_nodes-1)){
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[0]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[2]);
-			}else{
+			}else{*/
 				a = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				b = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				c = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				d = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
 				e = (double*)numa_alloc_onnode(size, numa_node_ids[i]);
-			}
+		//	}
 			long double empty=0.0;
 			long double empty2=0.0;
 /*			

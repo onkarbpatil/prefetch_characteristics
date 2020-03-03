@@ -1,0 +1,22 @@
+#! /usr/bin/bash
+
+cd ../wr-only_nvm
+sh test_numa.sh
+cd ../1w4r_nvm
+sh test_numa.sh
+cd ../str_nvm
+sh test_numa.sh
+cd ../rand_nvm
+sh test_numa.sh
+cd ../l3cache_nvm
+sh test_numa.sh
+cd ../3sten_nvm
+sh test_numa.sh
+cd ../5sten_nvm
+sh test_numa.sh
+cd ../7sten_nvm
+sh test_numa.sh
+cd ../9sten_nvm
+sh test_numa.sh
+cd ../27sten_nvm
+sh test_numa.sh
