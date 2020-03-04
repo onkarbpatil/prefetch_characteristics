@@ -32,3 +32,9 @@ mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O1 -fopenmp -lnu
 #NUM PROCS 48
 test_fornow.sh: line 1: !/usr/bin/bash: No such file or directory
 make: `numatest_mpi' is up to date.
+make: 'numatest_mpi' is up to date.
+#Strong scaling
+#NUM PROCS 1
+#NUM PROCS 24
+#NUM PROCS 48
+#NUM PROCS 72
