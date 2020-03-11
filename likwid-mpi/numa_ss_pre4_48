@@ -1,0 +1,1257 @@
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The following command line option and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line option:
+    Deprecated:  --bind-to-core
+    Replacement: --bind-to core
+
+  Equivalent MCA parameter:
+    Deprecated:  hwloc_base_bind_to_core
+    Replacement: hwloc_base_binding_policy=core
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+48 32-32 4 20136.6500798791 54920.7139717905 22659.5466870059 8428.6911940045 20560.2945720031 122455.7118375437 173953.7055707444 219601.1108841189 289146.1449922283 652993.6420370744
+48 32-32 8 20150.8110129658 54978.9785761712 22708.3787783267 8430.3234918809 20942.2443512335 122543.2301494148 174074.1988510542 219412.5115787359 289351.0844133764 672983.4042069512
+48 32-32 16 20357.1770404859 55186.0826461257 22739.2434836463 8429.7132457387 39604.4140570936 120492.5335595866 174659.0098933586 219490.6317433728 290454.9147608629 680959.3980742882
+48 32-32 32 20458.1069322582 55234.9049625008 22756.8214704800 8429.8318957265 77849.1697023433 118686.8284178742 174444.9754326959 218811.6398859512 289800.4145185066 685431.2080655935
+48 32-32 64 20496.7670094549 55281.5686307136 22762.6499218915 8430.4620883714 135553.6354978049 117597.5231649194 174325.0142660925 218478.7254254626 289305.5483945099 609329.0129572122
+48 32-64 4 20175.3340382236 54988.7014118313 22604.5761244049 8430.0626320387 20065.9232717352 122513.7903229407 173982.0924119982 219939.6524891642 289287.1296864066 660517.3838627871
+48 32-64 8 20138.1042072024 54925.8205043999 22691.4972509747 8430.1853108398 20330.0940967803 122607.6845175537 174155.6913345460 219299.9162211448 289517.5013145316 678809.2054684202
+48 32-64 16 20375.6438188084 55128.7686768183 22736.5371950514 8430.9144394395 39439.2157094626 120379.1186956863 174601.9681516842 219173.9066457690 290173.8978055908 681293.1752691193
+48 32-64 32 20454.7832892047 55180.4094176315 22755.1317701240 8430.5337380264 77672.4685860520 118561.4058031584 174389.6219808110 218821.0138556366 289957.3393341517 686127.3134934273
+48 32-64 64 20495.4992949987 55225.3126254410 22761.1890659781 8430.7878672909 135398.8256530334 117632.1250898776 174493.6838958171 218485.7453585291 289604.6590746171 609457.1803471944
+48 32-128 4 20172.9060000765 55131.1323105311 22321.8698546054 8431.0012007096 19850.6919076018 122613.3857678649 174248.8729059466 220044.4393663361 289662.7237582554 660474.4661256603
+48 32-128 8 20157.2977332826 55272.0263940459 22584.6255768214 8430.5094393203 20875.3106915075 122498.9101747095 173986.3269423581 219021.7702791508 289243.5234839784 678426.0434473005
+48 32-128 16 20360.7429821961 54988.5996799795 22674.7004454774 8431.2296725834 39816.9343619902 120299.0716430805 174382.9631366841 219113.0447600667 289772.3856021142 680912.0652421915
+48 32-128 32 20454.8504807108 55243.6641238728 22731.3515558829 8431.5539753019 77400.1920147646 118729.5366274067 174589.3962993047 218814.7564386470 290138.8646633613 685602.1526955347
+48 32-128 64 20490.9991543296 55305.2986744332 22760.4390511341 8431.5356762923 135087.1154503997 117574.1908804794 174432.8708997960 218260.6771707686 289491.7084882357 609299.8719431031
+48 32-256 4 20179.0885695420 55312.0494951522 21608.7147596466 8430.3794512528 16408.1064649332 122482.7254326562 173949.0931630632 219820.3265112648 289289.4987362878 660582.2369266332
+48 32-256 8 20149.3714622328 55341.2281137872 22175.5571862667 8430.3943755245 18009.8497980087 122603.3359537827 174217.6782874145 219530.4160964451 289685.8871491913 679121.2199729332
+48 32-256 16 20352.0328173223 54826.0875836144 22516.4201779275 8430.3051882946 32827.0456946151 120462.9712764452 174510.2734591462 219221.1283297753 290025.6616616892 681368.3669000614
+48 32-256 32 20470.4957154361 54917.4485728140 22640.7832464005 8431.1259588800 64133.0383144015 118518.2511237882 174408.0390496327 218530.0355980559 289861.2578354467 684719.1899720200
+48 32-256 64 20506.8097889203 55126.1237496961 22707.7331202703 8431.2315812022 119464.8180019907 117637.4755815793 174299.6864465538 218328.0228954847 289437.6258383101 609278.2989256273
+48 32-512 4 20201.2050036039 55346.8032725637 21358.1889061661 8429.4436250172 16335.9951421944 122630.5606015101 174148.7847303015 220031.7537169188 289561.7614523621 659767.6846436471
+48 32-512 8 20161.3827270855 55351.5261341253 21866.3945251918 8430.5939393312 17927.6304500461 122615.4845870500 174106.6110935325 219421.6151789038 289447.9273520960 678471.5806668216
+48 32-512 16 20370.2472062005 54634.1281176516 22266.4869729155 8431.3511070435 32857.5080684804 120357.5495872786 174468.2834369135 219347.9257698364 289931.7515356248 680978.0261534202
+48 32-512 32 20450.2951314858 54600.2048467154 22478.7269608572 8430.8575880150 64217.1263119034 118582.2482967320 174467.3204750905 218693.6741431973 289886.6618505017 685295.1623215940
+48 32-512 64 20505.3283639718 54671.2752464675 22648.5487975743 8431.0065697066 119361.1353879304 117691.3580389547 174357.2908400582 218457.3311062633 289567.3889913956 609216.2486090372
+48 32-1024 4 20182.9560303497 55332.7578325878 20334.6786617293 8429.4606137416 16378.6011631690 122521.2024589746 174116.3904549250 219971.0814376099 289575.7284508244 660226.6175207132
+48 32-1024 8 20165.2078011725 55368.8421910381 21150.6155943401 8429.4702348576 17945.0672139643 122688.5695582195 174321.9923199275 219568.4003279833 289774.6654934602 678505.0620310449
+48 32-1024 16 20356.1079745158 54228.0994292692 21773.3722662143 8429.7838603406 32850.2768133887 120366.0144286422 174367.1440855143 219008.3286461553 289602.1723194979 680689.9875725514
+48 32-1024 32 20457.6705651993 54252.1106171033 22093.7484476390 8430.5350677978 64200.5401624595 118687.5312762183 174555.4092292026 218858.2205643979 290093.5424105272 685453.3136868931
+48 32-1024 64 20493.7121061694 54110.5297349724 22360.5140882475 8430.6188595629 119320.7722082735 117620.1111803714 174367.4195468453 218537.5858795460 289567.5516769578 609217.5573932383
+48 32-2048 4 20199.2770993489 55345.8130588153 17557.6096637030 8428.0373619679 16334.9005394982 122593.7862952531 174156.6187786631 220008.5271860266 289582.8838849703 660308.0456039815
+48 32-2048 8 20168.0048830697 55370.8405367282 19494.8008859099 8428.3540985509 17922.8284103478 122669.7930180435 174276.7032873788 219427.6106294945 289702.5068751464 678247.9596356495
+48 32-2048 16 20365.3135732881 50989.5962865652 20780.1682851516 8429.3197150437 32774.3182208719 120431.3765404605 174559.1694961878 219268.1360807602 289930.1562439814 680589.4085732773
+48 32-2048 32 20443.1579015251 52545.4282007296 21697.7388730065 8430.0881344435 64094.4312567616 118640.0720117658 174553.1507794214 218662.3821673745 290160.7439754719 685588.0410240354
+48 32-2048 64 20504.8390561281 52767.7706837894 22170.3800513075 8430.5516769264 119283.7882662347 117683.6152887685 174464.9345418474 218559.6373180837 289676.9282084490 609314.5793874473
+48 32-4096 4 20184.6513964222 51778.9721671498 17163.5123993250 8428.1525867829 16283.9860235650 122666.4748398022 174221.4815260842 220330.1703873385 289675.2926854588 660208.4474614857
+48 32-4096 8 20166.6919199567 53461.8554908834 19391.9592578609 8427.9770189297 17916.7518391452 122712.4431625228 174247.8214539566 219965.5445271653 289923.1408279890 678462.0977089753
+48 32-4096 16 20373.1158588348 50611.6683831210 20507.8179590578 8428.1635410601 32802.4195560522 120333.4334907999 174417.1677408237 219115.0663510633 289747.5461400985 681143.2442862842
+48 32-4096 32 20465.7127663428 52435.9759897345 21764.4830054967 8430.1735130989 63873.6642970117 118463.4691349356 174253.7273608237 218460.7588269282 289660.4735276880 685245.0854615835
+48 32-4096 64 20512.3618351798 52682.8245715096 22301.8807793480 8430.3536145463 119158.2401281955 117543.8243754251 174317.8460118634 218211.7829930547 289398.5654996828 609256.3049512427
+48 32-8192 4 20190.8870219473 37559.4334287730 15139.1240735512 8427.1016963216 16241.9295230675 122707.8077615239 174198.4932164105 220124.7062959430 289499.5903855008 660332.1963399929
+48 32-8192 8 20164.7585234032 37727.2327583680 18703.1928527045 8427.5508571088 17921.7511225772 122520.1530328783 174044.8915915793 219216.4449518761 289424.7327602938 678565.6644453782
+48 32-8192 16 20371.9406650613 45125.6842506210 20566.1323278426 8429.0976330957 32859.8462070021 120554.1770279135 174658.9890233801 219407.7296510548 289963.6505753760 681168.1556713429
+48 32-8192 32 20468.0836318083 49944.0569042258 21650.7734003234 8429.5593887777 64217.7469609304 118546.8096956471 174303.1345312072 218652.9599840960 289735.6248546963 685290.8089800095
+48 32-8192 64 20514.5831178894 50673.4621010889 22221.2379509536 8430.1431056585 119335.1901190084 117696.3677440412 174457.1170330030 218641.4638856048 289607.4454781442 608941.3888703069
+48 32-16384 4 20182.8435819535 37236.5250715221 14843.3889371537 8427.5494054331 16247.4394567910 122640.9320527969 174360.9033821583 220099.5401396365 289838.5563070581 660629.9193595729
+48 32-16384 8 20141.5267439770 37575.8734282453 17991.3127593136 8427.8145025385 17929.5734827685 122571.9253602715 174191.6152184416 219643.2925834967 289714.6652375834 678651.0558381415
+48 32-16384 16 20379.6793668871 45286.5723798917 20097.7606857331 8428.0683136205 32855.5764821976 120470.7424266446 174569.6668836321 219612.1165885427 290281.4369487965 680634.5411581626
+48 32-16384 32 20460.7625590273 49742.7026761699 21349.4294853881 8429.3841589274 64251.7833309107 118670.0599332469 174643.2934461992 219084.9778595317 290315.4926542183 685757.8314566319
+48 32-16384 64 20511.2076914904 50332.6354687779 22037.6155472100 8429.9823126126 119416.3158483426 117700.6914976397 174499.5807570435 218949.3664112382 289918.8224548230 609301.1916206848
+
+48 64-32 4 20204.3639776957 54973.8956187766 22655.6486473309 8429.8857166423 19948.6703382798 125971.6414556131 174236.5807388573 220581.7093690681 289787.7762494761 660033.5487154755
+48 64-32 8 20202.8562339930 54987.5156460745 22704.4625144914 8431.0345085522 20311.2733851333 126024.1871861038 174241.6090367665 219367.0259569694 289665.1299616019 678353.3363969061
+48 64-32 16 20284.9370050234 55148.6668709432 22736.7774130098 8429.7376675485 38293.3651753043 123422.2620984604 174657.9538740918 219560.2324935043 290282.5730394085 681557.0251036767
+48 64-32 32 20466.7539608350 55230.7151760077 22755.4986469683 8430.7016220530 75560.8934316931 120182.1250106174 174527.9374989017 219012.3147286544 290292.5613654783 685206.3414015276
+48 64-32 64 20497.9759231316 55242.7055675747 22760.4631637186 8430.4309528631 133465.0581666643 118438.0953175415 174330.9527122046 218619.0899052094 289727.4650327595 609418.6990867641
+48 64-64 4 20202.0998307180 54926.8150075531 22601.0361972164 8429.6408289114 19491.1524618825 125840.5745894559 174048.7164941734 219858.1082559715 289401.3769644077 659759.7433712984
+48 64-64 8 20190.6688112911 54913.0151707284 22686.2541728193 8429.9021445725 19707.4900999011 125970.3757380657 174253.7221391734 219633.7067139621 289894.9971613307 678471.5358677758
+48 64-64 16 20249.2811327016 55123.4216553560 22735.2647289454 8430.3573049365 38148.5574276179 123388.1194908786 174472.7981379037 219119.1198565411 289982.3278448548 681196.6153989997
+48 64-64 32 20454.4508996979 55172.6951552079 22755.5319161269 8431.0408262042 75413.0472202879 120215.3597005958 174527.3582945301 218725.9107270388 289983.5827161055 684832.6134414857
+48 64-64 64 20491.6080442241 55219.5585739687 22759.2628120117 8430.6586467636 133287.9736363305 118471.4676422809 174339.2495326230 218406.4472973989 289546.4141510959 609154.8122482956
+48 64-128 4 20198.6646952211 55176.2948335116 22301.8690552329 8430.1446653418 19267.3770518435 125812.0189296189 174117.3798165075 219992.5676532948 289597.1299383163 660181.3776839533
+48 64-128 8 20224.2172587039 55264.1174365121 22581.4536569723 8430.6101187136 20266.3027295662 125930.2867610177 174202.2238048393 219593.8955886100 289649.4721622392 678425.5023742673
+48 64-128 16 20245.1801033370 55039.4309798539 22673.7073715730 8430.6768884408 38593.7831078043 123279.9957364177 174444.0918599319 219074.8202502574 290025.6134388182 680789.0319033404
+48 64-128 32 20464.5137946989 55220.7337452483 22729.6185897703 8430.1609031523 75151.3760894475 120148.0101614831 174428.6716910578 218462.0986931525 289745.6986574566 685176.2448117489
+48 64-128 64 20500.6088554124 55299.1686642494 22760.1886151189 8430.7192713005 133038.1760114400 118493.8049344540 174337.0004143632 218286.9586920592 289511.0014544513 609425.8291468494
+48 64-256 4 20196.3501943396 55350.5823766081 21620.6637635104 8429.7875938206 16036.8652394153 125878.7643536844 174151.5883724273 219985.8141325959 289500.2571552383 660362.9803827509
+48 64-256 8 20252.8774656147 55375.5048394329 22173.4557340468 8430.5081573856 17635.9013096265 125925.1016565692 174206.0908708419 219351.7549852107 289621.5614913732 678438.5538937622
+48 64-256 16 20274.3204699094 54843.5507745157 22511.4446319226 8430.3912870875 32014.2274279228 123487.4705843792 174615.3631468309 219264.6690706973 290106.9401360026 681065.2340656289
+48 64-256 32 20440.1254064994 54906.8085739364 22636.4904795340 8430.5309251192 62687.5863025778 120240.3309475091 174470.8729337672 218710.6081560682 289931.4388709536 685263.5768128693
+48 64-256 64 20492.5932429145 55093.5364998924 22706.5365292655 8430.1594150461 117972.8351548803 118463.1145874601 174346.1713634389 218381.7386702052 289429.4110857540 609285.5799230961
+48 64-512 4 20187.9603005435 55363.7925550714 21354.9862156296 8429.9586403461 15960.5377750200 126005.3918996045 174301.3262058345 220148.0018329422 289834.0318466046 660339.4492120761
+48 64-512 8 20220.3373801583 55364.9648438862 21863.8800463362 8430.8217508596 17526.6466778098 125804.3194965604 174046.1170602879 219315.4575511526 289376.4138316267 678472.7940300089
+48 64-512 16 20252.4644275099 54589.3586917012 22266.6946977275 8430.5850636214 32007.1608653533 123367.9934924078 174457.6563364617 219221.5378668158 289918.7727618212 681005.6872209634
+48 64-512 32 20469.2554637326 54579.7833058215 22473.8484164142 8431.4292397397 62773.2710803903 120082.1728380955 174329.2167994930 218490.8583633670 289816.6840578810 684940.3171551867
+48 64-512 64 20483.2434021216 54650.1373127299 22645.3770534978 8430.4642454532 118019.1825056381 118348.4050047138 174319.2086083039 218238.1725656574 289274.0932046978 609144.1561023704
+48 64-1024 4 20213.9464962421 55386.7995481549 20308.0994213609 8429.4191653017 16002.2199082998 125909.4668689249 174123.0913940856 219853.5179089943 289586.1139722118 660304.4330941841
+48 64-1024 8 20208.3308378611 55392.7835563077 21150.2766297139 8429.4515049529 17538.2925224025 125950.3803959404 174214.9059602261 219406.9509897771 289590.0918625737 678736.3717465669
+48 64-1024 16 20281.4922734098 54217.8014486844 21761.5917851633 8428.5095122032 32004.9210695085 123331.8973060005 174411.1082723104 219153.0076314710 289853.7193304467 681206.3124048358
+48 64-1024 32 20437.1132378956 54257.0257339011 22075.6381997447 8427.0982262253 62720.8312611918 120190.9902289553 174484.5626311541 218633.9127610837 290056.6344016747 685692.0999606248
+48 64-1024 64 20472.8304262983 54040.8760767778 22351.2640814930 8427.2582453769 117911.5553649365 118402.0269709449 174290.0142657118 218285.9950086613 289553.6443265917 609506.3893804479
+48 64-2048 4 20208.1505495020 55341.0589809557 17513.7343890809 8424.3776505553 15950.2097660493 125760.6504703459 174096.0080474020 219772.4392442822 289387.3439128090 659963.6662245344
+48 64-2048 8 20195.3576242363 55362.3920379043 19476.6812320915 8425.1942869320 17501.9246733895 125853.2630802084 174107.2182675524 219203.6127965848 289591.5351639711 678546.3263077870
+48 64-2048 16 20253.9600432951 50831.5163514776 20769.9183488420 8425.5254387120 31906.0047330795 123391.4310001129 174533.2074791512 219204.9401912542 290016.7228659631 681071.9854923428
+48 64-2048 32 20446.2070919115 52476.2120488046 21685.5817434877 8426.3921480718 62611.6869345021 120175.0236355496 174431.8180543929 218572.0138005120 289895.6333323959 685834.3782037854
+48 64-2048 64 20490.3501413280 52709.6953661970 22159.4097839443 8426.7895355068 117842.8317824696 118541.9662664590 174517.8190930173 218654.0399206017 289831.5223037934 609186.7052296820
+48 64-4096 4 20214.0695274516 51890.3570686885 17020.2791435099 8424.7080721817 15955.6439999411 125873.6944490395 174144.6441360237 220366.9118850164 289633.2715708516 660308.4692856665
+48 64-4096 8 20200.1716258145 53470.4228362054 19384.9091646044 8424.3454932115 17489.6265283615 125965.2033271002 174252.5224669293 219465.9739605089 289881.0259709308 679170.7627107989
+48 64-4096 16 20272.6500394432 50545.6817864070 20495.5559895310 8426.0409430800 31900.1609559090 123458.6439067740 174634.4427729743 219442.8607099824 290284.3122388101 681333.4890043755
+48 64-4096 32 20448.9020491420 52471.4027574146 21754.2510349580 8426.3515491776 62310.7751919035 120234.3011950949 174460.7623221500 218971.6335711119 290116.0459005667 685642.3717218754
+48 64-4096 64 20472.9700030851 52685.2612822293 22292.5391635181 8427.1206273024 117605.3375197222 118572.4129578172 174480.7373527311 218894.2551756209 290075.3764411604 609427.7908734938
+48 64-8192 4 20203.7873607663 37549.6098022588 15141.1250761961 8424.2947487447 15913.6700409286 125953.1321526009 174188.5511937499 220279.6496130970 289504.3010481781 660694.9411641537
+48 64-8192 8 20215.5044712244 37640.1677228190 18690.6835352107 8425.3938313338 17521.9355360699 125978.5195387579 174324.2677571075 219826.2629524552 289905.6728737219 679217.6501670010
+48 64-8192 16 20260.0250897527 45178.3835648047 20554.4200273736 8425.6803430920 32011.2946024195 123397.2897542025 174470.1265183141 219427.8323481051 289957.5289103200 681280.8435161993
+48 64-8192 32 20439.1737232230 49933.2723157114 21641.4816324702 8427.1198244817 62770.9944444251 120346.1024786304 174706.0300710979 219239.9040871304 290634.5013904723 685910.3749294981
+48 64-8192 64 20483.9623385333 50661.2501024100 22211.6169103914 8426.8397148958 117962.1307379151 118563.6181614478 174576.2508370237 218758.5849215170 290050.6231669518 609466.7073328491
+48 64-16384 4 20205.4743453309 37285.3457344222 14822.0878008581 8424.3194552338 15917.4239480076 125875.1029012908 174082.9096043229 220236.1448691892 289398.5758999300 660812.3993080085
+48 64-16384 8 20235.3394251705 37436.3650290397 17973.3616686431 8425.2618269362 17528.4937736320 126064.1685154426 174332.0960595263 219786.6102093088 289966.4340751426 678992.2788762343
+48 64-16384 16 20282.2146132600 45298.2906053238 20088.6200892713 8425.3664569102 32016.0434398619 123429.4535844359 174548.0116326213 219434.2444679670 290185.3668900699 681321.2190304257
+48 64-16384 32 20449.3371397432 49766.7588803611 21342.3881867443 8426.3147782407 62791.2006112147 120171.3750073124 174569.0801584829 218849.7447962536 290207.1656886083 685642.7156895500
+48 64-16384 64 20510.4328644809 50380.5933589959 22029.4607447884 8426.8731797762 117999.8003134178 118536.6456732886 174439.1951366184 218872.6218403959 289805.8463224682 609279.2797075369
+
+48 128-32 4 20248.4684839197 54964.6559024137 22626.0554410282 8427.6903996415 19467.9106267983 125789.2743291832 174258.4773443556 220478.3534041540 289756.7219502018 660561.5550966215
+48 128-32 8 20260.4599256791 54988.0153190497 22681.2131959469 8427.3183653855 20346.8600712102 124099.0209417113 174344.8590119517 219615.6300068517 290013.8605438149 679120.6581471022
+48 128-32 16 20333.5216989908 55135.9388930445 22723.3263294684 8427.2629649430 38189.4008312155 122931.1015813432 174568.4621240697 219323.7508521810 290126.1315949886 680900.7492297583
+48 128-32 32 20455.1861651960 55231.7775816813 22744.4839701839 8427.4762334000 75395.5834074039 120326.5403145462 174575.1755333862 218982.7674876338 290239.1112259269 685562.1207745849
+48 128-32 64 20538.0506795297 55279.6585041694 22752.0948929258 8427.2838716362 133511.2968853128 118523.3489298567 174392.1622814360 218631.4354459222 289855.4138314075 609234.5522769257
+48 128-64 4 20239.3191611158 54974.7184318442 22566.3491262360 8427.1239554529 19010.4602282645 125742.6182090632 174182.7844815907 220299.0710136770 289498.1594074968 660503.0549184910
+48 128-64 8 20255.4781344097 54932.2134355631 22661.6064415676 8427.2577301013 19752.2559154493 124169.5256517768 174331.2697910345 219826.7017393765 290009.0769973721 679034.5075407523
+48 128-64 16 20365.4334239343 55102.6431308667 22721.0247833809 8427.4590704196 38043.2632679136 122997.6711945824 174575.1343411155 219488.5862504433 290275.7644049143 681523.8166807260
+48 128-64 32 20458.8624001730 55148.7301041184 22743.3075477550 8427.0118479102 75250.4335898599 120277.3346751327 174379.1391404943 218779.1453700614 289944.2355831599 685870.7862921936
+48 128-64 64 20562.7092863509 55249.8619735244 22750.3525802957 8427.4429046654 133306.6381641744 118487.5756376822 174314.8777280979 218704.0192500767 289756.1811655308 609335.0292931943
+48 128-128 4 20266.9919017799 55097.5128852103 22266.8848685822 8427.5333348700 18722.5597908511 125735.0961739791 174120.9963674581 220143.8809738885 289387.6053529160 660638.9557963529
+48 128-128 8 20262.0927039850 55192.4066675545 22558.1831043132 8427.5934801713 20237.5147934656 124045.1266369037 174245.9722743768 219663.9316053910 289854.1477111068 679083.3578392303
+48 128-128 16 20345.6683436294 54961.5684375901 22664.1240996641 8428.4113983420 38447.7874989353 122856.6416842492 174464.4363362133 219238.7862996026 290035.9232909718 681326.2091313598
+48 128-128 32 20435.8157178802 55217.7392947882 22719.4863952075 8427.8347632097 74959.3448088174 120263.7612424146 174380.8721918338 218767.2196387613 290046.5504205768 685576.1617213809
+48 128-128 64 20559.2467128103 55269.0575450016 22748.8219094440 8427.9722219498 133038.2754760775 118429.3788855893 174350.3477291956 218315.6582138769 289586.4570616022 609377.3270632864
+48 128-256 4 20220.9098308383 55312.3949224401 21560.4270535948 8426.7867647575 15642.5983535107 125757.9510996902 174058.0050689262 219978.1769955102 289188.8066079602 660710.1936294200
+48 128-256 8 20258.6643849612 55334.3420120842 22118.9081784811 8427.2188362332 17549.3553433118 123950.5622637045 174196.3025745686 219408.8190319271 289547.4882950201 678798.3153437689
+48 128-256 16 20332.7786092529 54794.3245199237 22485.0613445825 8427.2619683143 31906.1826315962 122956.5196523127 174359.2646508034 219194.0454690415 289845.9156660082 681162.5878724392
+48 128-256 32 20417.9065875474 54925.7176868025 22617.7979674956 8427.6398140051 62415.0890472085 120278.3875845193 174345.3788864187 218526.8427265870 290040.8030049374 685411.6749110148
+48 128-256 64 20535.4535753414 55100.4727372566 22691.1318879195 8427.3737053007 117628.6934857492 118446.1088040046 174270.8825958915 218174.9081204633 289382.4463968112 609217.9706560326
+48 128-512 4 20231.6796033298 55331.1659396996 21323.7651137576 8426.7574719810 15591.8091845148 125677.5278287090 174069.3261370561 219811.4640790791 289406.5300121905 660664.5185000045
+48 128-512 8 20218.2237366907 55337.2086985979 21854.1675246293 8426.7125983369 17457.8967204034 124009.0399912563 174240.5414619891 219160.4660659408 289667.5745701565 678809.5479977839
+48 128-512 16 20321.5805086238 54568.7541977133 22257.2872268255 8427.8258347589 31836.7544827209 122912.0835524585 174529.0493447050 219205.8925775069 290128.7166787404 681117.2761559735
+48 128-512 32 20444.4644564420 54602.7565529891 22461.0624007606 8427.4968302583 62582.4919682166 120355.7013772707 174566.8979826871 218786.2505766358 290199.5921007570 685673.4047961099
+48 128-512 64 20580.2379508984 54640.5798992956 22634.6510582656 8426.9098742065 117753.8257515802 118579.6026863550 174503.1988153826 218774.1253060363 290114.3082945672 609466.0970009448
+48 128-1024 4 20242.3085890076 55382.3168678891 20292.5592431177 8425.3744124444 15639.3321215468 125717.5091848736 174058.3810682505 220258.1619352137 289504.0108053009 660588.0645899378
+48 128-1024 8 20240.8538835609 55378.0024914227 21086.4863986902 8425.9047968158 17487.5653764206 124039.1860958158 174169.6114119499 219508.9709540650 289819.7985170135 678612.5414651830
+48 128-1024 16 20357.6140476007 54226.5638194089 21745.2457050022 8426.1804659859 31856.6282711654 122911.6925536226 174534.9032706267 219149.0925143199 290063.8934950028 681490.8682685397
+48 128-1024 32 20451.4130474622 54255.3701778035 22067.4642565844 8427.2296875290 62618.0776610109 120298.2980731936 174474.8292555348 218693.3938026676 290018.2191071802 685931.4542207945
+48 128-1024 64 20548.2937385195 54060.4245677664 22347.0769726232 8426.7472837713 117792.1352385227 118365.1045694436 174195.9457737640 218239.2247740860 289141.8462384971 609293.8802325509
+48 128-2048 4 20239.5524078863 55337.4533721180 17550.9029829353 8424.9234846369 15621.8455561297 125875.3272237273 174390.7370110725 220381.8384947551 290056.6605511035 660806.1643422567
+48 128-2048 8 20246.5719423921 55347.3751847008 19479.6366851970 8424.3999418383 17485.4358567154 123930.2486642876 174007.5641125812 219291.6082123782 289367.7845619034 679050.9474256760
+48 128-2048 16 20318.5494586499 50930.3958600518 20758.1969169649 8425.4739238692 31809.1418668443 122935.2042779165 174566.3786095068 219412.7032181252 290068.7171962664 681409.3696905555
+48 128-2048 32 20415.9592111944 52491.9726860421 21680.7992711907 8426.0361896969 62616.9703079667 120296.4587377878 174485.7556528280 218723.9524846138 289953.6622315083 685762.8281787152
+48 128-2048 64 20544.8780715689 52685.3826200571 22153.4965809931 8426.8463864449 117850.6163848511 118490.6559076802 174404.5641615836 218376.1598489723 289739.5569411993 609693.2103554451
+48 128-4096 4 20228.8300765061 51141.8368874972 17106.4422486521 8424.4390846958 15670.7797289020 125734.8492775691 174246.5482263895 220156.6268121362 289744.5802326891 660868.4633259813
+48 128-4096 8 20225.5241333341 52835.7178809351 19381.3587110789 8424.6025710829 17589.4372260672 124167.6071505099 174484.1266814796 219905.2109737158 290213.6085381841 679086.5494827670
+48 128-4096 16 20303.8189037876 50415.8014263692 20473.7729322210 8425.7032348502 31933.8430136147 122842.5792188245 174495.4635856875 219057.3900040465 289982.0845058544 681198.3124298793
+48 128-4096 32 20446.7778925579 52481.0847586850 21747.0956818521 8426.5501471049 62671.6272543080 120364.8976590691 174546.4716153162 218791.7146725485 290168.1973384548 685366.4969718893
+48 128-4096 64 20558.7493307828 52681.7935109277 22290.1863382060 8426.7593493874 117932.8149885831 118484.4285957471 174422.3254740462 218234.8534224189 289557.7141847348 609423.4380584104
+48 128-8192 4 20241.3156882994 37362.8851906916 15044.5745995432 8424.5797246312 15546.2477703720 125752.0981143147 174078.4585916770 220050.9985885682 289484.3280671229 660353.7442244697
+48 128-8192 8 20248.8718178711 37391.2659441626 18561.7660737711 8425.1297601478 17444.5023778022 123976.6893472913 174240.9465578530 219495.0112397221 289775.6493569435 678704.4905148064
+48 128-8192 16 20328.7107993380 45060.2802833337 20507.9970925587 8425.0430102021 31825.0912313948 122797.7482810347 174466.5690961200 219288.8688736826 289855.8919118103 680929.8765178049
+48 128-8192 32 20426.4863367660 49905.3444996705 21636.8085771443 8426.7435474502 62547.5727689298 120355.1829262943 174433.7477036734 218658.6245620549 290001.8918483122 685456.7136419352
+48 128-8192 64 20532.5587337940 50571.9899910177 22207.8022529077 8426.3810994359 117674.1024034751 118375.1606378010 174181.9898491466 218140.4699843977 289225.1785719834 609572.5351117672
+48 128-16384 4 20247.1749722949 37158.4093762273 14754.0519296734 8424.6958037909 15549.1842730935 125748.0030274534 174161.8335169559 220228.4050937902 289479.0200134696 660756.3225777007
+48 128-16384 8 20244.8307201029 37205.2012368310 17969.1285443556 8424.8899654872 17451.0635752105 124067.7723044554 174280.6528562871 219499.4252339807 289780.2431571798 678987.6115157661
+48 128-16384 16 20322.6429023422 45165.5696111211 20083.3419712541 8425.3254737917 31833.3162542493 122919.9640419486 174492.6721236329 219219.3284021395 289854.4603488153 681517.6966719962
+48 128-16384 32 20436.3582551910 49701.6693536779 21339.0995633714 8426.9265541912 62577.0609467272 120260.0907719995 174381.6158923402 218810.5925817183 289863.1434624327 685531.9778314680
+48 128-16384 64 20535.4398311471 50292.3332231262 22027.1419898142 8426.9596743107 117745.6617256878 118418.1488756364 174188.9991342051 218296.0234675529 289506.6508055093 609186.1476468834
+
+48 256-32 4 20272.9851479090 54951.1168949754 22597.7391870388 8426.6111847965 19671.5331717582 122491.9914255080 174076.5412842670 220202.1152222779 289212.2998120739 660948.1704903940
+48 256-32 8 20295.8363538694 54984.6920569058 22658.1061819114 8429.2774828936 20544.9071177276 120870.6355288774 174471.5066858835 219924.6649531699 290270.0401481876 678552.7464452666
+48 256-32 16 20310.0408422868 55097.7596288420 22709.3728841086 8430.5648327032 38567.8033024017 119714.1384586573 174422.9638487205 219204.1765857681 289888.9619433294 680992.6786190320
+48 256-32 32 20410.2542061752 55160.5620187103 22741.8633741712 8429.7563228970 75574.6703365909 120809.5918371796 174524.7093929431 218982.6481914640 290197.4136746993 685344.6547760691
+48 256-32 64 20524.3274417594 55216.6887719881 22753.9344224286 8430.1965586290 133424.2937064561 118822.0144866384 174423.5189708392 218700.5912098384 289783.5791420459 609070.9877955758
+48 256-64 4 20309.7583571820 54930.6342164897 22551.5060909315 8429.7020501596 19185.7977232919 122452.0606553277 174174.9432577689 220360.7152447474 289661.2675285479 659992.7021683777
+48 256-64 8 20301.5427070038 54919.5692286829 22644.7926999707 8430.1878407808 19927.5918119974 120660.6006260483 174194.4648606022 219434.9216911203 289655.8817265343 678776.5576333449
+48 256-64 16 20294.6304274457 55064.2775781845 22708.8209268505 8430.5054332732 38421.6612010891 119763.8320179013 174515.4589802921 219161.0628071905 289876.1669084577 680772.0428011040
+48 256-64 32 20398.0027396856 55124.7910114862 22742.3207495678 8430.4178750709 75417.2406652866 120917.8688593145 174696.0549195179 219041.4175757591 290408.3154017469 684956.6458082124
+48 256-64 64 20484.5146201711 55146.2251707682 22752.4061505875 8430.4661971273 133252.3150973707 118794.4051554302 174475.9302900071 218403.2435049757 289654.5292751892 609418.2170055154
+48 256-128 4 20302.3503786751 55159.9325690343 22220.2723084335 8430.5165992721 18899.8521498206 122495.4244954662 174224.9607145905 220071.4400368395 289602.6125974959 660038.8160233798
+48 256-128 8 20305.9122627781 55283.9140178651 22531.8988544755 8431.0302208549 20429.2678046322 120638.0588309637 174183.4308169249 219378.7956495549 289695.0406857193 678547.5615516113
+48 256-128 16 20303.4527600442 54953.9255871742 22646.7965224672 8430.7425376576 38777.7337576626 119740.8190941814 174510.6935801964 219128.2630856862 289958.4832696481 681007.1544783804
+48 256-128 32 20389.3827164367 55173.7302786278 22716.0710371593 8431.1053771211 75174.5807774175 120779.6548987923 174364.2072502080 218583.1443457096 289849.7212483751 684845.4775090490
+48 256-128 64 20497.2032824148 55240.7937873044 22753.3646979877 8431.1419196401 133002.5541783613 118765.2420606842 174445.9467313779 218389.6246408818 289619.7580185340 609112.8794481404
+48 256-256 4 20299.1356285378 55273.2770749283 21535.3358470722 8429.8443965073 15677.3838643068 122497.5153936660 174001.9288093607 220159.7203646810 289414.3553846443 660083.9887998232
+48 256-256 8 20284.8008840725 55325.5152913507 22123.9940754853 8430.1502845182 17620.4235681267 120749.8728454821 174328.9688817063 219765.2839140822 289815.8767574048 678401.1356108630
+48 256-256 16 20299.1529909782 54755.4969932921 22482.8973357154 8430.7074839970 32020.7362287759 119862.6752924103 174664.2721542160 219658.6558355639 290356.0254674309 680429.3065185090
+48 256-256 32 20413.3987281493 54905.7202153386 22622.2503778497 8430.5484238765 62471.6417858129 120941.6585917303 174682.5879416960 219274.3089589538 290512.7425391012 685371.3764262680
+48 256-256 64 20536.8714200153 55019.0368351844 22697.7716783124 8430.4417044300 117612.8631542660 118875.4886176984 174473.5996400824 218834.5010354589 289463.3483312368 609276.7220581127
+48 256-512 4 20324.7564941958 55343.6965729653 21289.1172969798 8429.6185372214 15649.8736649733 122472.0626464879 174172.6887901792 220107.0328086335 289585.2775057191 660194.1547735821
+48 256-512 8 20284.0198125275 55340.5489341607 21801.1103321691 8430.0684636788 17560.6989832899 120719.0941136675 174229.7640796440 219547.5366972418 289725.9654824419 678439.3154408995
+48 256-512 16 20307.6462404926 54567.7719827145 22234.5688729054 8430.4551428508 32005.1764468510 119773.3914139243 174488.2380930041 219264.5665263624 289928.6504183783 680353.5907015362
+48 256-512 32 20387.6189012965 54527.3815843662 22454.3043545885 8430.5654177365 62617.9734002451 120745.3859865101 174438.2967269209 218544.1077254808 289943.1515429176 684993.1052235956
+48 256-512 64 20508.3510847825 54544.6663385295 22634.9019313190 8430.5417135121 117832.1537756860 118830.0031422133 174415.7211740906 218455.8648633120 289520.8659403064 609003.5496687390
+48 256-1024 4 20292.1872499959 55326.9011824941 20263.6614936143 8428.7300419870 15702.8590880321 122466.3150939763 174152.5218578410 220062.0848387459 289490.6542844044 660169.0812653158
+48 256-1024 8 20301.8614444456 55355.3897953206 21118.2402285473 8429.4322317214 17593.8728179444 120704.2386822677 174216.9649415865 219449.6402030254 289657.2397945262 678593.9410857544
+48 256-1024 16 20314.4669129827 54217.1810358966 21756.7261402727 8429.7293489312 32038.0426489360 119851.0319593157 174583.3493291456 219556.1955353283 290139.3158721211 680785.5534019481
+48 256-1024 32 20399.5801601722 54219.4108146995 22088.2174714906 8429.7561724060 62656.6015438325 120913.3126346157 174716.5862344537 219283.4280078966 290504.1047113500 685330.7952843334
+48 256-1024 64 20547.8283831646 54043.8768548231 22349.1494437426 8430.6438710026 117870.5938337775 118707.2713217279 174396.4621068936 218315.0878523962 289488.2607505881 609503.6839795281
+48 256-2048 4 20303.4697942184 55324.4179437599 17479.2773871367 8427.3944846686 15678.8224534512 122433.5492124011 174145.6440963398 219928.6090153286 289478.5202902300 660568.8650338839
+48 256-2048 8 20304.7156635431 55367.2054738604 19399.9874566973 8428.7984226503 17592.1688484417 120768.9663441991 174434.4584622729 219626.1695554979 289929.5230498218 678885.7936705938
+48 256-2048 16 20343.2292852558 50928.9906649169 20731.9040503272 8429.2144595541 31987.1937925057 119845.8326740330 174557.7858590782 219480.5172829544 289884.5659050172 681561.4163498180
+48 256-2048 32 20426.4140953339 52532.1157973937 21669.1332830403 8429.3312457660 62643.4203686352 120777.4488540962 174640.5190146140 218933.4324554365 290418.2866658832 685750.7912853740
+48 256-2048 64 20526.4344812542 52756.3137700242 22152.8729983996 8429.4095966581 117938.4313627881 118782.5158772242 174468.2228007454 218627.8149778023 289793.2142216289 609235.4900622179
+48 256-4096 4 20329.4166626816 49863.9899416328 16904.1857928899 8427.4084513400 15731.9204625813 122519.2697924636 174203.7019427227 220359.6127865756 289616.3263439311 660023.4122464398
+48 256-4096 8 20302.0650591252 51799.4767993636 19358.9261506073 8427.9010506763 17702.3197438206 120617.4744987004 174169.1326644398 219382.1073813406 289617.7062033554 678501.6630524107
+48 256-4096 16 20331.5488441351 50293.8171669746 20535.5535661701 8428.4082964439 32116.5728945153 119805.7655429534 174471.6222409624 219238.7460984756 290036.4319427330 681663.3890468557
+48 256-4096 32 20431.5146346344 52348.3744273276 21760.7656506155 8429.3444206511 62711.5137479256 120903.2269836189 174689.8550029657 219026.1412220510 290538.4576808465 685653.6857432898
+48 256-4096 64 20538.9883553705 52721.1474970210 22293.4627753033 8430.1586657722 118025.6087651733 118783.2772474652 174413.5252375542 218400.9636099040 289510.4339419386 609519.7617272309
+48 256-8192 4 20275.1335020006 37227.8060218312 15085.2763085235 8427.2170063998 15607.0455917105 122507.5451113391 174201.3099528693 220003.7718121734 289697.4301318278 660418.3827665834
+48 256-8192 8 20274.8633123112 37300.7888735668 18658.2153642760 8427.9895684960 17554.4171056194 120705.5945712916 174200.9930265033 219475.8003673370 289467.6426225852 678974.3142472056
+48 256-8192 16 20289.6889242006 44990.2467821081 20538.2467930841 8428.2085998031 32009.2003094052 119835.6662957447 174533.7332113381 219199.5668203170 290027.7564067816 680765.8608365073
+48 256-8192 32 20418.0331432977 49852.1204047710 21638.0905358571 8429.3956635004 62594.2282605010 120790.9017558990 174408.3606382178 218677.3377631011 289911.0843747603 685594.7099717461
+48 256-8192 64 20533.0900451332 50694.8147003668 22210.3282502715 8430.1827655038 117816.1290619076 118812.0761999113 174427.2707007086 218351.7725016352 289383.7604908822 609599.6908372243
+48 256-16384 4 20306.4348976963 37062.5350797424 14769.9876916010 8427.2902769896 15608.4309787331 122459.8931714579 174198.7780335359 220059.5473421148 289571.8865512929 660582.2480705629
+48 256-16384 8 20291.3941747145 37110.1396235538 17927.3542249023 8428.0740076283 17557.3202426726 120710.5696347999 174129.8212745836 219358.5370640825 289485.6407370955 678796.1254211292
+48 256-16384 16 20313.5475217083 45133.4877151175 20063.6011637426 8427.9430054284 32014.0242117981 119856.7076543271 174581.3301262501 219405.6538774110 290250.1884187614 681452.2766656682
+48 256-16384 32 20368.5016271678 49615.9934106901 21327.1053916038 8429.5459339739 62627.3930753321 120733.9906859316 174374.5163957610 218731.4929938561 289890.0134667169 685270.5903327029
+48 256-16384 64 20496.4275715457 50432.2981457966 22030.5383348539 8430.1042115371 117846.4379552702 118816.9064291509 174443.1071923865 218597.1567888648 289654.1942194313 609467.0241688354
+
+48 512-32 4 20290.9079721071 54964.8149082409 22554.7305896558 8429.4184254375 19525.5102629809 124747.6227945145 174098.7735454801 220006.8677302998 289326.2126180259 660550.6749368745
+48 512-32 8 20311.0553767131 54988.8899945152 22617.5493062563 8430.5490760741 20423.3271961961 122884.3311548579 174432.9851953345 219714.8894464646 290047.3457845964 678884.6509138539
+48 512-32 16 20233.8618779028 55095.9223213723 22675.9285699273 8430.5936877300 38675.3130120821 122155.4416928882 174638.3164807216 219473.2618887554 290104.2573364504 680968.5508558228
+48 512-32 32 20316.9796309051 55120.8970871826 22713.1077425387 8430.5304481469 75869.1622441201 119599.3253404349 174415.2161400892 218578.6755244723 289946.9979552880 685593.4435226759
+48 512-32 64 20326.0392785267 55180.4070201366 22743.3627685560 8430.7051329829 133329.8386426957 118786.6576720562 174175.2226380871 218153.9024370816 289238.1121116476 608947.2874560425
+48 512-64 4 20302.3329516995 54967.3689381866 22489.2144728172 8429.3220664361 19047.7240454516 124700.5228705209 174257.2021934598 220303.9194623027 289728.8934736239 660092.8781371169
+48 512-64 8 20320.7698802642 54959.6854631530 22592.9329415787 8427.2810413244 19796.6712225850 122882.2517292379 174249.2818130705 219629.1700906390 289845.2104002511 678967.8195635470
+48 512-64 16 20259.4454519737 55094.6885578141 22666.9593730954 8427.0835147796 38515.9198434924 122229.0350489434 174623.3687883607 219636.4709780955 290282.4672547559 681098.6116718194
+48 512-64 32 20350.6040120150 55071.9687035928 22704.2736995648 8427.2167954123 75670.7200770351 119697.3792906111 174570.8940462969 219154.8951950948 290390.5345252482 686016.6662877457
+48 512-64 64 20365.1739233022 55155.5960454535 22733.4412633261 8427.8633688385 133137.0752025842 119053.3535441090 174627.7592662682 218902.3905661649 289995.4210364117 609322.6286153377
+48 512-128 4 20328.4704177558 55171.7759383553 22159.8573535645 8427.4468628859 18779.9116920580 124768.4259504883 174433.7685231022 220493.8212945771 289951.0701281217 660600.0581927125
+48 512-128 8 20299.4979234542 55258.3129281218 22493.6692601132 8427.5723343647 20307.2626398792 122827.5909305303 174296.4191238566 219803.5559298879 289973.4560656183 679097.2981381579
+48 512-128 16 20218.1522126351 54869.2936134434 22610.8933537648 8427.8053018953 38877.3822599872 122101.3634034461 174488.1283153017 219246.8250532778 290071.2003095203 681246.6169646482
+48 512-128 32 20331.9743564013 55116.4202254465 22680.0990229367 8428.0004716020 75427.1198950059 119460.9340161556 174342.0246470093 218526.2045312580 289867.8411132254 685406.8060551932
+48 512-128 64 20333.7387861771 55115.7010150674 22734.2707937795 8427.9996732685 132854.0369960282 118942.8809181321 174356.4185886737 218407.9322114689 289558.4552711177 609517.7407476928
+48 512-256 4 20279.5169931215 55271.7594419501 21421.8500645145 8427.0113006079 15652.3113882551 124668.4149892662 174116.7472647683 219997.8623307381 289495.9805062989 660543.2692300276
+48 512-256 8 20311.7813204818 55346.2474233677 22055.4028610510 8427.8536132812 17581.3243981425 122921.9950209436 174375.2344473551 220026.6036363341 289978.3362275587 679010.9966651565
+48 512-256 16 20237.1467287342 54745.1963530085 22436.0430812076 8427.7529708436 32004.4640934796 122093.6143378548 174531.3625016697 219414.0594153372 290138.9175263377 681436.6095328246
+48 512-256 32 20336.3071467253 54855.4487139059 22585.3977684442 8427.9027681470 62563.7770345532 119624.6626130934 174548.4771789697 219089.8705102135 290334.9576255913 685713.4849638726
+48 512-256 64 20332.2158679024 55023.8527667094 22677.9895205841 8427.5422606001 117776.9584231363 118864.8179669889 174471.2403682619 218673.2567316721 289923.5624650442 609590.7716758032
+48 512-512 4 20320.3817215339 55307.7702016736 21178.9451409433 8426.0466788868 15615.1383125587 124763.0515178088 174102.7278884491 220209.5805534519 289510.9712666114 660723.9569284721
+48 512-512 8 20310.1042081064 55328.8250330929 21787.6256413998 8427.9928758616 17519.3062043779 122866.5280244939 174245.9930444559 219714.6571505840 289742.9082763104 679041.0737820646
+48 512-512 16 20208.5049943163 54522.7336234010 22198.8441086771 8427.3338993077 32020.9551256085 122155.6817539145 174500.4854926993 218944.9176862083 290148.9284849912 681436.6182589140
+48 512-512 32 20352.4923864322 54460.9658796219 22419.2523121130 8427.2476290458 62599.2238637535 119615.7485440805 174497.3423044059 218820.9349679237 290107.8012271437 686090.6385577213
+48 512-512 64 20339.8389583289 54434.9555396146 22611.8052663489 8427.6629033728 117718.7518317085 118777.6364240177 174195.4562300560 218332.5167491457 289490.0730020466 609683.9134382866
+48 512-1024 4 20303.9668984660 55314.2560411716 20207.7969177591 8425.9324675632 15670.2074330261 124645.0061738547 174227.2255165847 220080.5908236892 289601.7444504260 660797.2341976000
+48 512-1024 8 20308.0509590513 55332.3014544386 21022.0689026604 8426.1931622833 17550.8816929378 122832.0781817426 174272.2159098766 219625.1360950101 289875.8238761808 679083.1018427317
+48 512-1024 16 20225.3885419793 54136.8410512822 21689.7978926220 8426.7635052479 32055.2052981435 122185.8831022434 174550.8570955794 219395.5737063808 290124.4968336497 681931.2321460772
+48 512-1024 32 20323.5118383928 54155.1886344260 22044.7684413479 8426.9934814019 62651.8478072315 119580.4858673153 174518.7190868258 218714.4947786725 290130.8090526682 685802.5521407072
+48 512-1024 64 20339.4844988287 54014.9175561750 22330.3095120266 8426.7045792475 117778.2030743489 118882.6112387378 174282.3527752630 218470.3442209162 289578.9201488209 609647.6825619883
+48 512-2048 4 20284.4287241527 55300.9996531691 17494.5709029587 8425.6601159175 15646.4252626881 124598.3032980375 174039.8439072516 219836.7474417207 289533.4844114524 660945.2758389021
+48 512-2048 8 20299.3493771488 55364.2220334364 19394.6920890209 8425.7365559647 17547.8923387469 122801.5022854366 174160.8216399984 219494.3176200387 289724.6373378717 679294.0993097853
+48 512-2048 16 20244.0049435412 50859.6712766326 20668.5394372333 8425.4553993219 32009.7976604115 122144.3702131011 174533.7994332274 219243.8211276620 290193.8093482599 681678.8429536805
+48 512-2048 32 20341.7209051876 52465.4694310875 21613.7663519818 8426.8659732773 62649.5321462506 119581.7598279187 174483.3832426947 218615.2295759162 290010.1737316036 685941.8290435845
+48 512-2048 64 20322.4383949957 52635.8740099629 22128.8576970609 8427.2385080173 117802.2325127895 118944.0015721986 174456.0205538230 218487.8291996409 289735.6130699857 609700.9737440441
+48 512-4096 4 20282.6953609504 49307.2035521882 17004.6422961207 8424.8436134513 15694.8958671226 124662.0465296629 174113.5094787152 220011.3014306913 289549.6934862587 660867.7532490588
+48 512-4096 8 20305.4573165992 51660.6923372279 19342.7779035806 8424.9712783316 17654.4450686422 122828.9085669967 174327.9909222571 219562.8004939219 289988.4476866838 679219.1834254713
+48 512-4096 16 20228.0653162872 50151.8983459433 20448.8164604531 8425.6243663644 32158.4788231960 122044.2049396737 174498.9607966925 219280.5122504767 290080.2053525333 681271.4230214083
+48 512-4096 32 20319.7867511374 52309.2110031268 21726.6545833501 8426.4859768059 62707.5505458871 119650.6969415516 174549.2547901034 218747.1608550968 290164.5592105686 685632.6905017336
+48 512-4096 64 20356.5356627315 52559.1667743059 22271.9627557944 8427.4199618445 117908.3583169944 118784.7058769935 174225.8642181067 218208.3615360159 289377.3349229782 609552.3105844311
+48 512-8192 4 20294.8031085424 37080.7316517060 14887.9597300678 8424.4171985857 15585.1686857199 124636.6836955669 174206.9307979656 220020.5501085650 289645.2216285258 660472.0658113273
+48 512-8192 8 20292.7984607929 37175.1661374619 18306.0205980636 8424.6007396566 17520.7801851453 122818.8240555623 174195.3776301697 219428.9410541286 289865.2968889727 678965.8633058225
+48 512-8192 16 20208.5561546790 44889.0544765614 20347.3042267536 8425.0628969672 32046.1260172383 122047.1526415404 174273.6434405831 218981.8268182049 289626.9099257436 681135.1593000690
+48 512-8192 32 20349.2394581019 49764.6727390247 21504.6111782529 8426.0312412414 62631.3247575160 119512.0285963405 174375.0320535640 218502.4494279210 289748.2696362739 685351.0600161543
+48 512-8192 64 20345.5965810726 50482.3149743997 22132.0515650101 8427.0681193126 117779.7765758294 118937.0838243910 174473.6503534238 218605.5807163776 289790.4951482727 609429.6653714989
+48 512-16384 4 20309.3836604484 36979.1104879678 14653.3548346432 8423.7059170811 15586.9648471576 124765.8526514946 174247.7519085045 220492.1652121383 289875.5739696732 660715.0524550911
+48 512-16384 8 20290.5632315790 37081.6518623473 17907.5895438149 8425.2725254265 17529.4215881072 122835.4838575586 174274.6819322711 219852.6005270060 289895.2115238317 679126.0536158530
+48 512-16384 16 20242.8801735651 45090.5646224653 20047.0054745000 8426.5746950940 32048.6330346623 122220.1859085609 174667.8882682006 219577.3133699716 290351.7307918080 682062.3221609706
+48 512-16384 32 20341.1470989905 49573.9000698753 21297.5641923341 8429.2523630579 62681.0073134441 119700.7248593182 174618.6955394736 218959.6866872899 290391.8203336928 686684.6395523044
+48 512-16384 64 20327.4009974723 50081.8244154185 22018.8344245989 8429.9773906273 117821.6949883875 118985.9579189605 174532.2154632764 218815.4376877046 289782.0299439975 609832.4069742708
+
+48 1024-32 4 20303.2298540231 55012.1125527337 22432.8769018649 8429.5003479792 19585.4101871893 121795.6775325496 174246.8071109101 220600.1298497901 290002.1618093095 660307.4441772027
+48 1024-32 8 20300.9720494913 55016.7510352274 22525.5692376934 8430.2451410602 20485.0895433744 121313.5220099025 174234.4364076475 219932.8675440584 289966.4252229964 678639.2055276569
+48 1024-32 16 20159.0064891363 55094.8605510589 22623.9486923224 8430.2211688028 38736.9820022860 120101.5233814296 174623.0864043602 219515.8660040654 290372.8413897977 681810.2419413391
+48 1024-32 32 20255.3175446332 55091.8616105773 22691.4932855592 8429.8931316614 75945.1337616006 119269.3794615245 174658.6186603413 219144.8414057700 290286.6142569531 686202.5668744884
+48 1024-32 64 20304.0045335659 55129.1167510727 22724.9727147824 8430.0299383594 133582.6023110362 117924.0354503057 174486.9903672368 218628.6422662888 289748.1816759445 609500.0016051632
+48 1024-64 4 20317.0960027395 55001.8365688282 22396.1896738066 8429.7988714666 19102.6840619278 121794.0168412865 174268.0149931423 220436.8965194884 289685.5176944750 659981.6182616638
+48 1024-64 8 20291.9283828315 54993.0679732177 22511.5754024912 8430.3328353958 19857.3212019633 121305.5006236863 174201.0616758588 219818.8926897985 289873.5652029758 678314.8445807580
+48 1024-64 16 20151.5315523748 55087.9145307143 22624.7009446654 8430.7049183641 38597.3931809929 120081.8014213623 174635.6921419516 219367.4614791843 290135.9261178845 681137.6537029499
+48 1024-64 32 20270.4857317602 55074.7137793370 22693.4273865125 8430.7758269344 75788.3649883049 119179.4829137095 174641.6866284087 218897.0091202629 290261.5136012875 685556.8177032644
+48 1024-64 64 20248.1394617965 55037.2940900834 22721.8380941998 8430.5886146176 133365.3247473575 117949.1453672706 174463.5173450904 218540.9497013594 289624.0734729124 609303.0990209904
+48 1024-128 4 20267.9065491001 55177.6509291199 21954.8949110603 8430.1999136041 18839.6484162608 121858.9312644688 174297.8924406067 220372.7155886669 289887.7585060952 660446.1625062032
+48 1024-128 8 20299.3563552869 55297.9308042280 22375.3864513791 8430.7936835225 20375.2325542790 121277.1295708722 174388.5821608845 219521.1622551104 290064.5145641560 678873.9091826881
+48 1024-128 16 20138.2137416553 54789.3417567760 22551.7428214899 8430.5995223806 38946.1329075627 120003.0194302597 174455.3649878937 219186.0041837393 289853.3789845942 681077.9897377187
+48 1024-128 32 20258.1199573512 55071.4728588676 22660.6363530489 8430.8938771247 75481.4675885607 119073.8435132819 174372.5278081085 218685.4423710402 289938.5423181262 685583.5518664286
+48 1024-128 64 20231.5884887791 55039.3835696716 22722.0543595658 8430.3327366654 133132.9513952833 117885.3820809010 174416.2035880293 218460.6679871402 289388.6101660254 609221.2052412699
+48 1024-256 4 20271.0323220889 55288.7258232086 21171.8119607874 8430.1623208406 15678.9604420526 121671.4464530543 174167.8544734329 220016.8823334984 289531.9721057069 660355.2794113775
+48 1024-256 8 20279.1436747784 55361.3202058015 21976.2275339273 8430.3882098875 17618.9970536641 121329.6409936928 174425.4696834772 219887.4287533302 290162.8391783121 678640.3248620472
+48 1024-256 16 20164.4969138417 54693.3892817600 22395.3722740334 8430.9003498228 32065.0960874020 120102.9999475471 174473.0782480676 219488.9017413513 290125.5748356375 681342.9123670309
+48 1024-256 32 20311.9223593617 54795.9961350952 22575.8607292494 8431.2307235402 62635.8372734392 119196.5478750064 174649.8766338123 219203.6850065699 290489.9624473190 685565.4596357730
+48 1024-256 64 20254.3199644419 54834.7860230570 22667.1376053727 8430.9536455354 117931.7593793574 117783.9058628814 174386.6093388873 218286.4475642254 289472.3038487638 609442.9719581301
+48 1024-512 4 20287.2477096934 55347.1012077869 20900.1709755727 8429.7309551537 15654.6636572584 121783.9045493486 174296.5325102892 220069.2139973715 289698.1042991218 660462.9211161575
+48 1024-512 8 20276.1579115438 55367.3924269700 21618.3406039402 8430.5447414636 17570.6946301814 121202.3374855853 174206.7085580356 219458.0109876157 289782.9385768521 678779.2594730622
+48 1024-512 16 20144.0867279833 54534.3071782004 22131.8016047710 8431.4901011236 32083.4078631108 120183.7343827406 174812.3376811632 219458.9622984163 290428.8688465798 681218.0452727826
+48 1024-512 32 20249.8867686153 54426.7243535947 22397.3094163362 8431.0597993382 62701.1141691319 119120.3644788807 174450.4704545038 218654.0756519280 289922.3466184974 685347.4296239790
+48 1024-512 64 20263.4857352239 54317.7252576545 22596.8516058710 8430.4015477396 117936.7580850065 117874.4274920776 174373.0879092647 218306.4935546119 289608.5775203474 609223.0750485594
+48 1024-1024 4 20300.0975971182 55209.9623568907 20034.6507282168 8429.0868219068 15684.1648574108 121719.6349660815 174164.9055745452 220232.2979247467 289389.6197974134 660391.4926857583
+48 1024-1024 8 20274.6013902260 55239.4308019629 20981.5636018531 8428.9151087729 17579.0204669958 121280.4077947588 174284.6409984405 219716.7906066158 289602.4159140658 678538.2199020385
+48 1024-1024 16 20167.3481217861 54107.2035435764 21659.0441247678 8430.4164583169 32065.9910648285 119965.1188801767 174360.2526582700 219123.1821449361 289729.0355904721 681302.8531197851
+48 1024-1024 32 20268.2279745875 54146.7239637093 22016.3608104029 8430.5867242640 62644.6756151926 119136.9638552924 174473.8145162635 218754.7753718076 290065.9179596544 685511.3207676433
+48 1024-1024 64 20262.8802878527 54029.2724258309 22294.1082875911 8430.6011721027 117851.4059624035 117814.7159786974 174299.0372613529 218266.9939589311 289419.2594038967 609410.2272498761
+48 1024-2048 4 20275.3145274842 55267.9665069877 17296.8254903677 8427.1454383724 15671.8140665671 121712.8446607928 174104.8287701714 220049.6684476295 289439.9453877810 660575.4677101571
+48 1024-2048 8 20271.5199970202 55296.5597549691 19216.5927177676 8427.6373084899 17581.7447754701 121269.1465871896 174273.6385383009 219381.3178465202 289935.3695803478 678839.9852660117
+48 1024-2048 16 20170.6881884508 50704.5604090828 20589.8772536672 8425.0388058159 32018.9497598284 120017.8660927854 174570.5059132751 219357.5099830974 290087.2718421801 681480.2800595142
+48 1024-2048 32 20252.3830685154 52312.8153591832 21572.1110499985 8426.4854604524 62639.0971169053 119069.9109758675 174501.3222771152 218610.9984679047 290106.7807285463 685953.9863492259
+48 1024-2048 64 20251.0705872177 52526.8448691799 22072.6230232271 8426.7800157292 117917.5106840600 117844.5520619700 174416.7543573637 218276.3575086879 289563.8359325777 609598.5887704797
+48 1024-4096 4 20282.5907351047 48965.5363728077 16771.4804447257 8424.1748223839 15702.7061675160 121638.2978179171 174154.8449251466 220014.5491031010 289526.2303044543 660862.4112905308
+48 1024-4096 8 20278.8135105196 51686.7138452797 19287.0857856700 8425.0042166296 17672.7204077925 121240.5168392589 174206.3980036164 219419.8287159708 289775.5121201574 679122.4520669757
+48 1024-4096 16 20163.7465500642 50046.6303561111 20484.1134433352 8425.7988994931 32153.6211589151 120020.1944694850 174502.0896077781 219279.1932681471 290040.7456564482 681513.6888152593
+48 1024-4096 32 20285.2351552693 52221.2055444822 21701.7309906457 8426.8836828183 62673.5233044684 119001.2546576948 174355.7873253367 218518.4725241478 289902.6522372144 685717.2072040933
+48 1024-4096 64 20270.2062667279 52580.2912198926 22239.7033553855 8426.5733776927 117946.1039645116 117844.5753503902 174232.9574054470 218297.6219249190 289590.6207482809 609443.2800027743
+48 1024-8192 4 20280.1801577319 36872.2000899561 14939.0030015338 8424.7368293261 15606.5372179656 121595.1602358310 173991.9786645712 220011.7797981953 289201.1054778405 660598.8206006767
+48 1024-8192 8 20299.2187502673 36982.8147697059 18510.7712297108 8424.7962856202 17557.7355114391 121098.8601443295 174076.4200210211 219261.5696561234 289385.1286808416 678871.6995570301
+48 1024-8192 16 20163.9348127034 44821.2588677590 20474.9747617076 8424.4423822261 32081.9513338778 120006.2473307089 174501.2392210676 219154.5090731182 289912.9936007333 681094.5855435880
+48 1024-8192 32 20258.8089840811 49640.6626617141 21570.3689045258 8425.8154593328 62685.3593253197 118982.0715853733 174356.5034227729 218457.9552378479 289799.6644425776 685395.2151906862
+48 1024-8192 64 20276.4327702241 50375.7836509458 22152.6531845203 8427.0655510910 117915.4647073300 117866.8509330660 174343.4114475176 218284.8943097982 289528.5303044507 609239.2327069099
+48 1024-16384 4 20282.7700794410 36750.8653699776 14600.0929542691 8423.7430136414 15607.5067564546 121678.3676201487 174038.6963160042 220046.5135717226 289241.1986912788 660653.3051439320
+48 1024-16384 8 20288.3369401670 36818.0159404460 17766.9689639579 8425.0812740696 17560.8510194288 121193.8339694601 174127.0085114946 219327.4166514669 289594.2913513678 678791.0608437827
+48 1024-16384 16 20159.4954838699 45000.9675428385 19976.2198326100 8425.1872411534 32086.1179413017 120051.7862204241 174634.9724967413 219337.4566536079 290038.1274169603 681418.2672883077
+48 1024-16384 32 20283.0968772345 49489.8416741612 21279.3956823209 8425.9295481292 62720.6146926840 118978.6453279373 174287.7870612664 218467.1739004795 289769.6284637457 685740.7397128845
+48 1024-16384 64 20266.3341806527 50044.8664234581 21986.5502754163 8427.0533966970 117930.6507122064 117847.8672159924 174342.7810947093 218323.3518847288 289441.3562112656 609060.9696193971
+
+48 2048-32 4 20214.5526465954 55008.4794255287 21528.1768802582 8426.7577788270 19522.1938012846 126303.9437105245 174156.8402975213 219970.8459950339 289525.4311323874 660596.4327260708
+48 2048-32 8 20210.3836473819 55012.4340837162 22030.1008055673 8427.0432208048 20406.7767271847 125216.3365637597 174206.4381470127 219615.6448086281 289706.7811555932 678550.1214665060
+48 2048-32 16 19859.2757794123 54765.6886121174 22377.3622225347 8426.6693547066 38634.3824412501 122834.3488702282 174518.3588161780 219262.2902652379 289808.9278092205 680878.2064180182
+48 2048-32 32 20422.6926022326 54912.8463369653 22591.4462184613 8427.4401226017 75725.2732799109 120935.8151962267 174311.2519190746 218548.6693943198 289884.6969637658 685185.2212713490
+48 2048-32 64 20168.3049158692 55042.4010584289 22707.3056088460 8427.1831856507 133291.2788473271 118923.4431869852 174401.9244047363 218441.9008420276 289655.5992063894 609357.5084968416
+48 2048-64 4 20199.2881856970 54997.2625072269 21442.8003729865 8426.9153595924 19047.3581379569 126261.8292984060 174231.9161963638 220027.3488064126 289515.9847483158 660530.2152306979
+48 2048-64 8 20207.4325594297 54999.7317652217 22014.2693678767 8427.0378264947 19781.6831284690 125288.5780799682 174291.1198711290 219560.8218143595 289847.0970542561 678560.5238507243
+48 2048-64 16 19846.1258663112 54784.7473884101 22378.2401832512 8427.1763892185 38488.5186866531 122739.7027235509 174289.9843934087 218901.6682719747 289566.8120182293 680573.5897100516
+48 2048-64 32 20401.2779419408 54881.7174716258 22591.1421276527 8426.8165769272 75558.3142216164 121010.9763015828 174407.9663541696 218557.0341599554 289818.7206825806 685366.2486398410
+48 2048-64 64 20133.7145913988 54988.6124757177 22707.0218685958 8427.0143892205 133069.2386524695 118904.3488365402 174434.9463412640 218514.1451585422 289514.1063420640 609283.5148001919
+48 2048-128 4 20199.9161384160 55151.1663858865 20811.9577563444 8427.0068257187 18797.5769688122 126229.6625433590 173892.8393878130 219997.4453192838 289201.9106011720 660008.5934882763
+48 2048-128 8 20213.8427070336 55310.5147975676 21915.0786101680 8430.0649152806 20321.2820244782 125169.8258857923 174151.3153020552 219073.3922368111 289469.6141212849 678647.7087024501
+48 2048-128 16 19837.6552661645 54410.4975320932 22316.5335976806 8430.9066897024 38856.5557273658 122903.9453402432 174591.3795069852 219377.6687860249 290207.2528248685 681112.8511719954
+48 2048-128 32 20369.2447117452 54921.5242633722 22563.2575058821 8431.2730362935 75357.0852107168 121096.0664402897 174541.9386921989 218691.8646934817 289975.2885492201 685659.6429622002
+48 2048-128 64 20083.5913060629 54964.1127991548 22701.6480025210 8430.5868069092 132902.3021833294 118827.3896911223 174150.3084289286 218400.9320306801 289263.9113516019 609299.0721382123
+48 2048-256 4 20200.9906963962 55301.7787623935 20094.0529879643 8429.6433289789 15684.5456162518 126269.7657506847 174320.5101770881 220263.1952370870 289790.0699278967 660034.4721471655
+48 2048-256 8 20198.4057449708 55356.4594891542 21478.2226027221 8430.6109545173 17616.7607034656 125263.4661164532 174110.1547770042 219470.2183716203 289436.2084660187 678698.5936227635
+48 2048-256 16 19845.1469388329 54345.9224008411 22115.3227598752 8430.4389108051 32044.3222982817 122816.3424773500 174482.1144086385 219258.8587284173 289904.5430831655 681174.3600586930
+48 2048-256 32 20380.9433840357 54621.1085627341 22465.5725436499 8430.7783875709 62643.5866695962 121064.4507916065 174385.1092627142 218597.1231729823 289768.9239665182 685495.8046544050
+48 2048-256 64 20128.4431798081 54844.2441613155 22645.0764302021 8430.5170027613 117889.8121979440 118961.8801381573 174426.2359872531 218583.3720053393 289639.9645188356 609336.0161592971
+48 2048-512 4 20222.5710464246 55428.0573521288 19995.5662442834 8429.1024704457 15650.3980254808 126259.4303280943 174116.8540611468 220218.9604772233 289599.3260963229 660622.1663550970
+48 2048-512 8 20213.6879291166 55421.0102432855 21245.8656837504 8430.1239831941 17557.6675962723 125213.8285467990 174071.9198545789 219314.8391526157 289312.6693487293 678449.7728934189
+48 2048-512 16 19842.4959406794 54200.6820173682 21901.1608125523 8430.6868931860 32072.5410169581 122966.8293232057 174607.2953615773 219181.4600330753 289988.9080416345 681098.3070324725
+48 2048-512 32 20389.4534352065 54319.8279715920 22301.6474478808 8430.7739947518 62699.5511646537 121002.2545400530 174393.3343192331 218617.2181817046 289932.2706553273 685288.5259731808
+48 2048-512 64 20137.7098325837 54245.7064478097 22565.0624127723 8430.4160249770 117918.2500949695 118901.8577329197 174383.9663617080 218486.4500748675 289465.8221967283 609454.7365651968
+48 2048-1024 4 20215.9957273238 55374.4861916675 19264.1534901723 8428.5857701507 15690.5617883082 126327.3869718267 174153.4234048637 220066.9396048842 289560.6239254696 660397.2183952984
+48 2048-1024 8 20223.5865311153 55381.8509372409 20485.2549963009 8429.3582743099 17574.5182363191 125295.5640742125 174060.7257667848 219204.0386357811 289461.3934640921 678880.0266447997
+48 2048-1024 16 19817.3316709504 53651.7704804044 21346.7130735481 8429.2459470629 32073.3275592024 122797.3800142346 174467.8975955201 219218.9375890694 290015.5746935598 681230.6346438371
+48 2048-1024 32 20377.5367787000 53971.2833992573 21848.1653637747 8429.5123793467 62673.1755181308 121058.6518494834 174383.6768597300 218710.1021555043 290038.4231884691 685761.1283119750
+48 2048-1024 64 20133.1284668805 53815.4297403441 22241.0440912603 8430.1070671975 117842.3867758061 118926.9691134313 174434.5001776714 218500.4239900179 289662.1474937135 609342.5177187486
+48 2048-2048 4 20213.0976933099 55124.6274966709 16821.8408535605 8427.5095712908 15646.6608533311 126229.2435937956 174286.8176864106 220080.1913476003 289733.1056519993 660558.3221801962
+48 2048-2048 8 20206.1072345747 55134.4891586207 18859.7549070456 8427.9236540316 17541.5882978871 125296.7702867401 174248.9394192936 219515.0986895721 289859.4671024302 679089.6644876890
+48 2048-2048 16 19829.2115252926 50186.5170054338 20340.6215024160 8428.6996853086 31954.8900180811 122825.9522746891 174497.9040454467 219127.2512610559 289881.0224511620 681085.1178480640
+48 2048-2048 32 20394.9352164407 52036.8674043541 21454.0896228165 8429.5905765626 62514.0168207787 121052.8145090895 174502.0114752687 218861.4130817299 289892.5585356253 685759.3454349274
+48 2048-2048 64 20133.6294415804 52203.4590845372 22092.0672400997 8429.5355068480 117737.3495797884 118893.4122793081 174396.7851263592 218406.8891368140 289578.8113704163 609587.6411263338
+48 2048-4096 4 20227.8278566039 48697.6200918322 16402.8414160003 8427.1700255910 15698.6200463938 126290.3242634249 174247.3429727328 220234.7193460430 289615.5645930130 660530.8111237438
+48 2048-4096 8 20214.2519870174 51786.7615799441 18934.0945553566 8427.6079543356 17632.2081869867 125253.5562953362 174308.1607281292 219609.7021155547 289875.3297949778 678424.7260847459
+48 2048-4096 16 19823.5074579109 49648.9728833600 20102.6292319700 8428.2237295985 32094.5785617264 122873.4808705657 174547.2841199271 219140.0997976107 290036.1741620581 681163.7604380197
+48 2048-4096 32 20414.8498581440 51948.0345218513 21593.9338552369 8429.0446029468 62576.8540782452 121125.4872461358 174360.0762646970 218770.8574108470 289915.2761284316 685699.6498753677
+48 2048-4096 64 20162.7674598611 52239.1765903307 22216.3742387846 8429.4706885257 117849.2986183865 119070.3648701920 174698.7443586292 219071.5105062304 289863.7218802915 609529.0815591605
+48 2048-8192 4 20258.2958878879 36301.5400622189 14265.5109067297 8426.8575029932 15615.4977894009 126317.7948862663 174215.2023474884 220389.1809146716 289537.2270010069 660285.5088405923
+48 2048-8192 8 20232.6537288719 36521.3913312297 17850.1301630856 8427.5892644544 17559.6310401040 125436.0667326641 174498.7926716466 220001.8386373044 290202.4421859313 678521.5041875205
+48 2048-8192 16 19838.9582188547 44456.5614566620 20062.5498869887 8427.8606383254 32086.6780399193 122884.8032052595 174535.1832821837 219398.5372552283 290097.9119843402 681360.8096879034
+48 2048-8192 32 20415.2727984211 49454.8642515423 21375.8732449919 8428.9321934532 62713.1749905032 121144.3183927849 174517.6574692983 218946.7026203719 290195.0418285147 685677.4807015379
+48 2048-8192 64 20142.3204630249 50033.9503550472 22072.3790918073 8429.1954215985 117867.6201505347 118926.3680407874 174439.8786969860 218695.0165580941 289763.0677081481 609295.2407905836
+48 2048-16384 4 20231.6277385421 36203.3629209144 14043.4536317560 8426.2499784484 15616.3334188784 126360.2249208549 174245.7491448629 220489.3291251467 289733.9767220236 660231.3583438497
+48 2048-16384 8 20232.4567450940 36442.9849889527 17472.1188354511 8427.1910565182 17563.0153016284 125300.4654389001 174335.5772261505 219879.0900173159 290030.2848764676 678714.8239856741
+48 2048-16384 16 19851.9639899153 44572.4617056569 19771.6019125575 8428.2759221067 32084.4949616067 122994.8532799310 174732.3898133626 219675.8267766591 290443.2622053788 681248.4632965642
+48 2048-16384 32 20388.8468709713 49220.7474487445 21175.9946101884 8428.3808421962 62730.7955568717 121100.5170396296 174558.4708285426 218918.4487704276 289936.5460273186 685733.0131233599
+48 2048-16384 64 20174.3184099418 49841.8354500066 21995.1619643720 8429.5821862349 117906.2828400004 118961.6954132979 174486.1664875888 218736.1633600768 289915.5684081389 609278.0060302235
+
+48 4096-32 4 18779.1639552272 54051.8459287305 21345.6854836743 8429.1634374279 19546.4864327998 126194.0018418310 174261.4185323429 220742.6094379816 289818.2381674587 660027.5265414491
+48 4096-32 8 18722.1090534156 54176.0551747343 21957.3070890773 8430.2960999360 20410.9880130412 125444.9280268318 174191.8711585236 219887.4803800610 289679.9842980136 678843.4938440704
+48 4096-32 16 19692.4895452845 54560.4385975951 22349.4345612372 8429.9802473869 38660.8874086577 123246.1953797237 174649.1170572044 219474.4440510675 290304.8267898552 681597.5041975507
+48 4096-32 32 20081.7930103808 54800.5798192336 22562.1625183920 8430.7937482566 75770.8084977279 120246.9940019764 174505.7245227705 218912.7550513055 290040.0449269003 685473.5665075877
+48 4096-32 64 20043.7141281396 55002.5268703649 22676.3091174331 8431.0807699346 133292.6186224850 118846.3450581558 174365.8362295380 218467.8474797827 289474.2706929140 609650.8693136929
+48 4096-64 4 18762.0133183111 53880.2524500705 21315.5640980794 8429.5518204997 19077.5183568850 126165.6945626803 174320.4684554855 220305.9883873073 289825.6401087454 660625.3520181615
+48 4096-64 8 18734.3423904777 53694.8533037050 21940.7782493729 8430.3971110410 19787.9237798790 125477.9614553650 174337.9051918092 219625.0741433283 290057.4635439762 679057.1378083021
+48 4096-64 16 19645.5503702865 54587.9032184656 22346.4727760032 8430.6473100528 38512.6617186419 123205.5179496550 174534.0372075120 219196.5067455890 290034.6151619173 681322.6816949815
+48 4096-64 32 20064.3583291640 54734.4058480824 22559.8541182355 8430.0893576603 75621.7371367456 120327.9821862623 174634.8133083226 218868.7876736148 290217.3170493334 685612.8625910298
+48 4096-64 64 20058.1406444367 54932.0903965248 22673.0670262077 8430.4321113633 133154.7717543467 118966.0405171913 174540.4900753421 218513.9137888605 289755.5816755531 609531.1590278912
+48 4096-128 4 18777.4559291821 53350.7944027478 20733.2642481756 8430.5090718718 18855.1471326019 126065.8615456911 174230.2732834738 220279.1152761143 289702.7588476484 660760.1254403277
+48 4096-128 8 18731.4097529967 53413.4207588162 21793.2595329165 8430.9076255811 20357.9332303354 125520.2907368698 174417.9703606383 219741.6313695657 289970.5470342422 679090.2277400564
+48 4096-128 16 19667.8335903968 54144.0191257179 22273.0993159899 8431.1504852249 38903.5312400689 123185.5230885446 174458.9439648674 219213.6659507402 289907.7296656929 680742.6007141893
+48 4096-128 32 20078.9907963344 54777.4552348900 22531.5236236954 8430.6307579612 75369.1971355561 120259.3045364874 174517.2297246535 218738.5959877931 290019.1417248713 685437.4034964454
+48 4096-128 64 20120.4193694101 54966.2052491861 22677.3156062828 8430.3629336459 132825.9560850352 118896.3859868851 174391.4904532720 218400.8498362008 289548.7156436344 609265.2669100518
+48 4096-256 4 18743.7477619179 54055.7581390709 19980.1415905780 8429.7006257158 15738.8517141700 126085.0710468391 173989.5600785399 219910.4622820576 289209.0514653434 660555.7749334103
+48 4096-256 8 18715.3004196140 54151.5394183599 21404.6528520580 8430.5448898502 17669.4450700848 125340.1721540016 174131.5964011139 219384.6530926129 289512.8977774104 678576.6564838846
+48 4096-256 16 19638.5060894298 54085.8508947577 22110.1358182269 8431.1962165433 32099.0118883805 123235.9838038597 174469.2873172979 219094.5280157315 289831.6958871131 681029.1540514383
+48 4096-256 32 20064.6509864678 54494.4595450050 22444.9956518057 8430.8157192382 62748.1193386899 120239.0880618502 174530.4962899060 218877.1301966631 290256.0600995473 685465.8494234857
+48 4096-256 64 20085.8806750287 54795.8881272653 22622.6257579384 8429.8271611035 118003.1588936386 118983.7462473311 174430.6330033951 218453.7107723655 289449.8938163546 609426.5803869102
+48 4096-512 4 18749.7206196505 54727.6563781922 19975.0304521965 8428.9902763360 15697.1290259887 126058.6387225287 174167.8859182412 220185.7698525265 289636.9264817943 660498.8629665098
+48 4096-512 8 18699.9794473296 54743.1169750512 21140.0209848128 8431.1087269948 17594.4363916653 125339.2066056792 174234.6922977244 219434.8503621373 289697.0497359620 678699.3968626998
+48 4096-512 16 19641.8045351394 53964.6949260633 21880.2421717067 8430.6954418628 32135.3519173121 123149.9748756174 174466.0725656741 219038.3935357365 289807.6442377938 681029.8455012344
+48 4096-512 32 20050.4980544729 54175.8488453921 22268.2161875994 8430.7355570294 62791.5960390561 120240.7007257499 174468.7225472915 218760.6116782199 289917.7333816344 685409.0825401817
+48 4096-512 64 20063.2364907165 54302.4655094881 22556.4877307185 8430.0806372616 117927.2984669137 118889.1741382317 174428.3398551287 218485.9881296233 289611.9423787302 609324.3142966285
+48 4096-1024 4 18751.2345938546 54772.0525733834 18822.4059591042 8428.1043341567 15732.5302676783 126156.3356103659 174377.0408605238 220330.2470439018 289793.3212866113 660069.3065744302
+48 4096-1024 8 18709.5614836549 54817.0650665138 20510.8502632623 8429.0665318725 17609.2338340702 125572.1025107493 174395.4566689575 219735.6391110845 289973.3805247110 678850.4223716440
+48 4096-1024 16 19632.0712225386 53517.6859124543 21406.7177902958 8429.8507325336 32127.7084042575 123294.5983916358 174606.1611847804 219211.5571282448 290130.0009242291 680567.7186135983
+48 4096-1024 32 20095.2746540525 53885.8658885473 21878.8396715056 8430.1737739130 62758.1553834157 120282.0629576547 174488.5200123296 218731.0629036294 289956.6806014924 685409.8634382771
+48 4096-1024 64 20105.7139926235 53731.2993998040 22246.9291793771 8430.1987177527 117860.7910965727 118892.9105012696 174314.7592611058 218394.8080556712 289446.8888403981 609100.7642869981
+48 4096-2048 4 18747.6328927235 54745.0559076253 16748.5309811066 8427.9922762797 15696.0003327944 126068.3286481670 174027.1243115660 220000.5389827773 289360.4600894345 660420.5717452776
+48 4096-2048 8 18731.3161174667 54792.5658211565 18847.9008207595 8428.0866962703 17579.9926870340 125470.4898190365 174278.4407490960 219516.6768548179 289823.1153751208 678995.9818067965
+48 4096-2048 16 19654.1893446121 49847.1347707875 20354.4301130204 8428.4395747067 32035.9393465862 123232.7581738154 174649.6325194970 219192.8417869882 290271.4481850010 681142.9280835292
+48 4096-2048 32 20118.8419998783 51876.3887646264 21460.4535992627 8429.4102098940 62653.5393127766 120358.4635842953 174672.7876019767 218842.5732583157 290202.4884127190 685370.6009534572
+48 4096-2048 64 20131.1300797956 52198.8325622999 22023.9438443096 8429.8020104177 117809.0603119673 118877.8777701684 174263.6271500330 218373.9748680275 289404.8043752431 609163.6521856041
+48 4096-4096 4 18767.5776964912 44684.2899842937 16069.2189767356 8427.2867045755 15604.3050627531 126140.7513836723 174142.1372910495 220169.8327923700 289628.6357698241 660620.1854155926
+48 4096-4096 8 18726.7277340604 50888.9264632904 18867.0108213693 8427.7522697528 17555.4804456123 125388.1164776931 174392.6500725923 219619.5234136841 289823.7151694534 678859.0790318408
+48 4096-4096 16 19667.3616301728 49377.5682713273 19941.1950827676 8427.7688026725 32037.8190783190 123237.2624145832 174674.2575986532 219482.5956394210 290351.4560711395 680621.0353405515
+48 4096-4096 32 20084.9125883219 51702.3306898641 21513.8250756797 8429.1245796947 62342.3532893882 120308.9815826483 174540.2724872411 218825.9603110823 290200.0626990152 685906.8232276539
+48 4096-4096 64 20103.4135538845 52121.3672969103 22204.5593857964 8429.9578430629 117588.0795904012 118967.9937637880 174526.7596721316 218570.5927290330 289652.4066206198 609602.8798106829
+48 4096-8192 4 18771.1719275259 34404.1013188220 14067.5652214167 8427.0351568449 15602.7810632213 126129.8312397070 174189.3088694494 220173.4146814264 289743.2235615214 660308.4462942687
+48 4096-8192 8 18713.5370020643 34419.2704427949 17965.5831522574 8427.1366088313 17599.5494733280 125474.6860172302 174371.4806090336 219759.8623264700 289999.5116263628 678726.4014581983
+48 4096-8192 16 19680.2822212237 43204.4150898477 20145.7517315588 8428.7002973645 32161.1785662271 123200.0078452860 174502.9619681031 219127.2192999321 289764.8740608398 680980.9854838065
+48 4096-8192 32 20106.3478528491 48820.6017514399 21425.2953023259 8428.5752603508 62824.1132649133 120229.1694049793 174341.3274995477 218844.5009420091 289881.7566769856 685295.9688476990
+48 4096-8192 64 20101.7574578562 49652.3376249052 22112.2954285856 8429.3786656365 117931.2808376771 119030.7875173405 174555.5519307914 218901.9851927203 289985.0259499121 609466.9223887299
+48 4096-16384 4 18747.0451690003 34362.9307557479 13841.8093647275 8427.2177994768 15604.8847563526 126231.1765551876 174430.8712045883 220815.2548366696 289986.0016654844 660226.2778984253
+48 4096-16384 8 18719.1970720844 34380.2102054943 17343.0334672169 8427.1566600712 17598.6159964735 125502.0935309266 174187.3161679502 219760.8861869828 289677.0787897496 678284.3051746574
+48 4096-16384 16 19692.3485388134 43408.9031893370 19714.8236537287 8427.9354992481 32162.7575691828 123221.6602129329 174548.5920393865 219412.6179686923 290195.3048530746 681552.8600751383
+48 4096-16384 32 20113.2408456034 48732.9883182999 21139.4753339134 8428.7578041519 62822.3188050717 120309.6353074421 174485.4021292240 219038.5303440520 290041.1721166926 685676.7029580013
+48 4096-16384 64 20137.9917179913 49380.6025325513 21936.7536855296 8429.1554940082 117955.5119017724 119045.7544288110 174570.9737543164 218893.2770271046 289792.9083877030 609290.8332024412
+
+48 8192-32 4 18518.0884704841 51023.9712216161 20076.1953210670 8429.7038109344 19519.6081271914 126476.9221504293 174422.6300064764 220471.4934274344 289927.1320101901 660188.0870377553
+48 8192-32 8 18512.6275725494 51053.6459606078 21441.3505305753 8429.9098988976 20421.0289610985 124882.6829382253 174408.5579736592 219740.0781202582 289944.8270297942 678495.8906079074
+48 8192-32 16 19447.9757408251 53373.2256500913 22101.4877764814 8430.3154482553 38680.9300500009 122332.0014013062 174530.8485581806 219252.8521821148 290005.8403281755 681291.4419750237
+48 8192-32 32 20020.6992491068 54265.8947640114 22436.4571912902 8429.9702002136 75688.1489001667 120980.1017663951 174323.4378473209 218488.1916647438 289693.0313730320 684927.2509930417
+48 8192-32 64 19990.9026086338 54493.6786046519 22603.9164833686 8431.0070056299 133240.1394943280 118961.1556746328 174428.7565616894 218616.3723347048 289630.2467086905 609183.7343769562
+48 8192-64 4 18524.8637772556 51049.0451847570 19999.2823825111 8430.0153336087 19048.2309153379 126388.6513975446 174282.7725494773 220374.1802637831 289873.9565061557 659885.4232795229
+48 8192-64 8 18510.3628747931 50939.2134874662 21413.3684832351 8429.4957524495 19797.8406805747 124963.5728918648 174367.9317215658 219696.9036182353 289841.6751572680 678823.3113175758
+48 8192-64 16 19442.3060843383 53368.5960145744 22100.6865211191 8430.1775169384 38493.5346215364 122219.9772364033 174475.6186067456 219157.9559807431 289898.5033523955 681127.8280695652
+48 8192-64 32 20028.9189996095 54184.3569681874 22435.5749594172 8429.5343646428 75517.8352433504 121011.2012532420 174445.2865402970 218669.7022061404 290064.4907724163 685023.1316912456
+48 8192-64 64 19945.3200692350 54369.5232325048 22598.2394267880 8429.6402034860 133120.0848671436 118899.2882634613 174381.1248943131 218404.9088207195 289495.0766973413 609310.9078041164
+48 8192-128 4 18525.7581698073 51216.7492780338 19727.0218735795 8429.7448027778 18783.7349303660 126523.5559352334 174296.4810817935 220458.9004626478 289874.6854587895 660635.9364435640
+48 8192-128 8 18492.1019458437 51302.3801872917 21263.9441075582 8430.4680446639 20317.3244697975 124836.2686527637 174293.0141738036 219537.0136157522 289725.1028560001 678708.8023933939
+48 8192-128 16 19422.5011617982 53081.9023451651 22005.6271764462 8430.8914607426 38897.1933801418 122281.9533559239 174571.8668498837 219285.0867651041 290055.3434137512 681176.8371611569
+48 8192-128 32 20013.5959268625 54206.9766854514 22408.9334182232 8430.4623943783 75304.7253988799 121064.6401378207 174414.0146442118 218692.7371780932 289937.0339208884 685649.9629726558
+48 8192-128 64 20003.3263914964 54358.3277646073 22600.6585882182 8430.4579832694 132868.0590044304 118917.2967401289 174463.3529078651 218350.9901797099 289622.1354645877 609348.5942980229
+48 8192-256 4 18524.9994817242 51341.6651500506 19227.2684734007 8429.4718003247 15660.5760722889 126442.5821844057 174211.4000657671 220291.9915355651 289698.7684494439 660543.3924958156
+48 8192-256 8 18499.4141482796 51353.1059346490 20913.6979341346 8429.5909687769 17586.3897002503 124914.4412320670 174410.7756396123 219789.9566804254 289776.0260056501 678467.3134036947
+48 8192-256 16 19434.8044781131 52824.4026812777 21871.0763659337 8431.2373204969 32024.0880937490 122264.3850034733 174501.1738016014 219257.4925350355 289943.9991373188 680941.5634456484
+48 8192-256 32 20069.5916932699 53909.6052194080 22309.6854369658 8429.9117891820 62548.2943928241 121069.9448856385 174610.1903476747 219036.4638137560 290460.9401189827 686037.1643140049
+48 8192-256 64 20060.6929612314 54386.9589769506 22547.0464353282 8430.2191770556 117715.0604048614 118972.3496784445 174501.1876526697 218771.1962557400 289870.0428763318 609304.9496707037
+48 8192-512 4 18515.0560743261 51300.7457224546 18951.5608648253 8428.9088984357 15634.7551561554 126517.1638292076 174560.4063529705 220880.8125566474 290074.2751137998 660505.9533582852
+48 8192-512 8 18513.7219435736 51290.2004310001 20523.7287919517 8429.5305254495 17538.1682355815 124964.5467015077 174379.2977356071 219970.0592597018 289882.1795992084 678822.5967825628
+48 8192-512 16 19460.4331705500 52485.9029379668 21551.9285102315 8430.3187158990 32056.8485734913 122284.9243340013 174598.9753218594 219518.3280643262 290067.5172508374 681388.6660543333
+48 8192-512 32 20059.7841443858 53521.2349185727 22110.4044336182 8430.4762911129 62627.0874803852 121202.3547855014 174728.1972162869 219295.9880666387 290596.4461966052 685964.4099484519
+48 8192-512 64 20050.1143241628 53645.6745651276 22457.6388460749 8430.1003320838 117771.8820071400 119116.0123340738 174687.9669376246 218999.2306678271 290203.1427668541 609383.0571593000
+48 8192-1024 4 18528.5756745750 51324.0788406653 18080.6596901333 8428.4772976185 15680.5157441092 126448.8587721412 174292.7824284105 220354.9741073359 289730.7511558100 660417.5470866689
+48 8192-1024 8 18514.9407928775 51319.8847977221 19938.3928975617 8428.5831033342 17564.8911741963 124842.0591893764 174399.8925703662 219722.5413467138 289999.3444184064 678598.3930922896
+48 8192-1024 16 19424.9156161535 51887.2833993517 21166.8523251536 8430.0090969751 32087.5723352483 122249.6574929486 174452.0502469316 218970.9760605669 289870.3767193662 681132.7584672675
+48 8192-1024 32 20019.9518030123 53235.8734364860 21775.9972396229 8430.4097466567 62675.4143338685 121022.1706626616 174418.0689421537 218681.9104814365 289812.2488373101 685560.9739238294
+48 8192-1024 64 20041.0139567855 53149.4333794137 22186.3790152125 8429.9890340095 117782.5123161830 118807.0040839480 174308.8180019324 218310.1987508957 289384.1537628576 609452.6622596453
+48 8192-2048 4 18512.5550463688 51305.5976003879 15819.7672267917 8427.1582111884 15660.6658748418 126436.7182000623 174247.0181124066 220168.6389037069 289688.3654454589 660272.4151568858
+48 8192-2048 8 18492.9791669692 51333.7439820630 18319.4351641921 8428.3051563211 17565.2789211513 124983.2721033259 174559.2564824922 219882.1173570833 290202.8778513265 678593.3132334385
+48 8192-2048 16 19444.7307359035 48346.9177401291 20192.7710170789 8429.0079702210 32036.8319520708 122218.7256510850 174538.0773202926 219193.8255209917 290070.8303713746 680993.6007369409
+48 8192-2048 32 20003.6470727285 51271.5805750252 21365.9905103541 8429.6325555264 62682.0133994346 121015.5320281939 174356.1655151492 218657.7859944702 289878.1248005865 685727.5691804157
+48 8192-2048 64 20027.6388708484 51533.7057944082 21986.3164970656 8429.5132158022 117859.5117384086 118873.2503697981 174467.2734734604 218453.7947357605 289821.1735949289 609228.4246354805
+48 8192-4096 4 18514.3424906111 44562.7422138069 15367.5270494863 8427.0985568299 15642.3390459428 126427.2927233968 174357.2102878749 220367.0320731510 289925.8851874987 660824.6800470510
+48 8192-4096 8 18499.0505059536 49335.6759808454 18459.3365054121 8428.1762126707 17671.0789679605 124905.6665162462 174285.6735167123 219692.6235387785 289961.7821883023 678581.9898011979
+48 8192-4096 16 19402.4973788739 47969.4617407182 20002.4158308476 8428.4280234558 32199.4800315056 122213.9385096879 174560.8947174081 219108.9440782256 289987.7224850680 680784.2285835830
+48 8192-4096 32 20014.8994469588 51153.5463598218 21490.7543862502 8429.6851799063 62753.8731642094 120953.5814789507 174424.9803322707 218667.6522208224 290036.0159073305 685818.1377888123
+48 8192-4096 64 20001.6318907308 51485.7665559206 22163.6182356780 8429.7778216626 117914.5835475184 118907.6557026206 174379.4741014740 218350.4225814622 289661.6655313659 609197.9265289788
+48 8192-8192 4 18503.3960754215 34232.5459744551 13887.6859480915 8427.3589801593 15515.9045043476 126281.0312411346 174096.1130106165 220113.2872908790 289515.4328707098 660591.3050447275
+48 8192-8192 8 18501.3758144945 34285.5881938240 17639.9221583382 8427.9007408452 17521.1591825708 124817.9967908684 174238.4980225570 219398.3255008257 289891.1010357919 679007.6587690723
+48 8192-8192 16 19450.7930302593 42937.1233700935 19940.1056977788 8428.2937239605 32044.8666483873 122277.3385894762 174623.0863652225 219290.4764059736 290091.7390936453 681373.9602359746
+48 8192-8192 32 20040.0656088914 48590.7796117315 21303.4867093663 8429.7693068256 62578.5736877474 121058.2734858270 174552.7081795037 218887.4687528310 290104.9300748972 685799.8449356963
+48 8192-8192 64 19972.5506674961 49410.7128063040 22034.8918005374 8430.0681331920 117695.9482047541 119039.2351615515 174663.3079065572 218677.4064571525 290188.0234669423 609393.0803166608
+48 8192-16384 4 18503.0049594075 34210.6637572127 13689.5361433807 8427.0845580212 15521.4392509718 126413.5847679195 174313.7579273166 220321.2498584873 289807.9685683385 660502.8474568409
+48 8192-16384 8 18484.6825103192 34260.6973765514 17116.0672879542 8428.2781721537 17525.8378300044 124925.1117343203 174375.1066203690 219641.2396001478 290016.5300563665 678749.3548103864
+48 8192-16384 16 19434.6473143046 43061.6192965921 19538.5904923494 8428.3052020653 32045.9122531862 122314.2958842582 174576.6652957770 219319.5153669880 290104.2314994292 681379.6389721287
+48 8192-16384 32 19979.3867174456 48432.6680649301 21036.2287054327 8429.4248109619 62620.9204988484 121058.7985082376 174487.4499546000 218734.5857264818 290077.8852337014 685444.5356957143
+48 8192-16384 64 20005.9648597326 49032.2508086818 21874.3451485738 8430.1221557899 117746.1233678043 118987.2423298408 174426.9237220143 218519.2057176803 289683.4605010607 609484.9864699800
+
+48 16384-32 4 18538.6564886362 50920.1105471910 19960.1830098803 8430.3107109808 19488.5146490701 127745.3022875921 174269.2761608078 220239.7404318178 289677.7636991851 660600.2419368976
+48 16384-32 8 18516.9596983862 50870.7628310636 21278.7150526258 8430.2648288432 20386.8986201973 125403.1323779619 174210.8352936178 219821.5427034993 289722.1048692013 678386.2810413361
+48 16384-32 16 19398.0329069013 53273.8467794891 22004.0805946653 8430.4969838981 38620.1867061170 123317.9223449958 174614.9982477824 219149.6282223149 290032.1746155396 681206.1611231819
+48 16384-32 32 20043.6385246107 54167.4548520445 22382.9211382467 8430.5060349358 75721.1795974662 120692.1814275782 174520.2630632423 218850.4376184891 290134.0855006880 685811.0890687673
+48 16384-32 64 20016.1082027836 54335.5399757912 22572.4475645191 8430.3027874352 133293.2044198870 118910.6948854849 174371.9024574176 218354.5490569992 289717.5677499916 609311.4406317334
+48 16384-64 4 18538.1415470638 50958.7702493739 19893.1663084249 8429.7072551531 19024.1290474732 127682.8951003673 174195.8574431537 220158.5068817944 289571.2088936753 659590.7846566775
+48 16384-64 8 18535.9089006630 50855.1360311181 21258.4998173759 8430.5998748238 19775.0394235576 125443.7583735204 174200.1834402087 219508.7230138779 289660.9682733659 678725.9516060614
+48 16384-64 16 19403.3728440566 53288.5378137274 22003.2862872514 8431.2048053962 38488.7196441179 123362.9469036435 174463.2395991460 219182.6677099151 289966.3058861503 680991.0706030113
+48 16384-64 32 20036.1519193555 54104.5417265370 22381.8909484067 8430.3269483530 75533.7009752617 120702.8368167018 174693.9813817845 218813.1398507324 290364.9632019062 685536.5932558094
+48 16384-64 64 19981.9770560629 54273.4823985908 22569.8816018630 8430.2680994681 133093.4645978807 118918.9951245623 174353.2289154803 218472.1466182627 289590.1574072215 609346.9565054982
+48 16384-128 4 18542.7344019577 51177.2862271107 19665.0677787473 8429.5690129939 18754.9125972671 127691.8336512948 174049.3525418257 220069.5422552858 289359.8060107305 660299.0168482241
+48 16384-128 8 18539.6133121846 51307.2192598727 21146.8079641249 8430.7646032419 20287.0768028739 125553.7039701418 174501.6605795310 219819.4452164614 290104.1042682112 678293.5536694290
+48 16384-128 16 19418.4841015890 53063.8193143688 21936.6082221799 8431.3205887985 38867.4374054688 123345.4821671261 174600.7868055115 219242.0080590353 290180.3028002437 681178.2071450584
+48 16384-128 32 20074.7920582912 54132.8670936906 22356.5074519746 8430.6434477816 75333.7391597713 120665.2646319919 174456.0667760044 218817.4292947842 290138.0439252671 685305.1003519698
+48 16384-128 64 19997.1742319310 54234.2429077406 22569.9892869482 8430.4554432510 132831.0250390437 118844.6461035656 174320.0733290824 218346.7891049715 289465.0158706974 609296.0920915883
+48 16384-256 4 18529.6087606224 51306.0186926082 19187.0087721398 8429.9703798239 15656.1856071663 127674.6121708811 174060.6264253768 220047.7241288456 289536.2378846835 660176.9796809180
+48 16384-256 8 18523.9272033234 51330.1105407312 20802.4506515184 8429.8482126672 17577.7331078511 125542.1590773109 174262.9403974467 219456.8626900151 289668.2250478175 678246.0458783032
+48 16384-256 16 19407.3679899749 52843.2274484264 21782.2847361102 8430.2982367772 32001.4981884774 123342.6935168896 174598.9871352794 219233.0594445135 290096.4403215421 680681.8148878861
+48 16384-256 32 20017.8866130593 53866.1794954323 22267.6563933894 8430.2528729675 62543.0381946637 120829.0643444349 174619.5483594635 218971.1521599283 290317.0637237712 685538.4741615749
+48 16384-256 64 20012.3056445892 54202.5529770882 22516.5891226782 8430.6410134260 117738.6881575218 118882.5424753453 174365.1101645015 218404.3105150464 289508.3474094134 609343.7098200274
+48 16384-512 4 18520.1112021027 51280.0607622748 18930.2336160066 8429.3879807092 15627.3293086315 127654.5442015679 173998.8619699881 220021.0969093860 289139.3055969632 660465.1802645564
+48 16384-512 8 18536.2271827812 51291.9903552828 20494.1531231120 8428.4455354164 17522.5461429825 125452.8551394295 174285.7222872857 219554.1519495190 289839.9210440119 678877.0907242802
+48 16384-512 16 19387.5168656727 52496.9802956327 21532.1467574510 8427.2952059454 32037.3115261827 123419.1966767949 174656.0072924276 219505.4058266496 290260.9759602233 682144.0399214934
+48 16384-512 32 20031.5293678215 53498.7132975982 22095.1430266879 8427.5697329515 62604.3362963769 120685.3548975215 174357.8616922633 218830.7731656816 290045.7290952596 685850.0471401825
+48 16384-512 64 20010.5990057427 53593.6815663426 22444.7385566536 8427.7597676313 117747.4498053383 118873.4801670699 174350.5935689891 218347.2083636061 289537.9885545288 609502.5533955464
+48 16384-1024 4 18528.8869414554 51313.6517658576 18063.9300276024 8425.8896738294 15665.5380715706 127766.7222244053 174178.3869309738 220117.6852347601 289539.0977841073 660511.4283230226
+48 16384-1024 8 18540.2326558755 51316.9787270411 19870.3050257689 8426.8034377763 17547.7930025685 125603.4292483241 174414.8965907734 219776.7910260075 290079.5159714794 679028.1248818507
+48 16384-1024 16 19402.4652645612 51969.4070527466 21095.4783040296 8426.8733982986 32063.4339233177 123305.4178384855 174509.8335645700 219316.0997392199 290115.2253721243 681958.8856175596
+48 16384-1024 32 20055.9856787689 53254.3236934123 21746.0498415057 8426.5329100851 62665.2395698609 120745.9631190702 174641.3766704300 219017.2239293923 290419.9784827871 686242.8329310951
+48 16384-1024 64 20029.7655234872 53159.3191543909 22167.2703802804 8427.5905478433 117794.8266482297 119021.9536622314 174523.9199407664 218837.8823580052 289857.7769751192 609735.1509996425
+48 16384-2048 4 18557.5098807264 51366.9964710678 15783.0241480540 8424.7033725221 15647.8348753000 127765.5916028540 174348.9746264663 220778.2641074798 289917.5299808537 660505.7926410325
+48 16384-2048 8 18531.9686100640 51371.3983288661 18287.6089431989 8424.3787622920 17546.5855861114 125560.3544854881 174387.1353910174 220007.8244228471 290090.3655985999 679458.6314746783
+48 16384-2048 16 19421.6912723887 48384.6382045819 20184.7778147586 8425.8327564428 32009.8733928742 123368.1441941174 174644.8046610407 219619.6399930375 290361.8604065101 681976.2982979093
+48 16384-2048 32 20057.1571653025 51253.7604597741 21355.3417545798 8426.8151177871 62650.1858719212 120782.6747552591 174645.9738896722 219104.5785463990 290498.2052811662 686362.3266254422
+48 16384-2048 64 19993.3520841830 51493.3341908891 21980.8849316309 8427.5517393930 117813.0889703398 118993.7064046456 174447.9762646409 218895.5412527571 289792.5918523537 609658.4733937381
+48 16384-4096 4 18544.1827266352 44553.7127689098 15372.6026544856 8424.4256606207 15630.0062377143 127749.6111271891 174206.3880378611 220191.8582258776 289724.7283651069 660841.0921892300
+48 16384-4096 8 18524.8040594922 49375.8466800982 18301.0489712650 8424.8104674950 17653.8740098349 125600.7457812326 174325.6487008882 219731.8110246070 289834.3741099220 678964.1364571578
+48 16384-4096 16 19400.3488374920 48024.2226881089 19916.8102028640 8425.8077320849 32171.3966687199 123310.7113666288 174488.5540942600 219502.4507549926 290045.8789294460 681845.5771429711
+48 16384-4096 32 20008.4481565168 51134.3280490006 21422.1652303160 8426.5796248434 62752.1406906415 120759.2428051863 174603.1581303340 218954.6577853260 290213.4309273328 685843.0848985432
+48 16384-4096 64 20024.7467992297 51456.7372766442 22108.6747469388 8427.1371558416 117923.6738582405 118989.0989605460 174569.9422407319 218543.9870788513 289769.0421688200 609391.9304161954
+48 16384-8192 4 18525.8638414413 34223.2551559699 13865.1028286808 8424.5257217333 15503.4939334903 127705.4335333881 174218.5145877196 220263.0234903023 289775.2232564153 660202.5498409354
+48 16384-8192 8 18509.0742161595 34273.6991511994 17591.1046913293 8425.1023553983 17501.6722885321 125481.9229455526 174134.5068755035 219299.5020396065 289537.6966531581 678934.4131861300
+48 16384-8192 16 19396.3803206035 42983.6061682401 19884.9832269731 8425.4674163726 32017.3438009707 123348.9812773192 174645.6944879742 219591.9669701731 290292.7509881961 682007.8896239987
+48 16384-8192 32 20025.0459593931 48606.9386610099 21267.0742972634 8426.6734212093 62560.3199291760 120674.1365321681 174471.6056187281 219085.1811213040 290050.4213331828 686454.6927786697
+48 16384-8192 64 20012.9731233867 49327.0963455034 22008.0013444770 8426.5719618094 117665.1997065795 118948.9174868537 174530.6737296052 218657.2636692173 289974.3473652076 609954.8889115477
+48 16384-16384 4 18538.5025447558 34199.2468761774 13682.3931186283 8424.8562225723 15509.0875011029 127776.6053137326 174285.3399954011 220578.4357656531 289981.0532599306 661071.8687497953
+48 16384-16384 8 18535.3819494714 34246.9524034237 17098.8744507210 8425.1046777015 17509.9674644982 125494.6556720113 174205.0658907308 219705.6579169599 289692.0580415555 679373.2803779965
+48 16384-16384 16 19393.5215692415 43145.3674846598 19519.2900072714 8425.4812724225 32025.9553852658 123452.9154398282 174704.3878221536 219730.2068227737 290405.5945181578 681905.6749967701
+48 16384-16384 32 20044.6741714253 48407.1527512955 21020.4600024480 8426.1901686709 62594.7911439909 120641.9720546458 174499.5312814219 218917.2794015097 290224.1967625785 686583.2712580617
+48 16384-16384 64 20036.1014247689 48979.0344088030 21858.5159281424 8427.4742353475 117699.0747691789 118985.4666705799 174519.1371928359 218908.7137966026 290051.2267767761 610062.7375823152
+
+
+
+48 32-32 4 643.2558849445 1687.3959725602 2009.9197151582 568.3547358943 2564.7348786151 6086.3952334442 5994.0365684780 8364.7258115753 10061.3078177210 30768.6762301456
+48 32-32 8 642.3508038586 1688.7412957526 2036.7752498462 568.7191777839 2617.9023357901 6090.4015897824 6021.2946486369 8357.8144628734 10090.5782247843 30945.5209061665
+48 32-32 16 664.0320617742 1705.1041234173 2050.8355449743 568.7611777456 5023.3875188366 5160.6845845594 6061.5442809722 8443.3738199115 9994.8519988524 31221.1519282758
+48 32-32 32 662.6714464779 1711.5578323850 2059.5504322938 568.8315982339 10072.4438363452 4614.8594375549 6000.0173109839 8301.7356652831 9945.6361602267 31314.7900982598
+48 32-32 64 664.3660954393 1715.0462323000 2060.2470997714 568.8973612838 20617.7292781343 4361.7772151916 6001.2285007612 8257.6283341490 9955.7566246839 31252.0064113742
+48 32-64 4 640.5600499067 1686.6418277925 2007.6014700260 568.8022740815 2605.8822451060 6096.3928986360 6022.5828834182 8357.1494955311 10082.5690486919 30877.9129716938
+48 32-64 8 641.2288069949 1680.9385117498 2036.6784582536 568.8422845589 2579.2181365412 6097.0160367744 6032.3330094771 8378.6745364415 10102.2307700569 30977.0773204111
+48 32-64 16 664.7290096742 1700.8116908509 2049.7566170655 568.7320090218 5003.0083673641 5172.8164939384 6062.7959369377 8437.2376483863 9987.1210159177 31266.7907402950
+48 32-64 32 664.1720860275 1710.6940272968 2058.9642556763 568.5124357000 10031.5521544878 4614.4284739664 6000.6948700734 8294.8304750298 9945.3074523303 31264.2885205728
+48 32-64 64 664.3187545160 1711.4907867815 2060.1639165342 568.4292999706 20542.5345556514 4356.6143462595 5991.3682699020 8252.3316198847 9943.1872631498 31272.5987703211

@@ -65,6 +65,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 //#endif
   	i = 2;
 //	while(i < total_numa_nodes){
+{
 	// Dynamically allocate the three arrays using "posix_memalign()"
 		int iters = 0;
 		int stride;

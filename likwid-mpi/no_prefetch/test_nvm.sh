@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-cd ../wr-only_nvm
+cd wr-only_nvm
 sh test_numa.sh
 cd ../1w4r_nvm
 sh test_numa.sh

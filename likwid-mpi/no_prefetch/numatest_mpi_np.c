@@ -111,7 +111,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			long double empty2=0.0;
 			
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("wr-only");
+			//LIKWID_MARKER_START("wr-only");
 			clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
 			for(j = 0;j < (size/sizeof(double));j++){
@@ -123,7 +123,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
 			clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("wr-only");
+			//LIKWID_MARKER_STOP("wr-only");
 			if(rank == 0){
 			accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			wr_only_t += accum;
@@ -131,7 +131,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("1w4r");
+			//LIKWID_MARKER_START("1w4r");
 			clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
 			for(j =0; j < (size/sizeof(double)); j++){
@@ -139,7 +139,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
             }
 			MPI_Barrier(MPI_COMM_WORLD);
 			clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("1w4r");
+			//LIKWID_MARKER_STOP("1w4r");
 			if(rank == 0){
 			accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			owfr_t += accum;
@@ -148,7 +148,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("str");
+			//LIKWID_MARKER_START("str");
 			clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
                         for(j =0; j < (size/sizeof(double)); j++){
@@ -157,7 +157,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("str");
+			//LIKWID_MARKER_STOP("str");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			str_t += accum;
@@ -166,7 +166,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("rand");
+			//LIKWID_MARKER_START("rand");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
                         for(j =0; j < (size/sizeof(double)); j++){
@@ -174,7 +174,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("rand");
+			//LIKWID_MARKER_STOP("rand");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			rand_t += accum;
@@ -183,7 +183,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("l3");
+			//LIKWID_MARKER_START("l3");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
                         for(j =0; j < (size/sizeof(double)); j++){
@@ -195,7 +195,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
                         }
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("l3");
+			//LIKWID_MARKER_STOP("l3");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			l2cache_t += accum;
@@ -204,7 +204,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("3sten");
+			//LIKWID_MARKER_START("3sten");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 			for(l = (ldim + 1)*(ldim + 1); l < ((ldim + 1)*(ldim + 1)*(ldim));l+=(ldim + 1)*(ldim + 1)){
 					for(j = (ldim+1); j < ((ldim +1)*(ldim + 1) - (ldim+1)); j += (ldim + 1)){
@@ -216,7 +216,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("3sten");
+			//LIKWID_MARKER_STOP("3sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			t_sten_t += accum;
@@ -225,7 +225,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("5sten");
+			//LIKWID_MARKER_START("5sten");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 			for(l = (ldim + 1)*(ldim + 1); l < ((ldim + 1)*(ldim + 1)*(ldim));l+=(ldim + 1)*(ldim + 1)){
 					for(j = (ldim+1); j < ((ldim +1)*(ldim + 1) - (ldim+1)); j += (ldim + 1)){
@@ -237,7 +237,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("5sten");
+			//LIKWID_MARKER_STOP("5sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			f_sten_t += accum;
@@ -245,7 +245,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("7sten");
+			//LIKWID_MARKER_START("7sten");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 			for(l = ldim*ldim; l < ((ldim+1)*(ldim+1)*ldim);l+=(ldim+1)*(ldim+1)){
 					for(j = ldim; j < (((ldim+1)*(ldim+1)) - ldim); j += (ldim+1)){
@@ -257,7 +257,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("7sten");
+			//LIKWID_MARKER_STOP("7sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			s_sten_t += accum;
@@ -265,7 +265,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("9sten");
+			//LIKWID_MARKER_START("9sten");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 			for(l = (ldim + 1)*(ldim + 1); l < ((ldim + 1)*(ldim + 1)*(ldim));l+=(ldim + 1)*(ldim + 1)){
 					for(j = (ldim+1); j < ((ldim +1)*(ldim + 1) - (ldim+1)); j += (ldim + 1)){
@@ -277,7 +277,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("9sten");
+			//LIKWID_MARKER_STOP("9sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			n_sten_t += accum;
@@ -285,7 +285,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			stride = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("27sten");
+			//LIKWID_MARKER_START("27sten");
                         clock_gettime( CLOCK_MONOTONIC, &begin);
 			for(l = (ldim + 1)*(ldim + 1); l < ((ldim + 1)*(ldim + 1)*(ldim));l+=(ldim + 1)*(ldim + 1)){
 					for(j = (ldim+1); j < ((ldim +1)*(ldim + 1) - (ldim+1)); j += (ldim + 1)){
@@ -297,7 +297,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("27sten");
+			//LIKWID_MARKER_STOP("27sten");
 			if(rank == 0){
                         accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			t7_sten_t += accum;

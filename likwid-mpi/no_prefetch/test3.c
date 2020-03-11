@@ -9,9 +9,9 @@ int main(int argc, char ** argv){
 	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 	MPI_Comm_size(MPI_COMM_WORLD, &size);
 	char *labels[] = {"NVME","DRAM"};
-		LIKWID_MARKER_INIT;
+		//LIKWID_MARKER_INIT;
 	numatest(2,labels, rank, size, bytes);
-	LIKWID_MARKER_CLOSE;
+	//LIKWID_MARKER_CLOSE;
 	MPI_Finalize();
 	return 0;
 }
