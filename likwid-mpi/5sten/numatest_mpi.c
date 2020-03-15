@@ -60,11 +60,11 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 
   	i = 0;
 //	while(i < total_numa_nodes){
-wr_dist = 32/sizeof(double);
+wr_dist = 1024/sizeof(double);
 //while(wr_dist < 32768/sizeof(double)){
-	rd_dist = 32/sizeof(double);
+	rd_dist = 512/sizeof(double);
 //		while(rd_dist < 32768/sizeof(double)){
-				unroll = 4;
+				unroll = 16;
 //				while(unroll < 128){
 	// Dynamically allocate the three arrays using "posix_memalign()"
 		int iters = 0;
@@ -592,6 +592,7 @@ out7:
 			stride = 0;
 			ext_flg = 0;
 			MPI_Barrier(MPI_COMM_WORLD);
+		LIKWID_MARKER_START("reg");
                         clock_gettime( CLOCK_MONOTONIC, &obegin);
 //#pragma omp parallel for
 						if(wr_dist >= rd_dist){
@@ -718,6 +719,7 @@ out77:
 					}
 			}
 						}
+		LIKWID_MARKER_STOP("reg");
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
 			if(rank == 0){
@@ -1170,14 +1172,14 @@ out77777:
 		{
 			printf("%d %d-%d %d %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf %.10Lf\n", procs, wr_dist*sizeof(double), rd_dist*sizeof(double), unroll, wr_only_avg/10, owfr_avg/10, str_avg/10, rand_avg/10, l2cache_avg/10, t_sten_avg/10, f_sten_avg/10, s_sten_avg/10, n_sten_avg/10, t7_sten_avg/10);
 		}
-				unroll*=2;
+/*				unroll*=2;
 				}
 			rd_dist*=2;
 		}
 		printf("\n");
 	wr_dist*=2;
 }
-/*if(rank == 0){
+if(rank == 0){
 		struct numa_node_bw * node_bw = (struct numa_node_bw *)malloc(sizeof(struct numa_node_bw));
 		node_bw->numa_id = numa_node_ids[i];
 		node_bw->wr_only_avg = wr_only_avg/10;
@@ -1207,7 +1209,7 @@ out77777:
 		{
 				printf("\n\n");
 		}
-	}
+//	}
 //	if(rank == 0){
 //	write_config_file();
 //	}

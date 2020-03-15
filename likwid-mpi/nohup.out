@@ -1,0 +1,80 @@
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -lnuma -lm
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+make: *** No rule to make target `numatest_mpi_np.c', needed by `numatest_mpi'.  Stop.
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+rm: cannot remove ‘numatest_mpi’: No such file or directory
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
