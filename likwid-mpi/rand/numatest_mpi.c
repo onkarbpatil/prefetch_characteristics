@@ -334,7 +334,7 @@ wr_dist = 32/sizeof(double);
                         for(j = ((size/sizeof(double)) - rd_dist);j < (size/sizeof(double)); j++){
 			  a[rand_tab[j]] = b[rand_tab[j]] + c[rand_tab[j]] + d[rand_tab[j]] + e[rand_tab[j]];
                         }
-		LIKWID_MARKER_START("reg");
+		LIKWID_MARKER_STOP("reg");
 			MPI_Barrier(MPI_COMM_WORLD);
                         clock_gettime( CLOCK_MONOTONIC, &stop);
 			if(rank == 0){
