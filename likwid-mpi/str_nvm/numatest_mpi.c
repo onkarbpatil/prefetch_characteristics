@@ -58,7 +58,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 	for(i=0; i< size/sizeof(double); i++)
 		rand_tab[i]=rand()%(size/sizeof(double));
 
-  	i = 0;
+  	i = 2;
 //	while(i < total_numa_nodes){
 wr_dist = 2048/sizeof(double);
 //while(wr_dist < 32768/sizeof(double)){
