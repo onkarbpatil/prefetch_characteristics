@@ -1,0 +1,3073 @@
+# dmidecode 3.2
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.1 present.
+# SMBIOS implementations newer than version 3.2.0 are not
+# fully supported by this version of dmidecode.
+Table at 0x88A37000.
+
+Handle 0x0000, DMI type 194, 5 bytes
+OEM-specific Type
+	Header and Data:
+		C2 05 00 00 11
+
+Handle 0x0001, DMI type 199, 52 bytes
+OEM-specific Type
+	Header and Data:
+		C7 34 01 00 64 00 00 02 19 20 31 07 54 06 05 00
+		0F 00 00 03 18 20 08 10 55 06 05 00 29 00 00 04
+		19 20 14 06 56 06 05 00 2B 00 00 05 19 20 12 08
+		57 06 05 00
+
+Handle 0x0002, DMI type 201, 16 bytes
+OEM-specific Type
+	Header and Data:
+		C9 10 02 00 10 02 00 00 40 0D 01 00 0E 00 00 80
+
+Handle 0x0003, DMI type 0, 26 bytes
+BIOS Information
+	Vendor: HPE
+	Version: U32
+	Release Date: 11/07/2019
+	Address: 0xF0000
+	Runtime Size: 64 kB
+	ROM Size: 64 MB
+	Characteristics:
+		PCI is supported
+		PNP is supported
+		BIOS is upgradeable
+		BIOS shadowing is allowed
+		ESCD support is available
+		Boot from CD is supported
+		Selectable boot is supported
+		EDD is supported
+		5.25"/360 kB floppy services are supported (int 13h)
+		5.25"/1.2 MB floppy services are supported (int 13h)
+		3.5"/720 kB floppy services are supported (int 13h)
+		Print screen service is supported (int 5h)
+		8042 keyboard services are supported (int 9h)
+		Serial services are supported (int 14h)
+		Printer services are supported (int 17h)
+		CGA/mono video services are supported (int 10h)
+		ACPI is supported
+		USB legacy is supported
+		BIOS boot specification is supported
+		Function key-initiated network boot is supported
+		Targeted content distribution is supported
+		UEFI is supported
+	BIOS Revision: 2.17
+	Firmware Revision: 1.43
+
+Handle 0x0004, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: U44
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 1
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x0005, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J132
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 2
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x0006, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J130
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 3
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x0007, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J106
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 4
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x0008, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J161
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 5
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x0009, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J132
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 6
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x000A, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J12
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 7
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x000B, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J12
+	Internal Connector Type: Access Bus (USB)
+	External Reference Designator: USB PORT 8
+	External Connector Type: Access Bus (USB)
+	Port Type: USB
+
+Handle 0x000C, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J87
+	Internal Connector Type: None
+	External Reference Designator: Com PORT
+	External Connector Type: DB-9 male
+	Port Type: Serial Port 16550A Compatible
+
+Handle 0x000D, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J28
+	Internal Connector Type: None
+	External Reference Designator: Video PORT
+	External Connector Type: DB-15 female
+	Port Type: Video Port
+
+Handle 0x000E, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J39
+	Internal Connector Type: None
+	External Reference Designator: ILO NIC PORT
+	External Connector Type: RJ-45
+	Port Type: Network Port
+
+Handle 0x000F, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J109
+	Internal Connector Type: None
+	External Reference Designator: NIC PORT 1
+	External Connector Type: RJ-45
+	Port Type: Network Port
+
+Handle 0x0010, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J109
+	Internal Connector Type: None
+	External Reference Designator: NIC PORT 2
+	External Connector Type: RJ-45
+	Port Type: Network Port
+
+Handle 0x0011, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J109
+	Internal Connector Type: None
+	External Reference Designator: NIC PORT 3
+	External Connector Type: RJ-45
+	Port Type: Network Port
+
+Handle 0x0012, DMI type 8, 9 bytes
+Port Connector Information
+	Internal Reference Designator: J109
+	Internal Connector Type: None
+	External Reference Designator: NIC PORT 4
+	External Connector Type: RJ-45
+	Port Type: Network Port
+
+Handle 0x0013, DMI type 16, 23 bytes
+Physical Memory Array
+	Location: System Board Or Motherboard
+	Use: System Memory
+	Error Correction Type: Multi-bit ECC
+	Maximum Capacity: 3 TB
+	Error Information Handle: Not Provided
+	Number Of Devices: 12
+
+Handle 0x0014, DMI type 16, 23 bytes
+Physical Memory Array
+	Location: System Board Or Motherboard
+	Use: System Memory
+	Error Correction Type: Multi-bit ECC
+	Maximum Capacity: 3 TB
+	Error Information Handle: Not Provided
+	Number Of Devices: 12
+
+Handle 0x0015, DMI type 38, 18 bytes
+IPMI Device Information
+	Interface Type: KCS (Keyboard Control Style)
+	Specification Version: 2.0
+	I2C Slave Address: 0x10
+	NV Storage Device: Not Present
+	Base Address: 0x0000000000000CA2 (I/O)
+	Register Spacing: Successive Byte Boundaries
+
+Handle 0x0016, DMI type 193, 9 bytes
+OEM-specific Type
+	Header and Data:
+		C1 09 16 00 01 01 00 02 03
+	Strings:
+		v2.10 (05/21/2019)
+		         
+		          
+
+Handle 0x0017, DMI type 195, 7 bytes
+OEM-specific Type
+	Header and Data:
+		C3 07 17 00 01 04 02
+	Strings:
+		$0E110846
+
+Handle 0x0018, DMI type 198, 14 bytes
+OEM-specific Type
+	Header and Data:
+		C6 0E 18 00 01 00 00 00 00 00 01 0A FF FF
+
+Handle 0x0019, DMI type 215, 6 bytes
+OEM-specific Type
+	Header and Data:
+		D7 06 19 00 00 05
+
+Handle 0x001A, DMI type 223, 11 bytes
+OEM-specific Type
+	Header and Data:
+		DF 0B 1A 00 66 46 70 00 00 00 00
+
+Handle 0x001B, DMI type 19, 31 bytes
+Memory Array Mapped Address
+	Starting Address: 0x00000000000
+	Ending Address: 0x000BFFFFFFF
+	Range Size: 3 GB
+	Physical Array Handle: 0x0013
+	Partition Width: 1
+
+Handle 0x001C, DMI type 19, 31 bytes
+Memory Array Mapped Address
+	Starting Address: 0x0000000100000000k
+	Ending Address: 0x000001AABFFFFFFFk
+	Range Size: 1703 GB
+	Physical Array Handle: 0x0014
+	Partition Width: 1
+
+Handle 0x001D, DMI type 39, 22 bytes
+System Power Supply
+	Power Unit Group: 1
+	Location: Not Specified
+	Name: Power Supply 1
+	Manufacturer: HPE
+	Serial Number: 5WBXU0DLLC642F
+	Asset Tag: Not Specified
+	Model Part Number: 865414-B21
+	Revision: Not Specified
+	Max Power Capacity: 800 W
+	Status: Present, OK
+	Type: Switching
+	Input Voltage Range Switching: Auto-switch
+	Plugged: Yes
+	Hot Replaceable: Yes
+
+Handle 0x001E, DMI type 39, 22 bytes
+System Power Supply
+	Power Unit Group: 1
+	Location: Not Specified
+	Name: Power Supply 2
+	Manufacturer: HPE
+	Serial Number: 5WBXU0DLLC63WL
+	Asset Tag: Not Specified
+	Model Part Number: 865414-B21
+	Revision: Not Specified
+	Max Power Capacity: 800 W
+	Status: Present, Critical
+	Type: Switching
+	Input Voltage Range Switching: Auto-switch
+	Plugged: Yes
+	Hot Replaceable: Yes
+
+Handle 0x001F, DMI type 236, 21 bytes
+OEM-specific Type
+	Header and Data:
+		EC 15 1F 00 A0 02 00 DD 00 00 00 00 00 00 00 00
+		00 02 02 00 01
+	Strings:
+		GEN10 1X2 SFF EB1
+
+Handle 0x0020, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: PROC 1 DIMM 1
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0021, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 1
+	Locator: PROC 1 DIMM 2
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-00000813
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0022, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 2
+	Locator: PROC 1 DIMM 3
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0023, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 3
+	Locator: PROC 1 DIMM 4
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000007D2
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0024, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 4
+	Locator: PROC 1 DIMM 5
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0025, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 5
+	Locator: PROC 1 DIMM 6
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000007A5
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0026, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 6
+	Locator: PROC 1 DIMM 7
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-00000299
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0027, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 7
+	Locator: PROC 1 DIMM 8
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0028, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 8
+	Locator: PROC 1 DIMM 9
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-00000954
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0029, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 9
+	Locator: PROC 1 DIMM 10
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002A, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 10
+	Locator: PROC 1 DIMM 11
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-00000783
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002B, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0013
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 11
+	Locator: PROC 1 DIMM 12
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002C, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 12
+	Locator: PROC 2 DIMM 1
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002D, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 13
+	Locator: PROC 2 DIMM 2
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000002DF
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002E, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 14
+	Locator: PROC 2 DIMM 3
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x002F, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 15
+	Locator: PROC 2 DIMM 4
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000002F6
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0030, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 16
+	Locator: PROC 2 DIMM 5
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0031, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 17
+	Locator: PROC 2 DIMM 6
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000000F4
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0032, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 18
+	Locator: PROC 2 DIMM 7
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-00000748
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0033, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 19
+	Locator: PROC 2 DIMM 8
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0034, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 20
+	Locator: PROC 2 DIMM 9
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-0000076F
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0035, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 21
+	Locator: PROC 2 DIMM 10
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0036, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 129408 MB
+	Form Factor: DIMM
+	Set: 22
+	Locator: PROC 2 DIMM 11
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Non-Volatile LRDIMM
+	Speed: 2666 MT/s
+	Manufacturer: INTEL
+	Serial Number: 8089-A2-1925-000006E2
+	Asset Tag: Not Specified
+	Part Number: P12109-001
+	Rank: 1
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: Intel persistent memory
+	Memory Operating Mode Capability: Volatile memory Byte-accessible persistent memory
+	Firmware Version: 01.02.00.5375
+	Module Manufacturer ID: Bank 1, Hex 0x89
+	Module Product ID: 0x0556
+	Memory Subsystem Controller Manufacturer ID: Bank 1, Hex 0x89
+	Memory Subsystem Controller Product ID: 0x097A
+	Non-Volatile Size: 126 GB
+	Volatile Size: None
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0037, DMI type 17, 84 bytes
+Memory Device
+	Array Handle: 0x0014
+	Error Information Handle: Not Provided
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: 23
+	Locator: PROC 2 DIMM 12
+	Bank Locator: Not Specified
+	Type: DDR4
+	Type Detail: Synchronous Registered (Buffered)
+	Speed: 2933 MT/s
+	Manufacturer: HPE
+	Serial Number: Not Specified
+	Asset Tag: Not Specified
+	Part Number: P03050-091
+	Rank: 2
+	Configured Memory Speed: 2666 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Not Specified
+	Module Manufacturer ID: Bank 10, Hex 0x83
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0038, DMI type 230, 11 bytes
+OEM-specific Type
+	Header and Data:
+		E6 0B 38 00 1D 00 01 02 02 07 B0
+	Strings:
+		LTEON
+		06
+
+Handle 0x0039, DMI type 230, 11 bytes
+OEM-specific Type
+	Header and Data:
+		E6 0B 39 00 1E 00 01 02 02 07 B2
+	Strings:
+		LTEON
+		06
+
+Handle 0x003A, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3A 00 20 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61DD
+
+Handle 0x003B, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3B 00 21 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		00000813
+
+Handle 0x003C, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3C 00 22 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF7585
+
+Handle 0x003D, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3D 00 23 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000007D2
+
+Handle 0x003E, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3E 00 24 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61E3
+
+Handle 0x003F, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 3F 00 25 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000007A5
+
+Handle 0x0040, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 40 00 26 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		00000299
+
+Handle 0x0041, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 41 00 27 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF60E3
+
+Handle 0x0042, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 42 00 28 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		00000954
+
+Handle 0x0043, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 43 00 29 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61E0
+
+Handle 0x0044, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 44 00 2A 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		00000783
+
+Handle 0x0045, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 45 00 2B 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF6088
+
+Handle 0x0046, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 46 00 2C 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61E6
+
+Handle 0x0047, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 47 00 2D 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000002DF
+
+Handle 0x0048, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 48 00 2E 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF6087
+
+Handle 0x0049, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 49 00 2F 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000002F6
+
+Handle 0x004A, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4A 00 30 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61DE
+
+Handle 0x004B, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4B 00 31 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000000F4
+
+Handle 0x004C, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4C 00 32 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		00000748
+
+Handle 0x004D, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4D 00 33 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF607F
+
+Handle 0x004E, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4E 00 34 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		0000076F
+
+Handle 0x004F, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 4F 00 35 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF61E4
+
+Handle 0x0050, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 50 00 36 00 01 02 03
+	Strings:
+		Intel           
+		NMA1XXD128GPS       
+		000006E2
+
+Handle 0x0051, DMI type 237, 9 bytes
+OEM-specific Type
+	Header and Data:
+		ED 09 51 00 37 00 01 02 03
+	Strings:
+		Samsung         
+		M393A2K43CB2-CVF    
+		25EF60E4
+
+Handle 0x0052, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 52 00 20 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0053, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 53 00 21 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0054, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 54 00 22 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0055, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 55 00 23 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0056, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 56 00 24 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0057, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 57 00 25 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0058, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 58 00 26 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0059, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 59 00 27 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x005A, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5A 00 28 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x005B, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5B 00 29 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x005C, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5C 00 2A 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x005D, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5D 00 2B 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x005E, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5E 00 2C 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x005F, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 5F 00 2D 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0060, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 60 00 2E 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0061, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 61 00 2F 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0062, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 62 00 30 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0063, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 63 00 31 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0064, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 64 00 32 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0065, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 65 00 33 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0066, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 66 00 34 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0067, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 67 00 35 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x0068, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 68 00 36 00 10 00 00 00 B0 04 B0 04 03 00
+		02 00 00 04 00 04 80 F9 01 00 80 F9 01 00 01 02
+		01 01 00
+
+Handle 0x0069, DMI type 232, 35 bytes
+OEM-specific Type
+	Header and Data:
+		E8 23 69 00 37 00 11 00 00 00 B0 04 B0 04 01 00
+		01 00 FF FF FF FF 00 40 00 00 00 00 00 00 FF 00
+		01 FF 00
+
+Handle 0x006A, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L1-Cache
+	Configuration: Enabled, Not Socketed, Level 1
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 1536 kB
+	Maximum Size: 1536 kB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 8-way Set-associative
+
+Handle 0x006B, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L2-Cache
+	Configuration: Enabled, Not Socketed, Level 2
+	Operational Mode: Varies With Memory Address
+	Location: Internal
+	Installed Size: 24 MB
+	Maximum Size: 24 MB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 16-way Set-associative
+
+Handle 0x006C, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L3-Cache
+	Configuration: Enabled, Not Socketed, Level 3
+	Operational Mode: Varies With Memory Address
+	Location: Internal
+	Installed Size: 36608 kB
+	Maximum Size: 36608 kB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: Fully Associative
+
+Handle 0x006D, DMI type 4, 48 bytes
+Processor Information
+	Socket Designation: Proc 1
+	Type: Central Processor
+	Family: Xeon
+	Manufacturer: Intel(R) Corporation
+	ID: 57 06 05 00 FF FB EB BF
+	Signature: Type 0, Family 6, Model 85, Stepping 7
+	Flags:
+		FPU (Floating-point unit on-chip)
+		VME (Virtual mode extension)
+		DE (Debugging extension)
+		PSE (Page size extension)
+		TSC (Time stamp counter)
+		MSR (Model specific registers)
+		PAE (Physical address extension)
+		MCE (Machine check exception)
+		CX8 (CMPXCHG8 instruction supported)
+		APIC (On-chip APIC hardware supported)
+		SEP (Fast system call)
+		MTRR (Memory type range registers)
+		PGE (Page global enable)
+		MCA (Machine check architecture)
+		CMOV (Conditional move instruction supported)
+		PAT (Page attribute table)
+		PSE-36 (36-bit page size extension)
+		CLFSH (CLFLUSH instruction supported)
+		DS (Debug store)
+		ACPI (ACPI supported)
+		MMX (MMX technology supported)
+		FXSR (FXSAVE and FXSTOR instructions supported)
+		SSE (Streaming SIMD extensions)
+		SSE2 (Streaming SIMD extensions 2)
+		SS (Self-snoop)
+		HTT (Multi-threading)
+		TM (Thermal monitor supported)
+		PBE (Pending break enabled)
+	Version: Intel(R) Xeon(R) Platinum 8260 CPU @ 2.40GHz
+	Voltage: 1.6 V
+	External Clock: 100 MHz
+	Max Speed: 4000 MHz
+	Current Speed: 2400 MHz
+	Status: Populated, Enabled
+	Upgrade: Socket LGA3647-1
+	L1 Cache Handle: 0x006A
+	L2 Cache Handle: 0x006B
+	L3 Cache Handle: 0x006C
+	Serial Number: Not Specified
+	Asset Tag: UNKNOWN
+	Part Number: Not Specified
+	Core Count: 24
+	Core Enabled: 24
+	Thread Count: 48
+	Characteristics:
+		64-bit capable
+		Multi-Core
+		Hardware Thread
+		Execute Protection
+		Enhanced Virtualization
+		Power/Performance Control
+
+Handle 0x006E, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L1-Cache
+	Configuration: Enabled, Not Socketed, Level 1
+	Operational Mode: Write Back
+	Location: Internal
+	Installed Size: 1536 kB
+	Maximum Size: 1536 kB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 8-way Set-associative
+
+Handle 0x006F, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L2-Cache
+	Configuration: Enabled, Not Socketed, Level 2
+	Operational Mode: Varies With Memory Address
+	Location: Internal
+	Installed Size: 24 MB
+	Maximum Size: 24 MB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: 16-way Set-associative
+
+Handle 0x0070, DMI type 7, 27 bytes
+Cache Information
+	Socket Designation: L3-Cache
+	Configuration: Enabled, Not Socketed, Level 3
+	Operational Mode: Varies With Memory Address
+	Location: Internal
+	Installed Size: 36608 kB
+	Maximum Size: 36608 kB
+	Supported SRAM Types:
+		Synchronous
+	Installed SRAM Type: Synchronous
+	Speed: Unknown
+	Error Correction Type: Single-bit ECC
+	System Type: Unified
+	Associativity: Fully Associative
+
+Handle 0x0071, DMI type 4, 48 bytes
+Processor Information
+	Socket Designation: Proc 2
+	Type: Central Processor
+	Family: Xeon
+	Manufacturer: Intel(R) Corporation
+	ID: 57 06 05 00 FF FB EB BF
+	Signature: Type 0, Family 6, Model 85, Stepping 7
+	Flags:
+		FPU (Floating-point unit on-chip)
+		VME (Virtual mode extension)
+		DE (Debugging extension)
+		PSE (Page size extension)
+		TSC (Time stamp counter)
+		MSR (Model specific registers)
+		PAE (Physical address extension)
+		MCE (Machine check exception)
+		CX8 (CMPXCHG8 instruction supported)
+		APIC (On-chip APIC hardware supported)
+		SEP (Fast system call)
+		MTRR (Memory type range registers)
+		PGE (Page global enable)
+		MCA (Machine check architecture)
+		CMOV (Conditional move instruction supported)
+		PAT (Page attribute table)
+		PSE-36 (36-bit page size extension)
+		CLFSH (CLFLUSH instruction supported)
+		DS (Debug store)
+		ACPI (ACPI supported)
+		MMX (MMX technology supported)
+		FXSR (FXSAVE and FXSTOR instructions supported)
+		SSE (Streaming SIMD extensions)
+		SSE2 (Streaming SIMD extensions 2)
+		SS (Self-snoop)
+		HTT (Multi-threading)
+		TM (Thermal monitor supported)
+		PBE (Pending break enabled)
+	Version: Intel(R) Xeon(R) Platinum 8260 CPU @ 2.40GHz
+	Voltage: 1.6 V
+	External Clock: 100 MHz
+	Max Speed: 4000 MHz
+	Current Speed: 2400 MHz
+	Status: Populated, Enabled
+	Upgrade: Socket LGA3647-1
+	L1 Cache Handle: 0x006E
+	L2 Cache Handle: 0x006F
+	L3 Cache Handle: 0x0070
+	Serial Number: Not Specified
+	Asset Tag: UNKNOWN
+	Part Number: Not Specified
+	Core Count: 24
+	Core Enabled: 24
+	Thread Count: 48
+	Characteristics:
+		64-bit capable
+		Multi-Core
+		Hardware Thread
+		Execute Protection
+		Enhanced Virtualization
+		Power/Performance Control
+
+Handle 0x0072, DMI type 211, 7 bytes
+OEM-specific Type
+	Header and Data:
+		D3 07 72 00 6D 00 0A
+
+Handle 0x0073, DMI type 211, 7 bytes
+OEM-specific Type
+	Header and Data:
+		D3 07 73 00 71 00 0A
+
+Handle 0x0074, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 74 00 6D 00 20 00 0A A8 01 00 FF FF FF FF
+		05 00 00 00 00 00
+
+Handle 0x0075, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 75 00 6D 00 21 00 0A AA 01 00 FF FF FF FF
+		05 00 00 00 00 00
+
+Handle 0x0076, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 76 00 6D 00 22 00 0A A4 01 00 FF FF FF FF
+		04 00 00 00 00 00
+
+Handle 0x0077, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 77 00 6D 00 23 00 0A A6 01 00 FF FF FF FF
+		04 00 00 00 00 00
+
+Handle 0x0078, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 78 00 6D 00 24 00 0A A0 01 00 FF FF FF FF
+		03 00 00 00 00 00
+
+Handle 0x0079, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 79 00 6D 00 25 00 0A A2 01 00 FF FF FF FF
+		03 00 00 00 00 00
+
+Handle 0x007A, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7A 00 6D 00 26 00 09 A2 01 01 FF FF FF FF
+		00 00 00 00 00 00
+
+Handle 0x007B, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7B 00 6D 00 27 00 09 A0 01 01 FF FF FF FF
+		00 00 00 00 00 00
+
+Handle 0x007C, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7C 00 6D 00 28 00 09 A6 01 01 FF FF FF FF
+		01 00 00 00 00 00
+
+Handle 0x007D, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7D 00 6D 00 29 00 09 A4 01 01 FF FF FF FF
+		01 00 00 00 00 00
+
+Handle 0x007E, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7E 00 6D 00 2A 00 09 AA 01 01 FF FF FF FF
+		02 00 00 00 00 00
+
+Handle 0x007F, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 7F 00 6D 00 2B 00 09 A8 01 01 FF FF FF FF
+		02 00 00 00 00 00
+
+Handle 0x0080, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 80 00 71 00 2C 00 0C A8 01 02 FF FF FF FF
+		05 00 00 00 00 00
+
+Handle 0x0081, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 81 00 71 00 2D 00 0C AA 01 02 FF FF FF FF
+		05 00 00 00 00 00
+
+Handle 0x0082, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 82 00 71 00 2E 00 0C A4 01 02 FF FF FF FF
+		04 00 00 00 00 00
+
+Handle 0x0083, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 83 00 71 00 2F 00 0C A6 01 02 FF FF FF FF
+		04 00 00 00 00 00
+
+Handle 0x0084, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 84 00 71 00 30 00 0C A0 01 02 FF FF FF FF
+		03 00 00 00 00 00
+
+Handle 0x0085, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 85 00 71 00 31 00 0C A2 01 02 FF FF FF FF
+		03 00 00 00 00 00
+
+Handle 0x0086, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 86 00 71 00 32 00 0B A2 01 03 FF FF FF FF
+		00 00 00 00 00 00
+
+Handle 0x0087, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 87 00 71 00 33 00 0B A0 01 03 FF FF FF FF
+		00 00 00 00 00 00
+
+Handle 0x0088, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 88 00 71 00 34 00 0B A6 01 03 FF FF FF FF
+		01 00 00 00 00 00
+
+Handle 0x0089, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 89 00 71 00 35 00 0B A4 01 03 FF FF FF FF
+		01 00 00 00 00 00
+
+Handle 0x008A, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 8A 00 71 00 36 00 0B AA 01 03 FF FF FF FF
+		02 00 00 00 00 00
+
+Handle 0x008B, DMI type 227, 22 bytes
+OEM-specific Type
+	Header and Data:
+		E3 16 8B 00 71 00 37 00 0B A8 01 03 FF FF FF FF
+		02 00 00 00 00 00
+
+Handle 0x008C, DMI type 197, 26 bytes
+OEM-specific Type
+	Header and Data:
+		C5 1A 8C 00 6D 00 00 07 FF 01 A5 00 00 00 00 00
+		2C 05 58 4E FF 14 1B 06 A0 28
+
+Handle 0x008D, DMI type 197, 26 bytes
+OEM-specific Type
+	Header and Data:
+		C5 1A 8D 00 71 00 40 06 FF 02 A5 00 40 00 00 00
+		58 2A 8B 73 7F 09 63 05 A0 28
+
+Handle 0x008E, DMI type 1, 27 bytes
+System Information
+	Manufacturer: HPE
+	Product Name: ProLiant DL360 Gen10
+	Version: Not Specified
+	Serial Number: MXQ93102WL
+	UUID: 39373638-3935-584d-5139-33313032574c
+	Wake-up Type: Power Switch
+	SKU Number: 867959-B21
+	Family: ProLiant
+
+Handle 0x008F, DMI type 226, 21 bytes
+OEM-specific Type
+	Header and Data:
+		E2 15 8F 00 38 36 37 39 35 39 4D 58 51 39 33 31
+		30 32 57 4C 01
+	Strings:
+		MXQ93102WL
+
+Handle 0x0090, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 90 00 20 00 00 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x0091, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 91 00 21 00 01 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x0092, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 92 00 22 00 02 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x0093, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 93 00 23 00 03 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x0094, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 94 00 24 00 04 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x0095, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 95 00 25 00 05 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x0096, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 96 00 26 00 06 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x0097, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 97 00 27 00 07 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x0098, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 98 00 28 00 08 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x0099, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 99 00 29 00 09 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x009A, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9A 00 2A 00 0A 02 00 00 F8 01 00 00 00 00
+		00 00 0F 00
+
+Handle 0x009B, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9B 00 2B 00 0B 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x009C, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9C 00 2C 00 0C 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x009D, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9D 00 2D 00 0D 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x009E, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9E 00 2E 00 0E 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x009F, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 9F 00 2F 00 0F 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x00A0, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A0 00 30 00 10 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x00A1, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A1 00 31 00 11 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x00A2, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A2 00 32 00 12 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x00A3, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A3 00 33 00 13 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x00A4, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A4 00 34 00 14 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x00A5, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A5 00 35 00 15 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x00A6, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A6 00 36 00 16 02 00 00 F8 01 00 00 00 00
+		00 00 10 00
+
+Handle 0x00A7, DMI type 244, 20 bytes
+OEM-specific Type
+	Header and Data:
+		F4 14 A7 00 37 00 17 01 00 00 40 00 00 00 00 00
+		00 00 00 00
+
+Handle 0x00A8, DMI type 229, 52 bytes
+OEM-specific Type
+	Header and Data:
+		E5 34 A8 00 24 57 48 45 00 C0 5D A0 00 00 00 00
+		00 10 01 00 24 53 4D 56 50 F9 BE B7 00 00 00 00
+		08 00 00 00 24 5A 58 54 00 B0 5D A0 00 00 00 00
+		A9 00 00 00
+
+Handle 0x00A9, DMI type 219, 32 bytes
+HPE ProLiant Information
+	Power Features: 0x0000fbcf
+	Omega Features: 0x0000000f
+	Misc. Features: 0x00009807
+		iCRU: Yes
+		UEFI: Yes
+
+Handle 0x00AA, DMI type 3, 21 bytes
+Chassis Information
+	Manufacturer: HPE
+	Type: Rack Mount Chassis
+	Lock: Not Present
+	Version: Not Specified
+	Serial Number: MXQ93102WL
+	Asset Tag:                                 
+	Boot-up State: Safe
+	Power Supply State: Safe
+	Thermal State: Safe
+	Security Status: Unknown
+	OEM Information: 0x00000000
+	Height: 1 U
+	Number Of Power Cords: 2
+	Contained Elements: 0
+
+Handle 0x00AB, DMI type 11, 5 bytes
+OEM Strings
+	String 1: PSF:                                                            
+	String 2: Product ID: 867959-B21
+	String 3: OEM String: 
+
+Handle 0x00AC, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 AC 00 01 00 01 02 07 02 11 0B 07 E3 07 00
+		00 00 00 00 00 00 00
+	Strings:
+		System ROM
+		v2.17 (11/07/2019)
+
+Handle 0x00AD, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 AD 00 02 00 01 02 07 02 0A 05 15 E3 07 00
+		00 00 00 00 00 00 00
+	Strings:
+		Redundant System ROM
+		v2.10 (05/21/2019)
+
+Handle 0x00AE, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 AE 00 04 00 01 02 04 10 04 00 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		Power Management Controller Firmware
+		1.0.4
+
+Handle 0x00AF, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 AF 00 05 00 01 02 02 11 00 00 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		Power Management Controller FW Bootloader
+		1.1
+
+Handle 0x00B0, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B0 00 08 00 01 00 01 2E 2E 00 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		System Programmable Logic Device
+
+Handle 0x00B1, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B1 00 09 00 01 00 0C 04 00 01 00 04 00 28
+		01 00 00 00 00 00 00
+	Strings:
+		Server Platform Services (SPS) Firmware
+
+Handle 0x00B2, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B2 00 0C 00 01 02 0A 09 06 00 0F 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		Intelligent Platform Abstraction Data
+		9.6.0 Build 15
+
+Handle 0x00B3, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B3 00 0F 00 01 02 06 14 01 00 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		NVMe Backplane 1 Firmware
+		1.20
+
+Handle 0x00B4, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B4 00 10 00 01 02 09 03 1E D5 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		Intelligent Provisioning
+		3.30.213
+
+Handle 0x00B5, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B5 00 11 00 01 00 0B 02 00 01 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		ME SPI Descriptor
+
+Handle 0x00B6, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B6 00 12 00 01 00 0C 00 00 02 00 01 00 02
+		00 00 00 00 00 00 00
+	Strings:
+		Innovation Engine (IE) Firmware
+
+Handle 0x00B7, DMI type 216, 23 bytes
+OEM-specific Type
+	Header and Data:
+		D8 17 B7 00 30 00 01 02 02 25 00 00 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		Embedded Video Controller
+		2.5
+
+Handle 0x00B8, DMI type 2, 15 bytes
+Base Board Information
+	Manufacturer: HPE
+	Product Name: ProLiant DL360 Gen10
+	Version: Not Specified
+	Serial Number: PWUFL0ARHC95D9
+	Asset Tag:                                 
+	Features:
+		Board is a hosting board
+		Board is removable
+		Board is replaceable
+	Location In Chassis: Not Specified
+	Chassis Handle: 0x0000
+	Type: Motherboard
+	Contained Object Handles: 0
+
+Handle 0x00B9, DMI type 243, 38 bytes
+OEM-specific Type
+	Header and Data:
+		F3 26 B9 00 B1 00 77 56 4E B3 DC 21 D3 45 87 2B
+		42 F7 6F EE 90 53 47 A4 B1 A6 2A 38 4F 5A 3C 10
+		86 80 0A 00 01 01
+
+Handle 0x00BA, DMI type 224, 12 bytes
+OEM-specific Type
+	Header and Data:
+		E0 0C BA 00 00 00 00 01 FE FF 00 00
+
+Handle 0x00BB, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 1
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 1
+	Bus Address: 0000:02:00.0
+
+Handle 0x00BC, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 2
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 2
+	Bus Address: 0000:02:00.1
+
+Handle 0x00BD, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 3
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 3
+	Bus Address: 0000:02:00.2
+
+Handle 0x00BE, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 4
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 4
+	Bus Address: 0000:02:00.3
+
+Handle 0x00BF, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded FlexibleLOM 1 Port 1
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 5
+	Bus Address: 0000:5d:00.0
+
+Handle 0x00C0, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded FlexibleLOM 1 Port 2
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 6
+	Bus Address: 0000:5d:00.1
+
+Handle 0x00C1, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded RAID 1
+	Type: SAS Controller
+	Status: Enabled
+	Type Instance: 1
+	Bus Address: 0000:5c:00.0
+
+Handle 0x00C2, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded Device
+	Type: Video
+	Status: Enabled
+	Type Instance: 1
+	Bus Address: 0000:01:00.1
+
+Handle 0x00C3, DMI type 9, 17 bytes
+System Slot Information
+	Designation: PCI-E Slot 1
+	Type: x16 PCI Express 3
+	Current Usage: In Use
+	Length: Long
+	ID: 1
+	Characteristics:
+		3.3 V is provided
+		PME signal is supported
+	Bus Address: 0000:12:00.0
+
+Handle 0x00C4, DMI type 9, 17 bytes
+System Slot Information
+	Designation: PCI-E Slot 2
+	Type: x8 PCI Express 3
+	Current Usage: Available
+	Length: Short
+	ID: 2
+	Characteristics:
+		3.3 V is provided
+		PME signal is supported
+	Bus Address: 0000:37:00.0
+
+Handle 0x00C5, DMI type 9, 17 bytes
+System Slot Information
+	Designation: NVMe Drive Box 2 Bay 1
+	Type: x4 PCI Express 3 SFF-8639
+	Current Usage: In Use
+	Length: Other
+	ID: 7
+	Characteristics:
+		3.3 V is provided
+		Hot-plug devices are supported
+		SMBus signal is supported
+	Bus Address: 0000:38:00.0
+
+Handle 0x00C6, DMI type 9, 17 bytes
+System Slot Information
+	Designation: NVMe Drive Box 2 Bay 2
+	Type: x4 PCI Express 3 SFF-8639
+	Current Usage: In Use
+	Length: Other
+	ID: 8
+	Characteristics:
+		3.3 V is provided
+		Hot-plug devices are supported
+		SMBus signal is supported
+	Bus Address: 0000:39:00.0
+
+Handle 0x00C7, DMI type 236, 21 bytes
+OEM-specific Type
+	Header and Data:
+		EC 15 C7 00 A0 00 00 A9 00 00 00 00 00 00 00 00
+		00 08 04 04 01
+	Strings:
+		G9 2x4 SFF BP1
+
+Handle 0x00C8, DMI type 236, 21 bytes
+OEM-specific Type
+	Header and Data:
+		EC 15 C8 00 A2 00 00 A9 00 00 00 00 00 00 00 00
+		00 08 04 04 01
+	Strings:
+		G9 2x4 SFF BP1
+
+Handle 0x00C9, DMI type 32, 11 bytes
+System Boot Information
+	Status: No errors detected
+
+Handle 0x00CA, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CA 00 BB 00 FE FF E4 14 57 16 3C 10 BE 22
+		02 00 FE FF 00 00 04 01 01 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x0)
+		NIC.LOM.1.1
+		HPE Ethernet 1Gb 4-port 331i Adapter - NIC
+		Embedded LOM 1
+
+Handle 0x00CB, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CB 00 BC 00 FE FF E4 14 57 16 3C 10 BE 22
+		02 00 FE FF 00 00 04 01 01 02 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x1)
+		NIC.LOM.1.2
+		HPE Ethernet 1Gb 4-port 331i Adapter - NIC
+		Embedded LOM 1
+
+Handle 0x00CC, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CC 00 BD 00 FE FF E4 14 57 16 3C 10 BE 22
+		02 00 FE FF 00 00 04 01 01 03 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x2)
+		NIC.LOM.1.3
+		HPE Ethernet 1Gb 4-port 331i Adapter - NIC
+		Embedded LOM 1
+
+Handle 0x00CD, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CD 00 BE 00 FE FF E4 14 57 16 3C 10 BE 22
+		02 00 FE FF 00 00 04 01 01 04 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x3)
+		NIC.LOM.1.4
+		HPE Ethernet 1Gb 4-port 331i Adapter - NIC
+		Embedded LOM 1
+
+Handle 0x00CE, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CE 00 BF 00 FE FF 86 80 72 15 3C 10 FC 22
+		02 00 FE FF 00 00 03 01 01 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x3)/Pci(0x2,0x0)/Pci(0x0,0x0)
+		NIC.FlexLOM.1.1
+		HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter - NIC
+		Embedded FlexibleLOM 1
+
+Handle 0x00CF, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 CF 00 C0 00 FE FF 86 80 72 15 3C 10 00 00
+		02 00 FE FF 00 00 03 01 01 02 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x3)/Pci(0x2,0x0)/Pci(0x0,0x1)
+		NIC.FlexLOM.1.2
+		HPE Ethernet 10Gb 562SFP+ Adapter - NIC
+		Embedded FlexibleLOM 1
+
+Handle 0x00D0, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D0 00 C1 00 FE FF 05 90 8F 02 3C 10 54 06
+		01 07 FE FF 00 00 07 09 01 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x3)/Pci(0x0,0x0)/Pci(0x0,0x0)
+		RAID.Emb.1.1
+		HPE Smart Array E208i-a SR Gen10
+		Embedded RAID 1
+
+Handle 0x00D1, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D1 00 C2 00 FE FF 2B 10 38 05 90 15 E4 00
+		03 00 FE FF 00 00 09 01 01 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x1)
+		PCI.Emb.1.1
+		Embedded Video Controller
+		Embedded Video Controller
+
+Handle 0x00D2, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D2 00 C3 00 FE FF B3 15 17 10 90 15 55 02
+		02 07 FE FF 00 00 05 0A 01 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)
+		NIC.Slot.1.1
+		HPE InfiniBand EDR 100Gb 1-port 841QSFP28 Adapter - HCA
+		Slot 1
+
+Handle 0x00D3, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D3 00 C4 00 FE FF FF FF FF FF FF FF FF FF
+		FF FF FE FF 00 00 09 0A 02 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)
+		PCI.Slot.2.1
+		Empty slot 2
+		Slot 2
+
+Handle 0x00D4, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D4 00 C5 00 FE FF 79 11 10 01 90 15 A4 02
+		01 08 FE FF 00 00 10 0F 02 01 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x2)/Pci(0x2,0x0)/Pci(0x0,0x0)
+		NVMe.DriveBay.2.1
+		NVM Express Controller
+		NVMe Drive Port 1A Box 2 Bay 1
+
+Handle 0x00D5, DMI type 203, 34 bytes
+OEM-specific Type
+	Header and Data:
+		CB 22 D5 00 C6 00 FE FF 79 11 10 01 90 15 A4 02
+		01 08 FE FF 00 00 10 0F 02 02 FF FF 01 02 03 04
+		FE FF
+	Strings:
+		PciRoot(0x2)/Pci(0x3,0x0)/Pci(0x0,0x0)
+		NVMe.DriveBay.2.2
+		NVM Express Controller
+		NVMe Drive Port 1A Box 2 Bay 2
+
+Handle 0x00D6, DMI type 234, 16 bytes
+OEM-specific Type
+	Header and Data:
+		EA 10 D6 00 FE FF C0 00 01 A0 00 00 00 00 00 00
+
+Handle 0x00D7, DMI type 234, 8 bytes
+OEM-specific Type
+	Header and Data:
+		EA 08 D7 00 FE FF 80 05
+
+Handle 0x00D8, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F D8 00 04 00 00 A0 05 00 00 01 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x2,0x0)
+
+Handle 0x00D9, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F D9 00 05 00 00 A0 00 00 00 01 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x3,0x0)
+
+Handle 0x00DA, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DA 00 05 00 00 A0 00 00 00 02 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x12,0x0)
+
+Handle 0x00DB, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DB 00 06 00 00 A0 01 00 00 01 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x4,0x0)
+
+Handle 0x00DC, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DC 00 07 00 00 A0 01 00 00 02 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x5,0x0)
+
+Handle 0x00DD, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DD 00 07 00 00 A0 01 00 00 02 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x11,0x0)
+
+Handle 0x00DE, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DE 00 08 00 00 A0 03 00 00 01 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x6,0x0)
+
+Handle 0x00DF, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F DF 00 08 00 00 A0 03 00 00 01 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x13,0x0)
+
+Handle 0x00E0, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E0 00 09 00 00 A0 00 00 00 02 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x7,0x0)
+
+Handle 0x00E1, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E1 00 09 00 00 A0 00 00 00 01 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x10,0x0)
+
+Handle 0x00E2, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E2 00 0A 00 00 A0 02 00 00 02 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0xC,0x0)
+
+Handle 0x00E3, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E3 00 0A 00 00 A0 02 00 00 02 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x14,0x0)
+
+Handle 0x00E4, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E4 00 0B 00 00 A0 02 00 00 01 00 02 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0xD,0x0)
+
+Handle 0x00E5, DMI type 238, 15 bytes
+OEM-specific Type
+	Header and Data:
+		EE 0F E5 00 0B 00 00 A0 02 00 00 01 00 03 01
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x15,0x0)
+
+Handle 0x00E6, DMI type 239, 23 bytes
+OEM-specific Type
+	Header and Data:
+		EF 17 E6 00 D8 00 24 04 00 00 09 00 01 60 26 00
+		00 00 00 01 02 03 04
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x2,0x0)
+		Unknown.Unknown.1.1
+		Unknown Device
+		Smsc USB 0
+
+Handle 0x00E7, DMI type 239, 23 bytes
+OEM-specific Type
+	Header and Data:
+		EF 17 E7 00 DF 00 DA 0B 00 00 08 06 50 29 03 00
+		00 00 00 01 02 03 04
+	Strings:
+		PciRoot(0x0)/Pci(0x14,0x0)/USB(0x13,0x0)
+		HD.SD.1.1
+		Generic USB3.0-CRW
+		Internal SD Card 1
+
+Handle 0x00E8, DMI type 242, 42 bytes
+OEM-specific Type
+	Header and Data:
+		F2 2A E8 00 D4 00 01 8E E3 8C 00 00 00 00 00 7F
+		4D 1D 00 8D 12 00 00 00 00 00 00 00 00 00 00 00
+		00 00 00 00 19 03 00 01 02 03
+	Strings:
+		6950A00DTC7R
+		VO001920KWUEB
+		HPK0
+
+Handle 0x00E9, DMI type 242, 42 bytes
+OEM-specific Type
+	Header and Data:
+		F2 2A E9 00 D5 00 01 8E E3 8C 00 00 00 00 00 7F
+		4D 1D 00 8D 12 00 00 00 00 00 00 00 00 00 00 00
+		00 00 00 00 19 03 00 01 02 03
+	Strings:
+		6950A008TC7R
+		VO001920KWUEB
+		HPK0
+
+Handle 0x00EA, DMI type 196, 15 bytes
+OEM-specific Type
+	Header and Data:
+		C4 0F EA 00 00 00 00 00 00 00 02 02 00 01 02
+
+Handle 0x00EB, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A EB 00 20 00 FF 01 01 01 00 00 00 02 06 0A
+		4A 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00EC, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A EC 00 21 00 FF 02 01 02 01 02 03 02 06 0B
+		4B 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,21010000)
+		NVDIMM.PROC.1.2
+		HPE Persistent Memory
+
+Handle 0x00ED, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A ED 00 22 00 FF 03 01 03 00 00 00 02 05 08
+		48 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00EE, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A EE 00 23 00 FF 04 01 04 01 02 03 02 05 09
+		49 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,11010000)
+		NVDIMM.PROC.1.4
+		HPE Persistent Memory
+
+Handle 0x00EF, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A EF 00 24 00 FF 05 01 05 00 00 00 02 04 06
+		46 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00F0, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F0 00 25 00 FF 06 01 06 01 02 03 02 04 07
+		47 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,01010000)
+		NVDIMM.PROC.1.6
+		HPE Persistent Memory
+
+Handle 0x00F1, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F1 00 26 00 FF 07 01 07 01 02 03 01 01 01
+		41 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,01000000)
+		NVDIMM.PROC.1.7
+		HPE Persistent Memory
+
+Handle 0x00F2, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F2 00 27 00 FF 08 01 08 00 00 00 01 01 00
+		40 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00F3, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F3 00 28 00 FF 09 01 09 01 02 03 01 02 03
+		43 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,11000000)
+		NVDIMM.PROC.1.9
+		HPE Persistent Memory
+
+Handle 0x00F4, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F4 00 29 00 FF 0A 01 0A 00 00 00 01 02 02
+		42 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00F5, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F5 00 2A 00 FF 0B 01 0B 01 02 03 01 03 05
+		45 80 89 56 05 80 89 7A 09 01
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,21000000)
+		NVDIMM.PROC.1.11
+		HPE Persistent Memory
+
+Handle 0x00F6, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F6 00 2B 00 FF 0C 01 0C 00 00 00 01 03 04
+		44 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00F7, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F7 00 2C 00 FF 01 02 0D 00 00 00 04 06 16
+		56 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00F8, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F8 00 2D 00 FF 02 02 0E 01 02 03 04 06 17
+		57 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,21110000)
+		NVDIMM.PROC.2.2
+		HPE Persistent Memory
+
+Handle 0x00F9, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A F9 00 2E 00 FF 03 02 0F 00 00 00 04 05 14
+		54 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00FA, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FA 00 2F 00 FF 04 02 10 01 02 03 04 05 15
+		55 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,11110000)
+		NVDIMM.PROC.2.4
+		HPE Persistent Memory
+
+Handle 0x00FB, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FB 00 30 00 FF 05 02 11 00 00 00 04 04 12
+		52 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00FC, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FC 00 31 00 FF 06 02 12 01 02 03 04 04 13
+		53 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,01110000)
+		NVDIMM.PROC.2.6
+		HPE Persistent Memory
+
+Handle 0x00FD, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FD 00 32 00 FF 07 02 13 01 02 03 03 01 0D
+		4D 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,01100000)
+		NVDIMM.PROC.2.7
+		HPE Persistent Memory
+
+Handle 0x00FE, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FE 00 33 00 FF 08 02 14 00 00 00 03 01 0C
+		4C 00 CE 00 00 00 00 00 00 00
+
+Handle 0x00FF, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A FF 00 34 00 FF 09 02 15 01 02 03 03 02 0F
+		4F 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,11100000)
+		NVDIMM.PROC.2.9
+		HPE Persistent Memory
+
+Handle 0x0100, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A 00 01 35 00 FF 0A 02 16 00 00 00 03 02 0E
+		4E 00 CE 00 00 00 00 00 00 00
+
+Handle 0x0101, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A 01 01 36 00 FF 0B 02 17 01 02 03 03 03 11
+		51 80 89 56 05 80 89 7A 09 02
+	Strings:
+		VenHw(B976A9D2-8772-414F-9FB0-059995F4BEAC)/AcpiPath(4,21100000)
+		NVDIMM.PROC.2.11
+		HPE Persistent Memory
+
+Handle 0x0102, DMI type 202, 26 bytes
+OEM-specific Type
+	Header and Data:
+		CA 1A 02 01 37 00 FF 0C 02 18 00 00 00 03 03 10
+		50 00 CE 00 00 00 00 00 00 00
+
+Handle 0x0103, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 03 01 F1 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0104, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 04 01 F3 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0105, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 05 01 F5 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0106, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 06 01 F0 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0107, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 07 01 EE 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0108, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 08 01 EC 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x0109, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 09 01 FD 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010A, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0A 01 FF 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010B, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0B 01 01 01 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010C, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0C 01 FC 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010D, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0D 01 FA 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010E, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0E 01 F8 00 01 02 00 FF 01 00 50 0C 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 FF FF 00 00
+	Strings:
+		01.02.00.5375
+
+Handle 0x010F, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 0F 01 CA 00 54 00 14 20 01 00 00 08 00 00
+		00 00 00 03 00 00 00 00 00 00 00 03 00 00 00 00
+		00 00 00 03 00 00 00
+	Strings:
+		20.14.54
+
+Handle 0x0110, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 10 01 D2 00 6C AA F7 00 01 00 00 00 00 00
+		00 00 00 0F 00 00 00 00 00 00 00 0B 00 00 00 00
+		00 00 00 02 00 00 00
+	Strings:
+		16.23.10.20
+
+Handle 0x0111, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 11 01 D4 00 00 00 00 00 01 00 00 00 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 03 00 00 00 00
+		00 00 00 03 00 00 00
+	Strings:
+		HPK0
+
+Handle 0x0112, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 12 01 D5 00 00 00 00 00 01 00 00 00 00 00
+		00 00 00 0B 00 00 00 00 00 00 00 03 00 00 00 00
+		00 00 00 03 00 00 00
+	Strings:
+		HPK0
+
+Handle 0x0113, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 13 01 D0 00 31 2E 39 38 01 00 00 80 00 00
+		00 00 00 03 00 00 00 00 00 00 00 03 00 00 00 00
+		00 00 00 00 00 00 00
+	Strings:
+		1.98
+
+Handle 0x0114, DMI type 240, 39 bytes
+OEM-specific Type
+	Header and Data:
+		F0 27 14 01 CE 00 03 00 04 10 01 45 4A 03 00 00
+		00 00 00 03 00 00 00 00 00 00 00 03 00 00 00 00
+		00 00 00 03 00 00 00
+	Strings:
+		10.4.3
+
+Handle 0x0115, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 1: PCI device 02:00.0, MAC address 80:30:E0:3B:E5:2C
+
+Handle 0x0116, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 2: PCI device 02:00.1, MAC address 80:30:E0:3B:E5:2D
+
+Handle 0x0117, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 3: PCI device 02:00.2, MAC address 80:30:E0:3B:E5:2E
+
+Handle 0x0118, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 4: PCI device 02:00.3, MAC address 80:30:E0:3B:E5:2F
+
+Handle 0x0119, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 1: PCI device 5d:00.0, MAC address 48:DF:37:98:DF:10
+
+Handle 0x011A, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 2: PCI device 5d:00.1, MAC address 48:DF:37:98:DF:18
+
+Handle 0x011B, DMI type 233, 41 bytes
+HPE BIOS PXE NIC PCI and MAC Information
+	NIC 1: PCI device 12:00.0, MAC address B8:83:03:80:DB:08
+
+Handle 0xFEFF, DMI type 127, 4 bytes
+End Of Table
+
