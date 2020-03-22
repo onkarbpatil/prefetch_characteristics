@@ -110,9 +110,8 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 //			}
 			long double empty=0.0;
 			long double empty2=0.0;
-/*			
+			
 			MPI_Barrier(MPI_COMM_WORLD);
-			LIKWID_MARKER_START("wr-only");
 			clock_gettime( CLOCK_MONOTONIC, &begin);
 //#pragma omp parallel for
 			for(j = 0;j < (size/sizeof(double));j++){
@@ -124,13 +123,12 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 			}
 			MPI_Barrier(MPI_COMM_WORLD);
 			clock_gettime( CLOCK_MONOTONIC, &stop);
-			LIKWID_MARKER_STOP("wr-only");
 			if(rank == 0){
 			accum = ( stop.tv_sec - begin.tv_sec ) + (long double)( stop.tv_nsec - begin.tv_nsec ) / (long double)BILLION;
 			wr_only_t += accum;
 			wr_only_avg += ((5*size*procs*1.0E-06)/(long double)(accum - empty));
 			}
-
+/*
 			MPI_Barrier(MPI_COMM_WORLD);
 			LIKWID_MARKER_START("1w4r");
 			clock_gettime( CLOCK_MONOTONIC, &begin);

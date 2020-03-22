@@ -65,7 +65,7 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 wr_dist = 32/sizeof(double);
 //while(wr_dist < 32768/sizeof(double)){
 {
-	rd_dist = 32/sizeof(double);
+	rd_dist = 4096/sizeof(double);
 //		while(rd_dist < 32768/sizeof(double)){
 	{
 				unroll = 4;
