@@ -88,3 +88,4 @@ mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKW
 mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
 mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
 mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+sh: test_tlb2.sh: No such file or directory
