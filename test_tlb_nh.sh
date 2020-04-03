@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-cd tlb-prefetch
+cd tlb-nh-prefetch
 sh test_numa.sh
 cd no_prefetch
 sh test_numa.sh
