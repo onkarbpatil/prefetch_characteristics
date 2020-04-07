@@ -1,0 +1,2 @@
+ERROR: Cannot find an executable on commandline
+./numatest_mpi 4294967296
