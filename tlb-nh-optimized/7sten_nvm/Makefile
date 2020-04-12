@@ -1,5 +1,5 @@
 CC = mpicc
-LDFLAGS = -O3 -fopenmp -fno-unroll-loops -lnuma -lm
+LDFLAGS = -O3 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
 
 numatest_mpi: test3.c numatest_mpi.c numatest_mpi.h
 		$(CC) -o $@ $^ $(LDFLAGS)
