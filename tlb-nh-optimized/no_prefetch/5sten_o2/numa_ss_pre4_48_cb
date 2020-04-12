@@ -1,2 +1,98 @@
-ERROR: Cannot find an executable on commandline
-./numatest_mpi 4294967296
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+INFO: You are running LIKWID in a cpuset with 48 CPUs. Taking given IDs as logical ID in cpuset
+0 20666.5497025674 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 139659.1611986283 0.0000000000 0.0000000000 0.0000000000
+
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
+Marker API result file does not exist. This may happen if the application has not called LIKWID_MARKER_CLOSE.
