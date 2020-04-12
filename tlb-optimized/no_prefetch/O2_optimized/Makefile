@@ -1,5 +1,5 @@
 CC = mpicc
-LDFLAGS = -O3 -prefetch-loop-arrays -fopenmp -lnuma -lm
+LDFLAGS = -O3 -fprefetch-loop-arrays -fopenmp -lnuma -lm
 
 numatest_mpi: test3.c numatest_mpi_np.c numatest_mpi.h
 		$(CC) -o $@ $^ $(LDFLAGS)
