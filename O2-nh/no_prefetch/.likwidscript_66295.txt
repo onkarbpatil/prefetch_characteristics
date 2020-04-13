@@ -1,0 +1,112 @@
+#!/bin/bash -l
+GLOBALSIZE=$OMPI_COMM_WORLD_SIZE
+GLOBALRANK=${OMPI_COMM_WORLD_RANK:-$(($GLOBALSIZE * 2))}
+export OMP_NUM_THREADS=1
+LOCALSIZE=$OMPI_COMM_WORLD_LOCAL_SIZE
+
+LOCALRANK=$OMPI_COMM_WORLD_LOCAL_RANK
+
+which `basename /usr/local/bin/likwid-perfctr` 1>/dev/null 2>&1
+if [ $? -eq 1 ]; then
+	module load likwid 1>/dev/null 2>&1
+fi
+
+if [ "$LOCALRANK" -eq 0 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 0 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 1 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 1 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 2 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 2 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 3 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 3 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 4 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 4 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 5 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 5 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 6 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 6 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 7 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 7 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 8 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 8 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 9 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 9 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 10 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 10 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 11 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 11 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 12 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 12 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 13 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 13 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 14 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 14 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 15 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 15 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 16 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 16 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 17 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 17 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 18 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 18 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 19 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 19 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 20 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 20 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 21 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 21 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 22 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 22 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 23 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 23 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 24 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 24 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 25 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 25 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 26 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 26 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 27 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 27 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 28 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 28 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 29 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 29 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 30 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 30 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 31 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 31 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 32 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 32 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 33 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 33 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 34 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 34 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 35 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 35 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 36 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 36 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 37 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 37 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 38 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 38 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 39 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 39 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 40 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 40 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 41 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 41 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 42 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 42 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 43 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 43 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 44 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 44 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 45 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 45 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 46 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 46 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+elif [ "$LOCALRANK" -eq 47 ]; then
+	/usr/local/bin/likwid-perfctr -m -s 0x0 -C 47 -g INSTR_RETIRED_ANY:FIXC0,CPU_CLK_UNHALTED_CORE:FIXC1,CPU_CLK_UNHALTED_REF:FIXC2,MEM_LOAD_RETIRED_L3_HIT:PMC0,MEM_LOAD_RETIRED_L3_MISS:PMC1,UOPS_RETIRED_ALL:PMC2 -o /home/onkarp/prefetch_characteristics/likwid-mpi/no_prefetch/.output_66295_%r_%h.csv ./numatest_mpi 4294967296
+else
+	echo "Unknown local rank $LOCALRANK"
+fi

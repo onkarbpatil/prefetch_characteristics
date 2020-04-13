@@ -1,0 +1,15 @@
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp  -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+mpicc -o numatest_mpi test3.c numatest_mpi_np.c numatest_mpi.h -O2 -fopenmp -lnuma -lm
