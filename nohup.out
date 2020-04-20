@@ -1567,3 +1567,143 @@ numatest_mpi_np.c:63:12: warning: implicit declaration of function ‘omp_get_nu
 /usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
 /usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
 make: `numatest_mpi' is up to date.
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O1 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+mpicc -o numatest_mpi test3.c numatest_mpi.c numatest_mpi.h -O2 -fopenmp -fno-unroll-loops -DLIKWID_PERFMON -lnuma -lm -L/usr/local/lib -I/usr/local/include -llikwid
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.so when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgomp.a when searching for -lgomp
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
+/usr/bin/ld: skipping incompatible /usr/local/lib/libgcc_s.so.1 when searching for libgcc_s.so.1
