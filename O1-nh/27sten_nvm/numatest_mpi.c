@@ -65,10 +65,10 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
 wr_dist = 16384/sizeof(double);
 //while(wr_dist < 32768/sizeof(double)){
 {
-	rd_dist = 2048/sizeof(double);
+	rd_dist = 32/sizeof(double);
 //		while(rd_dist < 32768/sizeof(double)){
 	{
-				unroll = 4;
+				unroll = 16;
 //				while(unroll < 128){
 				{
 	// Dynamically allocate the three arrays using "posix_memalign()"
