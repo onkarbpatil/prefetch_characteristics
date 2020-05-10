@@ -68,7 +68,7 @@ wr_dist = 16384/sizeof(double);
 	rd_dist = 4096/sizeof(double);
 //		while(rd_dist < 32768/sizeof(double)){
 	{
-				unroll = 32;
+				unroll = 64;
 //				while(unroll < 128){
 				{
 	// Dynamically allocate the three arrays using "posix_memalign()"
