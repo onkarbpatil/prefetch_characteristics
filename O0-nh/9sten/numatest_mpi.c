@@ -62,13 +62,13 @@ void numatest(int argc, char ** argv, int rank, int procs, unsigned long bytes){
   	i = 0;
 //	while(i < total_numa_nodes){
 	{
-wr_dist = 64/sizeof(double);
+wr_dist = 512/sizeof(double);
 //while(wr_dist < 32768/sizeof(double)){
 {
-	rd_dist = 1024/sizeof(double);
+	rd_dist = 8192/sizeof(double);
 //		while(rd_dist < 32768/sizeof(double)){
 	{
-				unroll = 64;
+				unroll = 8;
 //				while(unroll < 128){
 				{
 	// Dynamically allocate the three arrays using "posix_memalign()"
