@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-cd O0-h
+cd O0-nh
 sh test_numa.sh
 cd no_prefetch
 sh test_numa.sh
